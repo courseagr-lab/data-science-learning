@@ -1,3 +1,10 @@
 # 3.1-sklearn-framework
 
-> Fill in with deep-dive material from the corresponding Word document.
+## Target Pembelajaran
+
+* Menjelaskan **kenapa** scikit-learn dirancang dengan API yang seragam (bukan cuma menghafal bahwa "API-nya seragam")
+* Membedakan **parameter** vs **hyperparameter** vs **fitted attribute**
+* Menjelaskan perbedaan estimator, transformer, predictor — beserta method yang dimiliki masing-masing
+* Menjelaskan apa yang benar-benar terjadi secara internal saat `.fit()` dipanggil
+* Mengenali konvensi penamaan scikit-learn (`_` di akhir nama atribut, dsb.)
+* Menjalankan dan **membongkar isi** sebuah workflow ML sederhana, bukan sekadar menjalankannya
