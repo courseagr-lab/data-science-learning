@@ -1,0 +1,118 @@
+# config/config.yaml
+# Konfigurasi project: PO Late Delivery Risk Prediction
+
+project:
+  name: "po-late-delivery-risk"
+  random_seed: 42
+
+paths:
+  raw_data: "data/raw/po_late_delivery_dataset.csv"
+  interim_data: "data/interim/po_cleaned.csv"
+  processed_data: "data/processed/po_features.csv"
+  train_data: "data/processed/train.csv"
+  test_data: "data/processed/test.csv"
+  model_dir: "models/"
+  reports_dir: "reports/"
+  figures_dir: "reports/figures/"
+  cleaning_report: "reports/cleaning_report.md"
+  
+columns:
+  id_column: "po_id"
+  target: "is_late"
+
+  # kolom yang WAJIB di-exclude dari fitur modeling (leakage)
+  leakage_columns:
+    - "actual_delivery_date"
+    - "delay_days"
+    - "goods_receipt_status"
+
+  # kolom identitas/free-text, tidak dipakai sebagai fitur langsung
+  identifier_columns:
+    - "po_id"
+    - "supplier_id"
+    - "supplier_name"
+
+  categorical_columns:
+    - "supplier_country"
+    - "material_category"
+    - "material_criticality"
+    - "payment_terms"
+    - "shipping_method"
+
+  numerical_columns:
+    - "quantity_ordered"
+    - "unit_price_usd"
+    - "order_value_usd"
+    - "distance_km"
+    - "supplier_lead_time_avg_days"
+    - "supplier_otd_rate_historical_pct"
+    - "supplier_active_pos_count"
+
+  binary_columns:
+    - "is_peak_season"
+
+  date_columns:
+    - "order_date"
+    - "promised_delivery_date"
+    - "actual_delivery_date"
+
+
+cleaning:
+  missing_values:
+    unit_price_usd:
+      strategy: "median_by_group"
+      group_by: "material_category"
+    order_value_usd:
+      strategy: "recompute"          # quantity_ordered * unit_price_usd setelah unit_price_usd diimpute
+    supplier_otd_rate_historical_pct:
+      strategy: "flag_and_impute"    # buat kolom is_new_supplier, lalu impute
+      flag_column: "is_new_supplier"
+      impute_value: "median"
+    payment_terms:
+      strategy: "mode"
+
+  categorical_standardization:
+    strip_whitespace: true
+    case: "title"                    # "Title Case" untuk supplier_country, shipping_method
+
+  outliers:
+    quantity_ordered:
+      method: "iqr"
+      iqr_multiplier: 1.5
+      action: "cap"                  # cap ke batas atas, bukan drop
+    unit_price_usd:
+      method: "negative_value"
+      action: "treat_as_missing"     # lalu masuk ke pipeline missing value di atas
+
+  duplicates:
+    subset: "po_id"
+    keep: "first"
+
+validation:
+  max_missing_pct_allowed: 0.0       # setelah cleaning, tidak boleh ada missing di kolom fitur
+  expected_unique_countries: 10
+  expected_unique_shipping_methods: 4
+  po_id_must_be_unique: true
+
+modeling:
+  test_size: 0.2
+  cv_folds: 5
+  stratify: true                     # penting karena target imbalanced (~23% late)
+  primary_metric: "recall"
+  secondary_metrics:
+    - "pr_auc"
+    - "precision"
+    - "f1"
+  algorithms:
+    - "logistic_regression"
+    - "random_forest"
+    - "xgboost"
+
+business_thresholds:
+  peak_season_months: [3, 4, 11, 12]
+  high_risk_otd_threshold_pct: 70    # supplier di bawah ini dianggap tier berisiko
+
+split:
+  method: "time_based"          # bukan random, karena target = prediksi PO masa depan
+  date_column: "order_date"
+  split_date: "2025-01-01"      # train: sebelum tanggal ini, test: sesudahnya
