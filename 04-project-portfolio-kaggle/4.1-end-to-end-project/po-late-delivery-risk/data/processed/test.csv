@@ -1,0 +1,833 @@
+po_id,supplier_id,supplier_name,supplier_country,material_category,material_criticality,order_date,promised_delivery_date,quantity_ordered,unit_price_usd,order_value_usd,payment_terms,shipping_method,distance_km,supplier_lead_time_avg_days,supplier_otd_rate_historical_pct,supplier_active_pos_count,is_peak_season,actual_delivery_date,delay_days,goods_receipt_status,is_late
+PO-2025-002296,SUP-026,Supplier Generic 26,Indonesia,Packaging,Medium,2025-02-10,2025-02-15,663,,,Net 60,Courier,317.0,2.0,83.4,9,0,2025-02-13,-2,Complete,0
+PO-2025-002269,SUP-036,Supplier Generic 36, Indonesia ,Raw Material,High,2025-03-21,2025-03-26,1082,17.64,19086.48,COD,Land,339.5,3.4,40.0,8,1,2025-03-24,-2,Complete,0
+PO-2025-000784,SUP-043,Supplier Generic 43,Japan,Raw Material,Medium,2025-03-15,2025-04-10,340,10.61,3607.4,Net 30,Sea,5698.4,18.0,63.2,8,1,2025-04-09,-1,Complete,0
+PO-2025-001576,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Component,Medium,2025-05-31,2025-06-18,264,12.66,3342.24,Net 60,Air,2129.1,19.5,65.3,5,0,2025-06-15,-3,Complete,0
+PO-2025-002233,SUP-027,Supplier Generic 27,China,Raw Material,Medium,2025-06-25,2025-07-20,1126,14.42,16236.92,COD,Sea,3460.4,20.3,50.7,6,0,2025-07-18,-2,Complete,0
+PO-2025-001270,SUP-040,Supplier Generic 40,Japan,Component,High,2025-03-21,2025-04-05,1042,14.79,15411.18,Net 30,Air ,5795.9,17.0,67.4,7,1,2025-04-07,2,Complete,1
+PO-2025-000229,SUP-007,Global Parts Co.,USA,Component,Low,2025-03-04,2025-04-06,920,29.78,27397.6,Net 30,Sea,17837.6,30.2,59.5,4,1,2025-04-06,0,Complete,0
+PO-2025-000515,SUP-042,Supplier Generic 42, South Korea ,Component,Medium,2025-02-26,2025-03-20,723,7.35,5314.05,Net 30,Sea,5340.8,15.4,64.2,4,0,2025-03-17,-3,Complete,0
+PO-2025-001293,SUP-040,Supplier Generic 40,Japan,Raw Material,High,2025-02-01,2025-02-21,408,3.63,1481.04,Net 30,Sea,6907.3,17.0,67.4,4,0,2025-02-18,-3,Complete,0
+PO-2025-001457,SUP-050,Supplier Generic 50,Indonesia,Component,Low,2025-01-17,2025-01-19,2755,7.5,20662.5,,Land,363.8,6.2,78.9,4,0,2025-01-19,0,Complete,0
+PO-2025-001685,SUP-001,PT Sinar Logam Jaya,South Korea,Packaging,High,2025-06-09,2025-07-06,5840,4.69,27389.6,Net 30,Sea,4210.6,18.3,85.9,8,0,2025-07-05,-1,Complete,0
+PO-2025-002071,SUP-015,KL Electronic Parts,China,Raw Material,Medium,2025-04-15,2025-05-11,661,4.46,2948.06,Net 60,Sea,3155.3,19.7,79.7,5,1,2025-05-16,5,Complete,1
+PO-2025-000528,SUP-025,Supplier Generic 25,South Korea,Raw Material,High,2025-01-14,2025-02-06,491,7.84,3849.44,Net 60,Sea,4682.1,22.0,76.1,3,0,2025-02-04,-2,Complete,0
+PO-2025-001222,SUP-028,Supplier Generic 28,Indonesia,Raw Material,Medium,2025-04-03,2025-04-07,586,12.62,7395.32,Net 60,Land,353.3,4.4,83.4,3,1,2025-04-04,-3,Complete,0
+PO-2025-000901,SUP-040,Supplier Generic 40,Japan,Raw Material,Medium,2025-05-25,2025-06-16,757,21.91,16585.87,Net 60,Sea,5311.3,17.0,67.4,7,0,2025-06-21,5,Complete,1
+PO-2025-001873,SUP-049,Supplier Generic 49,japan,Component,Low,2025-05-01,2025-05-25,267,5.15,1375.05,Net 30,Sea,6115.4,20.2,40.0,7,0,2025-05-24,-1,Complete,0
+PO-2025-002440,SUP-043,Supplier Generic 43,Japan,Component,Low,2025-06-22,2025-07-15,1512,36.75,55566.0,Net 30,Sea,5133.7,18.0,63.2,6,0,2025-07-14,-1,Complete,0
+PO-2025-002397,SUP-003,PT Baja Presisi Indonesia,Thailand,Component,High,2025-06-18,2025-07-06,460,,,Net 60,Sea,1769.5,14.9,78.5,4,0,2025-07-06,0,Complete,0
+PO-2025-001774,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Raw Material,Low,2025-02-20,2025-02-26,152,4.2,638.4,Net 60,Land,419.2,6.3,51.1,7,0,2025-02-24,-2,Complete,0
+PO-2025-000955,SUP-039,Supplier Generic 39,indonesia,Raw Material,Low,2025-05-04,2025-05-06,218,25.4,5537.2,Net 60,Land,324.3,2.9,79.9,6,0,2025-05-03,-3,Complete,0
+PO-2025-002154,SUP-011,Tokyo Machining Corp,China,Raw Material,Medium,2025-06-12,2025-07-03,1387,7.57,10499.59,Net 30,Sea,3124.4,17.8,67.1,6,0,2025-07-03,0,Complete,0
+PO-2025-000488,SUP-039,Supplier Generic 39,Indonesia,Packaging,Medium,2025-03-22,2025-03-24,1098,9.95,10925.1,Net 60,Courier,327.6,2.9,79.9,8,1,2025-03-24,0,Complete,0
+PO-2025-001609,SUP-038,Supplier Generic 38,China,Packaging,Medium,2025-06-16,2025-07-11,441,37.09,16356.69,Net 60,Sea,2473.4,19.9,70.2,7,0,2025-07-17,6,Complete,1
+PO-2025-002298,SUP-037,Supplier Generic 37,Indonesia,Component,Medium,2025-03-15,2025-03-24,933,11.02,10281.66,Net 30,Courier,341.5,9.5,88.9,5,1,2025-03-23,-1,Complete,0
+PO-2025-001045,SUP-020,PT Wijaya Sparepart Utama,Germany,Component,Medium,2025-03-01,2025-03-30,201,22.61,4544.61,COD,Sea,11510.7,23.3,57.9,10,1,2025-03-28,-2,Complete,0
+PO-2025-000367,SUP-048,Supplier Generic 48,Indonesia,Raw Material,Low,2025-03-18,2025-03-22,2060,9.53,19631.8,Net 30,Courier,315.2,5.9,96.4,6,1,2025-03-20,-2,Complete,0
+PO-2025-001792,SUP-031,Supplier Generic 31,USA,Component,Low,2025-03-06,2025-04-15,2426,21.31,51698.06,Net 30,Sea,17363.7,30.5,89.8,5,1,2025-04-15,0,Complete,0
+PO-2025-002414,SUP-040,Supplier Generic 40,Japan,Packaging,Medium,2025-02-04,2025-02-24,212,10.97,2325.64,Net 30,Sea,5965.3,17.0,67.4,5,0,2025-02-22,-2,Complete,0
+PO-2025-002477,SUP-034,Supplier Generic 34,China,Raw Material,Medium,2025-04-17,2025-05-08,304,22.21,6751.84,Net 30,Sea,3027.9,17.8,81.6,7,1,2025-05-16,8,Complete,1
+PO-2025-001727,SUP-001,PT Sinar Logam Jaya,South Korea,Raw Material,High,2025-06-23,2025-07-13,272,11.75,3196.0,Net 30,Sea,4411.5,18.3,85.9,3,0,2025-07-10,-3,Complete,0
+PO-2025-002090,SUP-049,Supplier Generic 49,Japan,Packaging,Low,2025-05-07,2025-06-04,105,17.11,1796.55,Net 60,Sea ,5842.1,20.2,40.0,9,0,2025-06-02,-2,Complete,0
+PO-2025-001136,SUP-013,Bangkok Packaging Solutions,Germany,Component,Medium,2025-03-27,2025-04-22,430,29.46,12667.8,Net 30,Sea,10543.9,21.0,53.4,4,1,2025-04-21,-1,Complete,0
+PO-2025-001335,SUP-009,Hanoi Component Supply,Indonesia,Component,Medium,2025-05-22,2025-05-31,203,9.04,1835.12,Net 60,Courier,331.3,7.6,90.8,2,0,2025-05-29,-2,Complete,0
+PO-2025-001103,SUP-007,Global Parts Co.,USA,Packaging,Low,2025-01-06,2025-02-08,1591,8.83,14048.53,Net 60,Sea,18347.5,30.2,59.5,4,0,2025-02-05,-3,Complete,0
+PO-2025-001513,SUP-015,KL Electronic Parts,China,Component,Medium,2025-01-10,2025-02-10,951,31.37,29832.87,Net 90,Sea,2885.4,19.7,79.7,11,0,2025-02-08,-2,Complete,0
+PO-2025-000429,SUP-017,PT Prima Rekayasa Komponen, Vietnam ,Raw Material,Medium,2025-03-17,2025-04-01,1406,4.78,6720.68,Net 30,Air,3124.7,19.5,65.3,9,1,2025-03-31,-1,Complete,0
+PO-2025-000758,SUP-011,Tokyo Machining Corp,China,Packaging,Medium,2025-02-21,2025-03-18,170,7.4,1258.0,Net 60,Sea,3658.1,17.8,67.1,10,0,2025-03-18,0,Complete,0
+PO-2025-001941,SUP-003,PT Baja Presisi Indonesia,Thailand,Raw Material,High,2025-03-07,2025-03-25,750,33.76,25320.0,Net 60,Sea,2419.1,14.9,78.5,7,1,2025-04-01,7,Complete,1
+PO-2025-001497,SUP-031,Supplier Generic 31,USA,Packaging,Medium,2025-06-16,2025-07-23,1615,3.28,5297.2,Net 30,Sea,15284.4,30.5,89.8,3,0,2025-07-23,0,Complete,0
+PO-2025-000633,SUP-037,Supplier Generic 37,Indonesia,Packaging,Low,2025-04-11,2025-04-21,3231,6.77,21873.87,Net 30,Courier,350.7,9.5,88.9,6,1,2025-04-24,3,Complete,1
+PO-2025-000018,SUP-039,Supplier Generic 39,Indonesia,Component,Medium,2025-04-17,2025-04-19,382,28.7,10963.4,Net 30,Courier,371.1,2.9,79.9,7,1,2025-04-16,-3,Complete,0
+PO-2025-000937,SUP-003,PT Baja Presisi Indonesia,Thailand,Packaging,Medium,2025-01-23,2025-02-09,725,8.25,5981.25,Net 60,sea,1776.7,14.9,78.5,4,0,2025-02-07,-2,Complete,0
+PO-2025-001571,SUP-046,Supplier Generic 46,South Korea,Component,High,2025-02-19,2025-03-18,441,5.62,2478.42,COD,Sea,4929.9,20.8,93.5,4,0,2025-03-17,-1,Complete,0
+PO-2025-000288,SUP-045,Supplier Generic 45,South Korea,MRO,High,2025-03-05,2025-03-25,419,12.68,5312.92,Net 30,Air,4641.2,22.5,72.4,1,1,2025-03-25,0,Complete,0
+PO-2025-000726,SUP-026,Supplier Generic 26,Indonesia,Raw Material,Low,2025-01-23,2025-01-25,8530,13.49,115069.7,Net 30,Courier,333.9,2.0,83.4,2,0,2025-01-23,-2,Complete,0
+PO-2025-001355,SUP-010,Deutsche Praezisionsteile GmbH,China,Raw Material,Low,2025-02-10,2025-03-04,241,17.03,4104.23,Net 30,Sea ,3081.9,17.0,64.2,5,0,2025-03-04,0,Complete,0
+PO-2025-000481,SUP-036,Supplier Generic 36,Indonesia,Packaging,Medium,2025-02-19,2025-02-21,298,6.15,1832.7,Net 30,Land,355.1,3.4,40.0,9,0,2025-02-20,-1,Complete,0
+PO-2025-000593,SUP-021,Supplier Generic 21,USA,Raw Material,Medium,2025-05-15,2025-06-17,730,7.16,5226.8,Net 30,Sea,16288.1,27.5,76.2,4,0,2025-06-15,-2,Complete,0
+PO-2025-000204,SUP-032,Supplier Generic 32, India ,Component,Medium,2025-06-20,2025-07-08,989,6.6,6527.4,Net 30,Air,4595.2,19.2,90.1,6,0,2025-07-06,-2,Complete,0
+PO-2025-000404,SUP-025,Supplier Generic 25,South Korea,MRO,Medium,2025-02-02,2025-03-03,438,30.63,13415.94,Net 30,Sea,5875.1,22.0,76.1,5,0,2025-03-10,7,Complete,1
+PO-2025-000655,SUP-045,Supplier Generic 45,South Korea,MRO,High,2025-01-14,2025-02-14,899,12.59,11318.41,Net 90,Sea,5276.9,22.5,72.4,6,0,2025-02-13,-1,Complete,0
+PO-2025-000764,SUP-021,Supplier Generic 21,USA,Packaging,Low,2025-04-29,2025-05-27,4330,3.33,14418.9,Net 30,Air,18055.2,27.5,76.2,4,1,2025-05-24,-3,Complete,0
+PO-2025-000178,SUP-050,Supplier Generic 50,indonesia,Component,Low,2025-04-24,2025-05-02,339,39.48,13383.72,Net 90,Land,329.5,6.2,78.9,8,1,2025-05-01,-1,Complete,0
+PO-2025-001556,SUP-016,PT Cahaya Logistik Industri,Indonesia,Component,Medium,2025-02-21,2025-03-03,2731,56.96,155557.76,Net 60,Land,362.1,10.2,67.7,7,0,2025-03-01,-2,Complete,0
+PO-2025-000121,SUP-041,Supplier Generic 41,China,Component,Low,2025-06-02,2025-06-29,104,5.72,594.88,Net 60,Sea,3632.5,18.1,,4,0,2025-06-28,-1,Complete,0
+PO-2025-002347,SUP-020,PT Wijaya Sparepart Utama,Germany,Component,Low,2025-04-06,2025-04-29,599,21.98,13166.02,Net 30,Air,11760.6,23.3,57.9,7,1,2025-05-13,14,Complete,1
+PO-2025-000522,SUP-007,Global Parts Co.,USA,Raw Material,Medium,2025-03-03,2025-04-06,310,3.23,1001.3,Net 30,Sea,13541.5,30.2,59.5,9,1,2025-04-10,4,Complete,1
+PO-2025-001814,SUP-029,Supplier Generic 29,Indonesia,Raw Material,Low,2025-03-11,2025-03-22,796,15.97,12712.12,Net 90,Land,421.8,8.5,40.0,6,1,2025-04-05,14,Complete,1
+PO-2025-001028,SUP-002,PT Mitra Komponen Nusantara,China,Component,High,2025-03-22,2025-04-17,478,4.71,2251.38,Net 30,Sea,3181.4,18.5,59.4,10,1,2025-04-15,-2,Complete,0
+PO-2025-000814,SUP-046,Supplier Generic 46,South Korea,Raw Material,Low,2025-05-02,2025-05-20,603,37.59,22666.77,Net 60,Air,5765.1,20.8,93.5,7,0,2025-05-18,-2,Partial,0
+PO-2025-000059,SUP-043,Supplier Generic 43,Japan,Packaging,Medium,2025-05-26,2025-06-13,255,38.77,9886.35,Net 30,Air,5709.3,18.0,63.2,5,0,2025-06-26,13,Complete,1
+PO-2025-002213,SUP-010,Deutsche Praezisionsteile GmbH,CHINA,Raw Material,High,2025-02-13,2025-02-28,1207,7.06,8521.42,Net 30,Air,3087.5,17.0,64.2,6,0,2025-02-28,0,Complete,0
+PO-2025-000548,SUP-042,Supplier Generic 42,South Korea,Packaging,Low,2025-03-29,2025-04-19,186,26.59,4945.74,Net 30,Sea,5170.1,15.4,64.2,3,1,2025-04-17,-2,Complete,0
+PO-2025-001936,SUP-044,Supplier Generic 44,China,Packaging,Low,2025-04-13,2025-05-06,525,9.22,4840.5,COD,Sea ,2845.4,18.9,76.0,6,1,2025-05-05,-1,Complete,0
+PO-2025-000518,SUP-038,Supplier Generic 38,China,Raw Material,Low,2025-06-02,2025-06-28,757,22.44,16987.08,Net 30,sea,2734.6,19.9,70.2,6,0,2025-06-27,-1,Complete,0
+PO-2025-000283,SUP-049,Supplier Generic 49,Japan,Component,Low,2025-01-06,2025-02-03,407,9.25,3764.75,Net 30,Sea,6264.8,20.2,40.0,10,0,2025-02-14,11,Complete,1
+PO-2025-001247,SUP-008,Shenzhen Precision Metals,South Korea,Raw Material,Medium,2025-01-19,2025-02-06,891,33.24,29616.84,COD,Sea,5573.4,14.4,61.0,5,0,2025-02-03,-3,Complete,0
+PO-2025-002095,SUP-026,Supplier Generic 26, Indonesia ,Component,Low,2025-04-04,2025-04-07,2135,27.7,59139.5,Net 60,Land,294.3,2.0,83.4,4,1,2025-04-06,-1,Complete,0
+PO-2025-002332,SUP-039,Supplier Generic 39,Indonesia,Packaging,Medium,2025-02-23,2025-02-25,721,,,Net 30,Courier,318.4,2.9,79.9,3,0,2025-02-24,-1,Complete,0
+PO-2025-001699,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Raw Material,Medium,2025-05-03,2025-06-03,1014,9.28,9409.92,Net 30,Sea,5363.4,24.2,59.8,3,0,2025-06-02,-1,Complete,0
+PO-2025-000706,SUP-050,Supplier Generic 50,Indonesia,Raw Material,Medium,2025-02-21,2025-03-04,1626,43.27,70357.02,Net 60,land,396.6,6.2,78.9,5,0,2025-03-09,5,Complete,1
+PO-2025-000791,SUP-046,Supplier Generic 46,South Korea,MRO,Low,2025-02-19,2025-03-16,424,2.87,1216.88,Net 30,Sea,4500.7,20.8,93.5,8,0,2025-03-14,-2,Complete,0
+PO-2025-002413,SUP-026,Supplier Generic 26,Indonesia,Component,Medium,2025-04-07,2025-04-10,1543,32.09,49514.87,Net 60,Land,337.2,2.0,83.4,4,1,2025-04-09,-1,Complete,0
+PO-2025-001646,SUP-038,Supplier Generic 38,China,MRO,Medium,2025-03-26,2025-04-19,3133,4.88,15289.04,Net 30,Sea,3198.5,19.9,70.2,10,1,2025-04-18,-1,Complete,0
+PO-2025-000206,SUP-029,Supplier Generic 29, Indonesia ,Component,Low,2025-06-06,2025-06-16,3595,29.43,105800.85,Net 60,Land,312.9,8.5,40.0,6,0,2025-06-30,14,Complete,1
+PO-2025-002374,SUP-024,Supplier Generic 24,Thailand,Component,Medium,2025-02-18,2025-03-05,204,27.41,5591.64,Net 60,Sea,2363.1,11.9,99.0,4,0,2025-03-03,-2,Complete,0
+PO-2025-001148,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Raw Material,High,2025-01-22,2025-02-14,1097,38.27,41982.19,Net 30,Air,5301.5,24.2,59.8,6,0,2025-02-12,-2,Complete,0
+PO-2025-002253,SUP-036,Supplier Generic 36,Indonesia,Packaging,High,2025-03-17,2025-03-19,1107,3.29,3642.03,Net 90,Land,343.3,3.4,40.0,7,1,2025-03-19,0,Complete,0
+PO-2025-000048,SUP-047,Supplier Generic 47,China,Component,Low,2025-05-16,2025-05-30,240,13.22,3172.8,Net 30,Sea,3122.4,11.1,49.4,7,0,2025-06-13,14,Complete,1
+PO-2025-001838,SUP-010,Deutsche Praezisionsteile GmbH,China,Raw Material,High,2025-03-01,2025-03-24,3729,11.22,41839.38,Net 90,Sea,3243.2,17.0,64.2,9,1,2025-04-03,10,Complete,1
+PO-2025-002246,SUP-022,Supplier Generic 22,China,Packaging,Medium,2025-05-27,2025-06-16,2056,10.79,22184.24,Net 90,Sea,2817.6,17.1,99.0,1,0,2025-06-14,-2,Complete,0
+PO-2025-000112,SUP-045,Supplier Generic 45,South Korea,Raw Material,Low,2025-02-01,2025-02-17,2858,12.89,36839.62,Net 30,Air,5619.2,22.5,72.4,5,0,2025-02-15,-2,Complete,0
+PO-2025-000120,SUP-039,Supplier Generic 39,Indonesia,Raw Material,Medium,2025-01-20,2025-01-24,623,31.06,19350.38,Net 30,Land ,382.4,2.9,79.9,4,0,2025-01-21,-3,Complete,0
+PO-2025-000768,SUP-006,PT Sumber Teknik Mandiri,India,Packaging,High,2025-06-27,2025-07-12,166,,,Net 60,Air,6007.1,18.0,87.2,5,0,2025-07-10,-2,Complete,0
+PO-2025-000757,SUP-023,Supplier Generic 23,India,Packaging,Low,2025-03-12,2025-04-03,164,5.42,888.88,Net 60,Sea,4295.5,17.2,48.9,6,1,2025-04-14,11,Complete,1
+PO-2025-000926,SUP-003,PT Baja Presisi Indonesia,Thailand,Component,Low,2025-01-01,2025-01-24,1289,7.0,9023.0,Net 60,Sea,2572.5,14.9,78.5,6,0,2025-01-22,-2,Complete,0
+PO-2025-001066,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Raw Material,High,2025-04-25,2025-05-22,649,4.66,3024.34,Net 30,Sea,1897.7,19.5,65.3,6,1,2025-05-20,-2,Complete,0
+PO-2025-001253,SUP-042,Supplier Generic 42,South Korea,Component,High,2025-05-23,2025-06-05,229,6.85,1568.65,Net 60,Air,4641.2,15.4,64.2,8,0,2025-06-14,9,Complete,1
+PO-2025-002007,SUP-006,PT Sumber Teknik Mandiri,India,Raw Material,Low,2025-03-16,2025-04-02,1070,18.43,19720.1,COD,Air,4273.1,18.0,87.2,7,1,2025-03-30,-3,Complete,0
+PO-2025-000330,SUP-008,Shenzhen Precision Metals,South Korea,Raw Material,Medium,2025-05-29,2025-06-11,652,29.03,18927.56,Net 30,Air,5688.8,14.4,61.0,5,0,2025-06-19,8,Complete,1
+PO-2025-001543,SUP-001,PT Sinar Logam Jaya,South Korea,Component,Medium,2025-05-22,2025-06-13,270,32.54,8785.8,Net 30,Sea,5288.2,18.3,85.9,3,0,2025-06-13,0,Complete,0
+PO-2025-001722,SUP-034,Supplier Generic 34,China,Raw Material,Medium,2025-01-20,2025-02-14,426,11.0,4686.0,Net 30,sea,3392.2,17.8,81.6,6,0,2025-02-19,5,Complete,1
+PO-2025-001272,SUP-011,Tokyo Machining Corp,china,Raw Material,Low,2025-06-23,2025-07-09,242,20.54,4970.68,Net 30,Air,2589.4,17.8,67.1,8,0,2025-07-09,0,Complete,0
+PO-2025-002105,SUP-028,Supplier Generic 28,Indonesia,Packaging,High,2025-06-06,2025-06-12,2158,7.95,17156.1,Net 30,Courier,336.7,4.4,83.4,3,0,2025-06-11,-1,Complete,0
+PO-2025-001858,SUP-020,PT Wijaya Sparepart Utama, Germany ,Packaging,Medium,2025-02-28,2025-03-24,551,16.6,9146.6,Net 30,Air,10660.6,23.3,57.9,5,0,2025-03-31,7,Partial,1
+PO-2025-001662,SUP-007,Global Parts Co.,USA,MRO,Low,2025-04-15,2025-05-22,2450,63.52,155624.0,Net 90,Sea,14526.6,30.2,59.5,5,1,2025-05-23,1,Complete,1
+PO-2025-001324,SUP-023,Supplier Generic 23,India,Component,Medium,2025-03-20,2025-04-09,897,12.8,11481.6,Net 60,Sea,5114.3,17.2,48.9,4,1,2025-04-06,-3,Complete,0
+PO-2025-001546,SUP-050,Supplier Generic 50,Indonesia,Raw Material,Medium,2025-01-16,2025-01-26,2074,2.76,5724.24,Net 30,Land,362.0,6.2,78.9,5,0,2025-01-24,-2,Complete,0
+PO-2025-002319,SUP-005,PT Anugerah Kemasan,Indonesia,Packaging,Medium,2025-04-04,2025-04-06,1393,26.85,37402.05,,Land,350.7,2.0,98.1,5,1,2025-04-03,-3,Complete,0
+PO-2025-002076,SUP-008,Shenzhen Precision Metals,South Korea,Component,Low,2025-04-14,2025-05-05,173,29.78,5151.94,Net 60,Sea,6386.3,14.4,61.0,9,1,2025-05-06,1,Complete,1
+PO-2025-000826,SUP-013,Bangkok Packaging Solutions,Germany,MRO,Low,2025-06-23,2025-07-16,1022,6.77,6918.94,Net 60,sea,11053.8,21.0,53.4,6,0,2025-07-13,-3,Complete,0
+PO-2025-002263,SUP-015,KL Electronic Parts,China,Raw Material,Medium,2025-02-17,2025-03-13,1591,28.51,45359.41,Net 30,Sea,3396.3,19.7,79.7,5,0,2025-03-16,3,Complete,1
+PO-2025-000615,SUP-023,Supplier Generic 23,India,Raw Material,Medium,2025-05-23,2025-06-11,167,15.16,2531.72,Net 60,Sea,5392.3,17.2,48.9,5,0,2025-06-11,0,Complete,0
+PO-2025-000761,SUP-025,Supplier Generic 25,South Korea,MRO,High,2025-02-17,2025-03-19,387,12.14,4698.18,Net 30,Sea ,5727.4,22.0,76.1,6,0,2025-03-19,0,Partial,0
+PO-2025-000315,SUP-025,Supplier Generic 25,South Korea,MRO,Medium,2025-05-10,2025-06-05,381,11.08,4221.48,Net 90,Sea,5176.7,22.0,76.1,4,0,2025-06-05,0,Complete,0
+PO-2025-002266,SUP-004,PT Karya Plastik Sejahtera,Japan,Component,High,2025-03-12,2025-04-07,263,50.87,13378.81,Net 90,Sea,4580.0,18.9,59.3,13,1,2025-04-12,5,Complete,1
+PO-2025-001326,SUP-045,Supplier Generic 45,South Korea,Component,High,2025-05-24,2025-06-20,89,9.32,829.48,Net 90,Sea,5133.3,22.5,72.4,8,0,2025-06-26,6,Complete,1
+PO-2025-001088,SUP-013,Bangkok Packaging Solutions,Germany,Raw Material,Low,2025-01-23,2025-02-18,4470,3.17,14169.9,Net 30,Sea,11459.4,21.0,53.4,5,0,2025-02-16,-2,Complete,0
+PO-2025-001766,SUP-044,Supplier Generic 44,China,Component,Low,2025-02-12,2025-03-04,1459,39.11,57061.49,Net 60,Sea,2893.6,18.9,76.0,2,0,2025-03-03,-1,Complete,0
+PO-2025-002343,SUP-020,PT Wijaya Sparepart Utama,Germany,Packaging,Low,2025-05-04,2025-06-01,1120,18.36,20563.2,Net 30,Sea,12560.9,23.3,57.9,4,0,2025-05-30,-2,Complete,0
+PO-2025-001510,SUP-031,Supplier Generic 31,USA,Component,Low,2025-02-27,2025-04-01,2230,11.87,26470.1,Net 30,Sea,13620.5,30.5,89.8,9,0,2025-03-30,-2,Complete,0
+PO-2025-001608,SUP-033,Supplier Generic 33,China,Raw Material,Medium,2025-01-06,2025-01-22,2755,16.03,44162.65,Net 30,Sea,3214.6,13.3,81.7,5,0,2025-01-21,-1,Complete,0
+PO-2025-002106,SUP-042,Supplier Generic 42,South Korea,MRO,Low,2025-05-18,2025-05-29,736,39.87,29344.32,Net 60,Air,4513.5,15.4,64.2,4,0,2025-05-27,-2,Complete,0
+PO-2025-001955,SUP-040,Supplier Generic 40,Japan,MRO,High,2025-01-05,2025-01-30,247,23.84,5888.48,Net 90,Sea,4937.7,17.0,67.4,5,0,2025-01-27,-3,Complete,0
+PO-2025-000966,SUP-001,PT Sinar Logam Jaya,South Korea,Component,Low,2025-05-08,2025-05-26,472,3.43,1618.96,Net 60,Air,5311.8,18.3,85.9,5,0,2025-05-26,0,Complete,0
+PO-2025-000917,SUP-005,PT Anugerah Kemasan,Indonesia,Raw Material,Medium,2025-03-01,2025-03-05,1019,11.69,11912.11,Net 30,Land,294.2,2.0,98.1,2,1,2025-03-04,-1,Complete,0
+PO-2025-000487,SUP-050,Supplier Generic 50,Indonesia,MRO,High,2025-04-30,2025-05-04,877,15.53,13619.81,Net 60,Courier,345.9,6.2,78.9,7,1,2025-05-01,-3,Pending,0
+PO-2025-002188,SUP-031,Supplier Generic 31,USA,Component,Medium,2025-06-13,2025-07-22,310,23.26,7210.6,Net 90,Sea,16825.8,30.5,89.8,7,0,2025-07-20,-2,Complete,0
+PO-2025-001249,SUP-041,Supplier Generic 41, China ,Packaging,Low,2025-05-28,2025-06-16,263,22.62,5949.06,Net 30,Air,3277.8,18.1,43.3,6,0,2025-06-15,-1,Complete,0
+PO-2025-001283,SUP-015,KL Electronic Parts,China,Packaging,Medium,2025-02-04,2025-02-20,1668,38.0,63384.0,Net 30,air,3120.8,19.7,79.7,7,0,2025-02-20,0,Complete,0
+PO-2025-001263,SUP-003,PT Baja Presisi Indonesia,Thailand,Packaging,High,2025-05-26,2025-06-15,5407,17.96,97109.72,Net 60,Sea,2109.1,14.9,78.5,8,0,2025-06-13,-2,Complete,0
+PO-2025-002180,SUP-027,Supplier Generic 27,China,Component,Low,2025-06-28,2025-07-24,1606,2.72,4368.32,Net 30,Sea,3461.6,20.3,50.7,8,0,2025-07-27,3,Complete,1
+PO-2025-001072,SUP-005,PT Anugerah Kemasan,Indonesia,MRO,Medium,2025-02-07,2025-02-12,467,25.84,12067.28,COD,Land,329.8,2.0,98.1,1,0,2025-02-10,-2,Complete,0
+PO-2025-001629,SUP-030,Supplier Generic 30,Japan,Raw Material,Low,2025-03-11,2025-04-06,1029,23.1,23769.9,Net 60,Sea,6091.0,22.3,78.3,12,1,2025-04-16,10,Complete,1
+PO-2025-001905,SUP-043,Supplier Generic 43,japan,Packaging,Low,2025-01-16,2025-02-07,1534,70.5,108147.0,,Sea,5503.1,18.0,63.2,9,0,2025-02-13,6,Complete,1
+PO-2025-001415,SUP-036,Supplier Generic 36,Indonesia,Component,Medium,2025-05-01,2025-05-05,1317,7.0,9219.0,Net 60,Land,236.1,3.4,40.0,11,0,2025-05-04,-1,Complete,0
+PO-2025-000661,SUP-049,Supplier Generic 49,Japan,Component,High,2025-06-18,2025-07-05,122,17.58,2144.76,Net 30,Air,5696.1,20.2,40.0,9,0,2025-07-02,-3,Complete,0
+PO-2025-001559,SUP-009,Hanoi Component Supply,Indonesia,Raw Material,Low,2025-03-22,2025-03-30,592,9.08,5375.36,Net 30,Land,394.7,7.6,90.8,3,1,2025-04-13,14,Complete,1
+PO-2025-002394,SUP-012,Seoul Alloy Industries,Malaysia,Packaging,Medium,2025-06-03,2025-06-13,1917,9.56,18326.52,Net 30,sea,1963.6,6.8,96.6,2,0,2025-06-12,-1,Complete,0
+PO-2025-001427,SUP-049,Supplier Generic 49,Japan,Component,Low,2025-05-10,2025-06-03,223,7.24,1614.52,Net 30,sea,6009.9,20.2,40.0,6,0,2025-05-31,-3,Complete,0
+PO-2025-001207,SUP-042,Supplier Generic 42,South Korea,Packaging,Medium,2025-02-08,2025-02-22,6365,17.11,108905.15,Net 60,Air,5667.0,15.4,64.2,8,0,2025-02-20,-2,Complete,0
+PO-2025-000500,SUP-006,PT Sumber Teknik Mandiri,India,Component,Medium,2025-05-30,2025-06-16,1052,5.8,6101.6,Net 90,Air,5186.5,18.0,87.2,4,0,2025-06-14,-2,Complete,0
+PO-2025-001945,SUP-022,Supplier Generic 22,China,Raw Material,Medium,2025-03-10,2025-04-01,847,7.31,6191.57,COD,Sea,3384.3,17.1,99.0,2,1,2025-03-29,-3,Complete,0
+PO-2025-000813,SUP-002,PT Mitra Komponen Nusantara,China,Raw Material,Medium,2025-02-14,2025-03-09,711,3.06,2175.66,Net 30,Sea,3030.6,18.5,59.4,4,0,2025-03-08,-1,Complete,0
+PO-2025-001455,SUP-002,PT Mitra Komponen Nusantara,China,Packaging,Low,2025-03-18,2025-04-02,770,,,Net 30,Air ,2607.4,18.5,,9,1,2025-03-30,-3,Complete,0
+PO-2025-002251,SUP-013,Bangkok Packaging Solutions,Germany,MRO,High,2025-01-18,2025-02-15,341,8.18,2789.38,Net 30,Sea,8500.3,21.0,53.4,7,0,2025-02-12,-3,Complete,0
+PO-2025-001565,SUP-039,Supplier Generic 39,Indonesia,Raw Material,Medium,2025-04-30,2025-05-04,281,12.82,3602.42,,Courier,337.6,2.9,79.9,7,1,2025-05-03,-1,Complete,0
+PO-2025-000347,SUP-008,Shenzhen Precision Metals,South Korea,Component,Low,2025-06-24,2025-07-17,411,8.94,3674.34,Net 60,Sea,4889.4,14.4,61.0,3,0,2025-07-18,1,Complete,1
+PO-2025-001069,SUP-037,Supplier Generic 37,Indonesia,Component,Low,2025-05-09,2025-05-19,912,17.99,16406.88,Net 90,Land,383.2,9.5,88.9,5,0,2025-05-19,0,Complete,0
+PO-2025-002159,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,Low,2025-03-18,2025-04-12,305,,,COD,Sea,10051.7,23.3,,5,1,2025-04-15,3,Complete,1
+PO-2025-000973,SUP-047,Supplier Generic 47,China,MRO,High,2025-05-27,2025-06-12,3666,4.09,14993.94,Net 60,Sea,3498.0,11.1,49.4,8,0,2025-06-10,-2,Complete,0
+PO-2025-002314,SUP-045,Supplier Generic 45,South Korea,MRO,Low,2025-01-06,2025-02-02,1102,34.78,38327.56,Net 90,Sea,5659.4,22.5,72.4,6,0,2025-02-09,7,Complete,1
+PO-2025-002320,SUP-048,Supplier Generic 48,Indonesia,Raw Material,Low,2025-04-08,2025-04-13,607,15.78,9578.46,Net 30,Land,319.4,5.9,96.4,6,1,2025-04-12,-1,Complete,0
+PO-2025-000336,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Raw Material,Low,2025-02-11,2025-03-09,499,18.65,9306.35,Net 60,Sea,5137.9,24.2,59.8,7,0,2025-03-06,-3,Complete,0
+PO-2025-001370,SUP-033,Supplier Generic 33,China,Component,Medium,2025-06-21,2025-07-01,7327,16.85,123459.95,Net 90,Air,2807.1,13.3,81.7,7,0,2025-06-29,-2,Complete,0
+PO-2025-000956,SUP-029,Supplier Generic 29,Indonesia,MRO,Medium,2025-01-22,2025-01-31,2963,9.88,29274.44,Net 30,Land,413.2,8.5,40.0,8,0,2025-01-31,0,Complete,0
+PO-2025-001786,SUP-005,PT Anugerah Kemasan,Indonesia,Packaging,Medium,2025-01-25,2025-01-30,246,10.09,2482.14,Net 60,Land,362.0,2.0,98.1,1,0,2025-01-30,0,Complete,0
+PO-2025-000886,SUP-037,Supplier Generic 37,Indonesia,Component,Low,2025-06-24,2025-06-30,2806,26.8,75200.8,Net 30,Land,355.1,9.5,88.9,7,0,2025-06-27,-3,Complete,0
+PO-2025-000541,SUP-012,Seoul Alloy Industries,Malaysia,MRO,Low,2025-01-17,2025-01-27,217,4.52,980.84,COD,Sea,1431.7,6.8,96.6,6,0,2025-01-26,-1,Complete,0
+PO-2025-000672,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Packaging,Low,2025-05-17,2025-06-10,2371,4.42,10479.82,Net 30,Sea,2585.1,19.5,65.3,3,0,2025-06-09,-1,Complete,0
+PO-2025-000698,SUP-040,Supplier Generic 40,Japan,Raw Material,Medium,2025-02-10,2025-03-02,83,11.33,940.39,Net 60,Sea,6465.5,17.0,67.4,11,0,2025-02-28,-2,Complete,0
+PO-2025-002134,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Raw Material,High,2025-04-08,2025-05-08,1842,9.35,17222.7,Net 60,Sea,6318.7,24.2,59.8,9,1,2025-05-07,-1,Complete,0
+PO-2025-001897,SUP-010,Deutsche Praezisionsteile GmbH,China,Raw Material,Medium,2025-04-10,2025-04-30,387,40.19,15553.53,Net 60,Sea,3277.7,17.0,64.2,3,1,2025-04-28,-2,Complete,0
+PO-2025-000545,SUP-014,Chennai Steel Works,SOUTH KOREA,Packaging,Medium,2025-05-18,2025-06-19,222,6.27,1391.94,Net 60,Sea,5973.6,22.9,73.9,6,0,2025-06-18,-1,Complete,0
+PO-2025-002474,SUP-042,Supplier Generic 42, South Korea ,Raw Material,Low,2025-05-19,2025-06-10,191,17.03,3252.73,Net 90,Sea,5166.2,15.4,64.2,7,0,2025-06-18,8,Complete,1
+PO-2025-002310,SUP-032,Supplier Generic 32,India,Raw Material,Medium,2025-01-20,2025-02-13,252,9.38,2363.76,Net 60,Sea,4842.4,19.2,90.1,3,0,2025-02-10,-3,Complete,0
+PO-2025-002438,SUP-040,Supplier Generic 40,Japan,Raw Material,Low,2025-01-03,2025-01-28,558,5.11,2851.38,Net 90,Sea,6324.9,17.0,67.4,3,0,2025-01-28,0,Complete,0
+PO-2025-000469,SUP-022,Supplier Generic 22,China,Component,Medium,2025-02-20,2025-03-16,328,27.55,9036.4,Net 30,Sea,3443.3,17.1,99.0,2,0,2025-03-15,-1,Complete,0
+PO-2025-002488,SUP-008,Shenzhen Precision Metals,South Korea,MRO,High,2025-03-24,2025-04-14,153,6.67,1020.51,Net 60,Sea,3771.0,14.4,61.0,6,1,2025-04-13,-1,Complete,0
+PO-2025-000243,SUP-049,Supplier Generic 49,Japan,Raw Material,Low,2025-06-01,2025-06-20,797,8.19,6527.43,Net 60,Air,4568.2,20.2,40.0,4,0,2025-06-19,-1,Complete,0
+PO-2025-000217,SUP-013,Bangkok Packaging Solutions,Germany,MRO,Medium,2025-01-15,2025-02-10,72,19.14,1378.08,Net 90,Sea,10106.0,21.0,53.4,8,0,2025-02-21,11,Complete,1
+PO-2025-000900,SUP-009,Hanoi Component Supply, Indonesia ,Packaging,Medium,2025-06-19,2025-06-27,1253,21.68,27165.04,Net 30,Courier,371.9,7.6,90.8,6,0,2025-06-26,-1,Complete,0
+PO-2025-001141,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Raw Material,Medium,2025-06-19,2025-07-19,526,37.55,19751.3,Net 60,Sea,5681.0,24.2,59.8,8,0,2025-07-17,-2,Complete,0
+PO-2025-000960,SUP-050,Supplier Generic 50,Indonesia,Raw Material,Medium,2025-06-08,2025-06-17,444,10.76,4777.44,Net 30,Land,331.2,6.2,78.9,4,0,2025-06-15,-2,Complete,0
+PO-2025-001760,SUP-022,Supplier Generic 22,China,Raw Material,Low,2025-02-21,2025-03-09,294,6.71,1972.74,Net 60,Air,2934.0,17.1,99.0,5,0,2025-03-09,0,Complete,0
+PO-2025-000207,SUP-023,Supplier Generic 23,India,Packaging,Low,2025-03-05,2025-03-29,1792,6.29,11271.68,Net 30,Sea,4997.6,17.2,48.9,9,1,2025-03-26,-3,Complete,0
+PO-2025-000031,SUP-027,Supplier Generic 27,China,Component,Medium,2025-02-22,2025-03-18,6890,9.0,62010.0,Net 90,Sea ,3303.7,20.3,50.7,7,0,2025-03-16,-2,Complete,0
+PO-2025-000614,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Packaging,High,2025-01-26,2025-01-30,671,6.35,4260.85,Net 30,Courier,304.1,6.3,51.1,7,0,2025-01-30,0,Complete,0
+PO-2025-001090,SUP-003,PT Baja Presisi Indonesia,Thailand,Packaging,Low,2025-05-21,2025-06-11,391,26.17,10232.47,COD,Sea,2261.4,14.9,78.5,5,0,2025-06-09,-2,Complete,0
+PO-2025-001557,SUP-015,KL Electronic Parts,China,Component,Medium,2025-03-21,2025-04-14,3207,5.96,19113.72,Net 60,Sea,3663.3,19.7,79.7,4,1,2025-04-13,-1,Partial,0
+PO-2025-001113,SUP-031,Supplier Generic 31,USA,Packaging,Medium,2025-04-21,2025-05-26,1444,17.97,25948.68,COD,Sea,18115.8,30.5,89.8,3,1,2025-05-25,-1,Complete,0
+PO-2025-000444,SUP-018,PT Bumi Kemasan Lestari, Indonesia ,Packaging,Medium,2025-01-16,2025-01-22,2716,19.58,53179.28,Net 30,Courier,348.9,6.3,51.1,9,0,2025-01-23,1,Complete,1
+PO-2025-000693,SUP-001,PT Sinar Logam Jaya,South Korea,Component,Medium,2025-03-20,2025-04-13,627,15.05,9436.35,Net 60,Sea,4534.1,18.3,85.9,8,1,2025-04-13,0,Complete,0
+PO-2025-000921,SUP-009,Hanoi Component Supply,INDONESIA,MRO,Medium,2025-02-13,2025-02-15,852,25.04,21334.08,Net 60,Courier,291.4,7.6,90.8,4,0,2025-02-15,0,Complete,0
+PO-2025-001540,SUP-035,Supplier Generic 35,China,Raw Material,Low,2025-05-16,2025-06-08,1224,23.3,28519.2,COD,Sea,3261.9,14.5,80.7,6,0,2025-06-07,-1,Complete,0
+PO-2025-001157,SUP-031,Supplier Generic 31,USA,MRO,Low,2025-02-16,2025-03-15,673,7.81,5256.13,Net 30,Air,15044.3,30.5,89.8,3,0,2025-03-13,-2,Complete,0
+PO-2025-002059,SUP-028,Supplier Generic 28,Indonesia,Raw Material,Low,2025-05-16,2025-05-20,137,15.14,2074.18,Net 30,Courier,330.8,4.4,83.4,4,0,2025-05-19,-1,Complete,0
+PO-2025-000789,SUP-030,Supplier Generic 30,Japan,Component,Medium,2025-01-28,2025-02-22,5018,9.75,48925.5,Net 30,Sea,5811.2,22.3,78.3,8,0,2025-02-20,-2,Complete,0
+PO-2025-000187,SUP-011,Tokyo Machining Corp,China,Raw Material,Low,2025-03-26,2025-04-09,1521,3.5,5323.5,Net 60,Air,3178.9,17.8,67.1,5,1,2025-04-06,-3,Complete,0
+PO-2025-002390,SUP-016,PT Cahaya Logistik Industri,Indonesia,Packaging,High,2025-03-15,2025-03-23,129,17.33,2235.57,Net 30,Land,327.6,10.2,67.7,12,1,2025-03-27,4,Complete,1
+PO-2025-001344,SUP-021,Supplier Generic 21,USA,Raw Material,Low,2025-05-23,2025-06-16,353,20.87,7367.11,Net 30,Air,18105.5,27.5,76.2,7,0,2025-06-13,-3,Complete,0
+PO-2025-001003,SUP-021,Supplier Generic 21,USA,Raw Material,High,2025-02-05,2025-03-03,1427,19.37,27640.99,Net 90,Air,17301.4,27.5,76.2,6,0,2025-03-08,5,Complete,1
+PO-2025-000422,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Raw Material,Medium,2025-02-23,2025-03-23,236,22.45,5298.2,Net 60,Sea,5198.5,24.2,59.8,5,0,2025-04-06,14,Complete,1
+PO-2025-000686,SUP-013,Bangkok Packaging Solutions,Germany,MRO,Low,2025-01-19,2025-01-31,39,5.58,217.62,Net 60,Air,11824.6,21.0,53.4,13,0,2025-01-29,-2,Complete,0
+PO-2025-001828,SUP-020,PT Wijaya Sparepart Utama,Germany,Component,Low,2025-05-17,2025-06-12,421,13.07,5502.47,Net 30,Sea,9902.7,23.3,57.9,3,0,2025-06-12,0,Complete,0
+PO-2025-000846,SUP-013,Bangkok Packaging Solutions,Germany,Packaging,Low,2025-06-10,2025-07-08,275,8.65,2378.75,Net 60,Sea,13654.7,21.0,53.4,7,0,2025-07-19,11,Complete,1
+PO-2025-000779,SUP-021,Supplier Generic 21,USA,MRO,Low,2025-05-03,2025-06-02,1437,51.35,73789.95,Net 90,Sea,19467.0,27.5,76.2,6,0,2025-05-31,-2,Complete,0
+PO-2025-000762,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,Medium,2025-02-08,2025-02-26,1566,17.59,27545.94,Net 60,Air,11366.7,23.3,57.9,5,0,2025-02-26,0,Complete,0
+PO-2025-001463,SUP-032,Supplier Generic 32,INDIA,Raw Material,Low,2025-06-02,2025-06-28,780,17.23,13439.4,Net 60,Sea,4813.7,19.2,90.1,4,0,2025-06-28,0,Complete,0
+PO-2025-002303,SUP-030,Supplier Generic 30,Japan,Raw Material,High,2025-04-16,2025-05-12,1222,3.87,4729.14,COD,Sea,6181.2,22.3,78.3,5,1,2025-05-16,4,Complete,1
+PO-2025-000354,SUP-001,PT Sinar Logam Jaya,South Korea,Packaging,Low,2025-03-19,2025-04-12,758,18.57,14076.06,COD,Sea,5358.0,18.3,85.9,6,1,2025-04-11,-1,Complete,0
+PO-2025-002446,SUP-045,Supplier Generic 45,South Korea,Raw Material,Low,2025-06-23,2025-07-13,581,28.91,16796.71,Net 30,Air,4967.5,22.5,72.4,2,0,2025-07-13,0,Complete,0
+PO-2025-001330,SUP-050,Supplier Generic 50,Indonesia,Raw Material,High,2025-05-10,2025-05-18,590,8.81,5197.9,Net 60,Land,310.3,6.2,78.9,7,0,2025-05-15,-3,Complete,0
+PO-2025-001906,SUP-020,PT Wijaya Sparepart Utama,Germany,Component,Low,2025-01-17,2025-02-11,2291,18.52,42429.32,Net 60,Sea,10459.7,23.3,57.9,4,0,2025-02-09,-2,Complete,0
+PO-2025-001336,SUP-016,PT Cahaya Logistik Industri,Indonesia,Component,High,2025-02-24,2025-03-04,1765,14.42,25451.3,Net 60,Land,383.7,10.2,67.7,2,0,2025-03-02,-2,Complete,0
+PO-2025-000447,SUP-043,Supplier Generic 43,Japan,Component,High,2025-06-22,2025-07-09,3780,61.42,232167.6,Net 90,Air,6097.3,18.0,63.2,5,0,2025-07-06,-3,Complete,0
+PO-2025-000227,SUP-046,Supplier Generic 46,South Korea,Raw Material,Low,2025-06-27,2025-07-15,1066,13.76,14668.16,Net 30,Air,5614.6,20.8,93.5,2,0,2025-07-14,-1,Complete,0
+PO-2025-000599,SUP-046,Supplier Generic 46,South Korea,Raw Material,Medium,2025-02-24,2025-03-24,522,14.95,7803.9,Net 30,Sea,5437.9,20.8,93.5,4,0,2025-04-05,12,Complete,1
+PO-2025-000182,SUP-003,PT Baja Presisi Indonesia,Thailand,Component,Low,2025-04-04,2025-04-24,220,6.25,1375.0,Net 60,Sea,2011.9,14.9,78.5,10,1,2025-05-04,10,Pending,1
+PO-2025-000785,SUP-027,Supplier Generic 27,China,Raw Material,Medium,2025-01-03,2025-01-29,416,4.96,2063.36,Net 30,Sea,3399.2,20.3,50.7,9,0,2025-01-27,-2,Complete,0
+PO-2025-001037,SUP-032,Supplier Generic 32,India,Raw Material,Medium,2025-04-30,2025-05-26,1915,8.56,16392.4,Net 30,Sea,4740.0,19.2,90.1,3,1,2025-05-25,-1,Complete,0
+PO-2025-002055,SUP-034,Supplier Generic 34,China,Component,Low,2025-03-07,2025-03-23,86,21.48,1847.28,Net 90,Air ,3605.1,17.8,81.6,5,1,2025-03-20,-3,Complete,0
+PO-2025-001994,SUP-044,Supplier Generic 44, China ,Component,Low,2025-05-08,2025-06-02,234,27.2,6364.8,Net 90,Sea,2659.5,18.9,76.0,7,0,2025-05-30,-3,Complete,0
+PO-2025-002237,SUP-047,Supplier Generic 47,China,Raw Material,Low,2025-02-04,2025-02-20,524,5.0,2620.0,Net 30,Sea,2787.9,11.1,49.4,11,0,2025-02-28,8,Complete,1
+PO-2025-001177,SUP-044,Supplier Generic 44,China,MRO,Medium,2025-06-08,2025-06-27,215,11.49,2470.35,Net 30,Air,3141.8,18.9,76.0,7,0,2025-06-26,-1,Complete,0
+PO-2025-001386,SUP-034,Supplier Generic 34,China,Raw Material,Low,2025-05-28,2025-06-13,3364,19.59,65900.76,Net 30,Air,3305.8,17.8,81.6,5,0,2025-06-10,-3,Complete,0
+PO-2025-001197,SUP-001,PT Sinar Logam Jaya,South Korea,Packaging,Low,2025-06-11,2025-06-30,201,1.99,399.99,Net 60,Sea,5287.0,18.3,85.9,4,0,2025-06-27,-3,Complete,0
+PO-2025-000342,SUP-039,Supplier Generic 39,Indonesia,Packaging,High,2025-03-01,2025-03-03,475,9.17,4355.75,COD,Land,334.1,2.9,79.9,8,1,2025-03-05,2,Complete,1
+PO-2025-000609,SUP-044,Supplier Generic 44,china,Raw Material,Low,2025-06-22,2025-07-14,534,77.45,41358.3,Net 60,Sea,3110.0,18.9,76.0,3,0,2025-07-11,-3,Complete,0
+PO-2025-002291,SUP-030,Supplier Generic 30,Japan,MRO,High,2025-04-09,2025-05-09,129,18.34,2365.86,Net 90,Sea,5145.7,22.3,78.3,3,1,2025-05-07,-2,Complete,0
+PO-2025-000867,SUP-026,Supplier Generic 26,Indonesia,Packaging,Medium,2025-06-02,2025-06-04,1002,5.8,5811.6,Net 60,Land,359.7,2.0,83.4,10,0,2025-06-01,-3,Complete,0
+PO-2025-000822,SUP-006,PT Sumber Teknik Mandiri,India,MRO,Low,2025-06-27,2025-07-17,1011,21.02,21251.22,Net 30,Sea,4683.2,18.0,87.2,6,0,2025-07-14,-3,Complete,0
+PO-2025-000577,SUP-023,Supplier Generic 23,India,Component,Medium,2025-05-04,2025-05-26,883,6.57,5801.31,Net 90,Sea,4143.3,17.2,48.9,10,0,2025-05-28,2,Complete,1
+PO-2025-000485,SUP-044,Supplier Generic 44,China,Packaging,Medium,2025-03-20,2025-04-06,118,4.35,513.3,Net 90,Air,2946.7,18.9,76.0,8,1,2025-04-07,1,Complete,1
+PO-2025-001290,SUP-007,Global Parts Co.,USA,Packaging,Low,2025-01-11,2025-02-14,354,14.18,5019.72,Net 30,Sea,14938.7,30.2,59.5,11,0,2025-02-14,0,Complete,0
+PO-2025-001127,SUP-041,Supplier Generic 41,China,Packaging,High,2025-01-15,2025-02-06,80,15.69,1255.2,Net 90,Sea,3445.6,18.1,43.3,5,0,2025-02-04,-2,Complete,0
+PO-2025-001704,SUP-021,Supplier Generic 21,USA,Component,Low,2025-04-23,2025-05-27,555,6.33,3513.15,Net 30,Sea ,16952.3,27.5,76.2,4,1,2025-05-25,-2,Complete,0
+PO-2025-002027,SUP-026,Supplier Generic 26,INDONESIA,Raw Material,Low,2025-04-12,2025-04-14,2985,7.0,20895.0,Net 30,Courier,330.2,2.0,83.4,5,1,2025-04-21,7,Complete,1
+PO-2025-001476,SUP-021,Supplier Generic 21,USA,MRO,High,2025-06-23,2025-07-17,470,5.03,2364.1,COD,Air,16780.2,27.5,76.2,8,0,2025-07-16,-1,Complete,0
+PO-2025-000448,SUP-027,Supplier Generic 27,China,Raw Material,Low,2025-01-28,2025-02-19,847,,,Net 30,Sea,3399.2,20.3,50.7,5,0,2025-02-17,-2,Complete,0
+PO-2025-002047,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Component,Low,2025-02-08,2025-03-07,323,24.53,7923.19,Net 30,Sea,5576.9,24.2,,5,0,2025-03-04,-3,Complete,0
+PO-2025-001364,SUP-007,Global Parts Co.,USA,Packaging,Medium,2025-01-10,2025-02-17,169,26.16,4421.04,,Sea ,15977.4,30.2,59.5,7,0,2025-02-17,0,Complete,0
+PO-2025-001736,SUP-045,Supplier Generic 45,South Korea,MRO,Low,2025-01-10,2025-02-08,333,18.83,6270.39,Net 30,Sea,5373.2,22.5,72.4,7,0,2025-02-08,0,Partial,0
+PO-2025-002381,SUP-009,Hanoi Component Supply,Indonesia,Raw Material,Medium,2025-03-06,2025-03-13,724,13.41,9708.84,Net 60,Courier,374.6,7.6,90.8,2,1,2025-03-11,-2,Complete,0
+PO-2025-000364,SUP-042,Supplier Generic 42,South Korea,Component,Medium,2025-01-06,2025-01-24,183,16.89,3090.87,Net 30,Sea,4628.2,15.4,64.2,7,0,2025-01-23,-1,Pending,0
+PO-2025-001029,SUP-011,Tokyo Machining Corp,China,Component,Low,2025-05-26,2025-06-19,167,10.19,1701.73,Net 90,Sea,3194.8,17.8,67.1,3,0,2025-06-19,0,Complete,0
+PO-2025-001587,SUP-029,Supplier Generic 29,Indonesia,Packaging,Medium,2025-02-06,2025-02-16,325,22.22,7221.5,Net 30,Courier,336.0,8.5,40.0,12,0,2025-02-15,-1,Complete,0
+PO-2025-001949,SUP-011,Tokyo Machining Corp,China,Component,Medium,2025-03-06,2025-03-28,189,9.16,1731.24,Net 60,Sea,3158.7,17.8,67.1,4,1,2025-03-28,0,Complete,0
+PO-2025-001526,SUP-034,Supplier Generic 34,China,Component,Low,2025-03-07,2025-03-31,1133,16.31,18479.23,Net 30,Sea,3801.7,17.8,81.6,2,1,2025-03-28,-3,Complete,0
+PO-2025-002242,SUP-025,Supplier Generic 25,South Korea,MRO,High,2025-03-12,2025-04-07,2124,40.55,86128.2,Net 30,Sea,5234.8,22.0,76.1,4,1,2025-04-07,0,Complete,0
+PO-2025-001512,SUP-047,Supplier Generic 47,China,MRO,Medium,2025-05-06,2025-05-24,1439,17.5,25182.5,Net 30,Sea,2906.0,11.1,,3,0,2025-05-21,-3,Complete,0
+PO-2025-002398,SUP-047,Supplier Generic 47,China,Packaging,Medium,2025-05-14,2025-06-03,3817,22.47,85767.99,Net 60,Sea,3273.7,11.1,49.4,10,0,2025-06-03,0,Complete,0
+PO-2025-000871,SUP-042,Supplier Generic 42,South Korea,MRO,High,2025-04-29,2025-05-11,207,9.66,1999.62,Net 30,Air,5241.7,15.4,64.2,3,1,2025-05-23,12,Complete,1
+PO-2025-001602,SUP-022,Supplier Generic 22,China,Raw Material,High,2025-04-29,2025-05-23,338,13.14,4441.32,Net 30,Sea,2902.0,17.1,99.0,6,1,2025-06-01,9,Partial,1
+PO-2025-000046,SUP-028,Supplier Generic 28,Indonesia,Component,Medium,2025-01-12,2025-01-18,349,19.51,6808.99,Net 30,Land,334.4,4.4,83.4,6,0,2025-01-17,-1,Complete,0
+PO-2025-000049,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Raw Material,Medium,2025-01-05,2025-01-25,389,8.82,3430.98,COD,Air,5481.4,24.2,59.8,5,0,2025-01-23,-2,Complete,0
+PO-2025-000670,SUP-012,Seoul Alloy Industries,Malaysia,Packaging,Low,2025-05-03,2025-05-07,1856,15.75,29232.0,Net 30,Air,1908.2,6.8,96.6,3,0,2025-05-06,-1,Complete,0
+PO-2025-000294,SUP-027,Supplier Generic 27,China,Packaging,Medium,2025-05-27,2025-06-20,1319,67.39,88887.41,Net 30,Sea,2678.5,20.3,50.7,6,0,2025-06-29,9,Complete,1
+PO-2025-000302,SUP-025,Supplier Generic 25,South Korea,MRO,Low,2025-01-17,2025-02-08,461,12.67,5840.87,Net 90,Sea,5814.2,22.0,76.1,5,0,2025-02-08,0,Complete,0
+PO-2025-001998,SUP-027,Supplier Generic 27,China,Packaging,High,2025-02-13,2025-03-13,689,6.63,4568.07,Net 90,Sea,2652.7,20.3,50.7,10,0,2025-03-22,9,Complete,1
+PO-2025-001671,SUP-048,Supplier Generic 48,Indonesia,Raw Material,High,2025-05-28,2025-05-31,375,13.8,5175.0,Net 30,Courier,299.3,5.9,96.4,3,0,2025-05-28,-3,Complete,0
+PO-2025-001124,SUP-028,Supplier Generic 28,Indonesia,Raw Material,Low,2025-04-24,2025-04-26,3064,13.39,41026.96,Net 60,Courier,379.3,4.4,83.4,6,1,2025-04-24,-2,Complete,0
+PO-2025-001228,SUP-002,PT Mitra Komponen Nusantara,CHINA,MRO,Low,2025-04-08,2025-05-05,310,9.06,2808.6,Net 30,Sea,2875.3,18.5,59.4,10,1,2025-05-12,7,Complete,1
+PO-2025-000628,SUP-029,Supplier Generic 29,Indonesia,Packaging,High,2025-01-12,2025-01-20,300,,,COD,Land,415.5,8.5,40.0,5,0,2025-01-17,-3,Complete,0
+PO-2025-001163,SUP-037,Supplier Generic 37,Indonesia,Component,High,2025-01-03,2025-01-13,868,6.53,5668.04,Net 30,Land,277.5,9.5,88.9,4,0,2025-01-13,0,Complete,0
+PO-2025-001302,SUP-037,Supplier Generic 37,Indonesia,MRO,Medium,2025-02-25,2025-03-03,875,25.64,22435.0,Net 60,Land,401.3,9.5,88.9,6,0,2025-03-01,-2,Complete,0
+PO-2025-000922,SUP-032,Supplier Generic 32,India,Raw Material,Medium,2025-03-28,2025-04-14,578,22.74,13143.72,Net 90,Air,4819.8,19.2,90.1,2,1,2025-04-13,-1,Complete,0
+PO-2025-001787,SUP-038,Supplier Generic 38,China,Raw Material,Medium,2025-06-27,2025-07-20,589,27.04,15926.56,Net 30,Sea,3287.9,19.9,70.2,2,0,2025-07-20,0,Complete,0
+PO-2025-000773,SUP-006,PT Sumber Teknik Mandiri,India,Packaging,Low,2025-06-28,2025-07-21,514,5.86,3012.04,COD,Sea,5438.5,18.0,87.2,3,0,2025-07-20,-1,Complete,0
+PO-2025-001729,SUP-030,Supplier Generic 30,Japan,Component,Medium,2025-04-27,2025-05-22,125,67.89,8486.25,Net 30,Sea,6374.9,22.3,78.3,8,1,2025-05-21,-1,Complete,0
+PO-2025-001240,SUP-021,Supplier Generic 21,USA,Raw Material,Medium,2025-01-14,2025-02-04,1079,3.51,3787.29,Net 30,Air,16273.6,27.5,76.2,4,0,2025-02-03,-1,Complete,0
+PO-2025-001902,SUP-003,PT Baja Presisi Indonesia,Thailand,Raw Material,Low,2025-03-17,2025-04-02,439,14.5,6365.5,COD,Air,2556.8,14.9,,3,1,2025-03-31,-2,Complete,0
+PO-2025-002435,SUP-036,Supplier Generic 36,Indonesia,MRO,Low,2025-03-17,2025-03-24,1776,26.04,46247.04,COD,Land,287.3,3.4,40.0,8,1,2025-04-07,14,Complete,1
+PO-2025-000765,SUP-008,Shenzhen Precision Metals,South Korea,Component,Medium,2025-01-17,2025-01-31,209,4.74,990.66,Net 60,Air,5143.2,14.4,61.0,4,0,2025-02-12,12,Complete,1
+PO-2025-001400,SUP-011,Tokyo Machining Corp,China,Raw Material,Low,2025-03-25,2025-04-09,225,3.14,706.5,Net 30,Air,2887.2,17.8,67.1,6,1,2025-04-16,7,Complete,1
+PO-2025-001195,SUP-004,PT Karya Plastik Sejahtera, Japan ,Component,Low,2025-04-12,2025-05-04,2731,5.7,15566.7,Net 60,Sea,6968.3,18.9,59.3,5,1,2025-05-09,5,Partial,1
+PO-2025-001469,SUP-032,Supplier Generic 32,India,Component,Medium,2025-04-25,2025-05-10,168,11.27,1893.36,Net 30,Air,4579.1,19.2,90.1,3,1,2025-05-09,-1,Complete,0
+PO-2025-002068,SUP-042,Supplier Generic 42,South Korea,Raw Material,Low,2025-02-17,2025-02-27,641,2.39,1531.99,Net 90,Air,5696.6,15.4,64.2,6,0,2025-03-12,13,Complete,1
+PO-2025-001298,SUP-047,Supplier Generic 47,China,Raw Material,Medium,2025-05-10,2025-05-25,699,14.59,10198.41,Net 60,Sea,3121.1,11.1,49.4,5,0,2025-05-23,-2,Complete,0
+PO-2025-002424,SUP-025,Supplier Generic 25,South Korea,Raw Material,Medium,2025-01-16,2025-02-10,2243,26.14,58632.02,Net 90,Sea,4681.6,22.0,76.1,3,0,2025-02-09,-1,Complete,0
+PO-2025-002337,SUP-038,Supplier Generic 38,China,Component,Medium,2025-05-28,2025-06-23,963,8.82,8493.66,Net 30,Sea,3031.7,19.9,70.2,3,0,2025-06-25,2,Complete,1
+PO-2025-002357,SUP-013,Bangkok Packaging Solutions,Germany,Packaging,High,2025-03-08,2025-03-30,371,8.23,3053.33,Net 60,Air,10141.0,21.0,53.4,2,1,2025-03-30,0,Complete,0
+PO-2025-001447,SUP-021,Supplier Generic 21,USA,Component,Low,2025-06-01,2025-07-05,1633,,,COD,Sea,17132.5,27.5,76.2,8,0,2025-07-03,-2,Partial,0
+PO-2025-001661,SUP-043,Supplier Generic 43,Japan,MRO,Low,2025-02-15,2025-03-10,551,11.73,6463.23,Net 30,Sea,6037.4,18.0,63.2,6,0,2025-03-17,7,Complete,1
+PO-2025-000514,SUP-015,KL Electronic Parts,China,Packaging,Medium,2025-05-13,2025-05-28,580,10.54,6113.2,Net 30,Air,2891.5,19.7,79.7,6,0,2025-05-26,-2,Complete,0
+PO-2025-000068,SUP-007,Global Parts Co.,USA,Component,High,2025-04-05,2025-05-09,97,15.22,1476.34,Net 30,sea,13798.3,30.2,59.5,3,1,2025-05-15,6,Complete,1
+PO-2025-000803,SUP-025,Supplier Generic 25,South Korea,Component,Low,2025-03-04,2025-04-03,95,8.66,822.7,Net 30,Sea,4656.3,22.0,76.1,6,1,2025-04-03,0,Complete,0
+PO-2025-001630,SUP-013,Bangkok Packaging Solutions,Germany,MRO,Low,2025-04-29,2025-05-24,200,69.06,13812.0,Net 30,Sea,12132.0,21.0,53.4,3,1,2025-05-27,3,Complete,1
+PO-2025-000703,SUP-044,Supplier Generic 44,china,Raw Material,Medium,2025-02-21,2025-03-16,2249,25.13,56517.37,Net 90,Sea,3369.9,18.9,76.0,4,0,2025-03-16,0,Complete,0
+PO-2025-000310,SUP-003,PT Baja Presisi Indonesia,Thailand,Raw Material,Low,2025-02-27,2025-03-18,256,3.73,954.88,Net 30,Sea,1856.0,14.9,78.5,6,0,2025-03-15,-3,Partial,0
+PO-2025-001110,SUP-046,Supplier Generic 46,South Korea,Raw Material,Low,2025-04-14,2025-05-10,839,14.66,12299.74,COD,Sea,6482.2,20.8,93.5,3,1,2025-05-09,-1,Complete,0
+PO-2025-000574,SUP-032,Supplier Generic 32,India,MRO,Medium,2025-06-28,2025-07-26,141,7.81,1101.21,Net 60,sea,4714.2,19.2,90.1,4,0,2025-07-23,-3,Complete,0
+PO-2025-001292,SUP-008,Shenzhen Precision Metals,South Korea,Raw Material,High,2025-05-15,2025-06-03,520,14.18,7373.6,Net 30,Sea,5932.2,14.4,61.0,8,0,2025-05-31,-3,Complete,0
+PO-2025-000808,SUP-008,Shenzhen Precision Metals,South Korea,Raw Material,Medium,2025-01-11,2025-01-27,1483,9.37,13895.71,Net 60,sea,4659.2,14.4,61.0,7,0,2025-01-26,-1,Pending,0
+PO-2025-002115,SUP-047,Supplier Generic 47,China,Component,Low,2025-02-08,2025-02-16,376,4.8,1804.8,Net 30,Air,3337.3,11.1,49.4,5,0,2025-02-20,4,Complete,1
+PO-2025-000126,SUP-033,Supplier Generic 33,China,Raw Material,Medium,2025-05-30,2025-06-09,3513,15.67,55048.71,COD,Air,3380.1,13.3,81.7,3,0,2025-06-06,-3,Complete,0
+PO-2025-000221,SUP-008,Shenzhen Precision Metals,South Korea,Packaging,Low,2025-03-06,2025-03-17,2838,22.57,64053.66,Net 30,Air,4996.8,14.4,61.0,6,1,2025-03-21,4,Complete,1
+PO-2025-000453,SUP-050,Supplier Generic 50,Indonesia,Raw Material,Low,2025-04-17,2025-04-24,199,6.49,1291.51,COD,Courier,358.1,6.2,78.9,6,1,2025-05-08,14,Complete,1
+PO-2025-002313,SUP-012,Seoul Alloy Industries,Malaysia,Raw Material,Medium,2025-04-09,2025-04-20,443,7.23,3202.89,COD,Sea,1534.1,6.8,96.6,1,1,2025-04-20,0,Complete,0
+PO-2025-001382,SUP-044,Supplier Generic 44,China,Packaging,Medium,2025-06-05,2025-06-18,809,4.05,3276.45,Net 30,Air,3227.1,18.9,76.0,2,0,2025-06-18,0,Complete,0
+PO-2025-000550,SUP-002,PT Mitra Komponen Nusantara,China,Raw Material,Medium,2025-03-21,2025-04-12,531,4.83,2564.73,Net 60,Sea,2602.6,18.5,59.4,16,1,2025-04-26,14,Complete,1
+PO-2025-000895,SUP-039,Supplier Generic 39,Indonesia,Packaging,Low,2025-03-12,2025-03-16,1275,4.74,6043.5,Net 60,Land,347.1,2.9,79.9,9,1,2025-03-15,-1,Complete,0
+PO-2025-001001,SUP-033,Supplier Generic 33,China,MRO,Low,2025-04-24,2025-05-04,865,11.78,10189.7,Net 60,Air,3299.9,13.3,81.7,5,1,2025-05-02,-2,Complete,0
+PO-2025-001046,SUP-021,Supplier Generic 21,USA,Component,Low,2025-05-21,2025-06-24,6261,8.97,56161.17,Net 30,Sea,14773.0,27.5,76.2,8,0,2025-06-22,-2,Complete,0
+PO-2025-002143,SUP-037,Supplier Generic 37,Indonesia,MRO,Low,2025-06-04,2025-06-13,225,19.72,4437.0,Net 60,Land,313.7,9.5,88.9,6,0,2025-06-11,-2,Complete,0
+PO-2025-002118,SUP-028,Supplier Generic 28,Indonesia,Component,Medium,2025-04-25,2025-04-28,385,9.6,3696.0,Net 30,Courier,331.5,4.4,83.4,6,1,2025-04-27,-1,Complete,0
+PO-2025-001504,SUP-010,Deutsche Praezisionsteile GmbH,China,Component,Low,2025-05-21,2025-06-11,110,5.62,618.2,Net 90,Sea,3192.8,17.0,64.2,7,0,2025-06-11,0,Complete,0
+PO-2025-001383,SUP-038,Supplier Generic 38,China,Packaging,Low,2025-03-27,2025-04-22,719,6.31,4536.89,Net 30,Sea,3256.9,19.9,70.2,6,1,2025-04-22,0,Complete,0
+PO-2025-001116,SUP-048,Supplier Generic 48, Indonesia ,Component,Medium,2025-01-21,2025-01-24,406,20.01,8124.06,Net 30,Courier,390.2,5.9,96.4,3,0,2025-01-24,0,Complete,0
+PO-2025-001404,SUP-036,Supplier Generic 36,Indonesia,Component,Low,2025-05-22,2025-05-25,323,12.24,3953.52,Net 30,Courier,343.6,3.4,40.0,7,0,2025-05-23,-2,Complete,0
+PO-2025-000265,SUP-030,Supplier Generic 30,Japan,Component,Low,2025-02-23,2025-03-19,754,7.18,5413.72,Net 30,Sea,5883.1,22.3,78.3,4,0,2025-03-16,-3,Complete,0
+PO-2025-000203,SUP-013,Bangkok Packaging Solutions,Germany,Component,Medium,2025-02-05,2025-03-04,245,25.19,6171.55,Net 30,Sea,11843.2,21.0,53.4,4,0,2025-03-07,3,Complete,1
+PO-2025-000348,SUP-036,Supplier Generic 36,Indonesia,Component,Medium,2025-04-13,2025-04-18,162,4.94,800.28,COD,Land,261.2,3.4,40.0,6,1,2025-04-18,0,Complete,0
+PO-2025-000919,SUP-021,Supplier Generic 21,USA,MRO,Medium,2025-02-06,2025-03-08,463,35.53,16450.39,Net 60,Sea,15754.7,27.5,76.2,2,0,2025-03-20,12,Complete,1
+PO-2025-001518,SUP-007,Global Parts Co.,USA,Raw Material,High,2025-06-09,2025-07-18,1841,27.08,49854.28,Net 90,Sea,15503.0,30.2,59.5,8,0,2025-07-17,-1,Complete,0
+PO-2025-002329,SUP-010,Deutsche Praezisionsteile GmbH,China,Component,Medium,2025-03-14,2025-04-05,522,14.92,7788.24,Net 60,Sea,2872.3,17.0,64.2,4,1,2025-04-06,1,Complete,1
+PO-2025-000702,SUP-022,Supplier Generic 22,China,MRO,Low,2025-05-20,2025-06-08,755,6.63,5005.65,Net 30,Sea,3278.9,17.1,99.0,2,0,2025-06-06,-2,Complete,0
+PO-2025-000383,SUP-003,PT Baja Presisi Indonesia,Thailand,Raw Material,Medium,2025-02-14,2025-02-22,241,2.74,660.34,Net 90,Air,2292.2,14.9,78.5,6,0,2025-02-19,-3,Complete,0
+PO-2025-001653,SUP-009,Hanoi Component Supply,Indonesia,Packaging,Medium,2025-01-19,2025-01-23,645,4.65,2999.25,COD,Courier,386.1,7.6,90.8,4,0,2025-01-21,-2,Complete,0
+PO-2025-000268,SUP-033,Supplier Generic 33,China,Packaging,Medium,2025-01-03,2025-01-11,128,32.91,4212.48,Net 90,Air,3116.1,13.3,81.7,2,0,2025-01-09,-2,Complete,0
+PO-2025-002387,SUP-001,PT Sinar Logam Jaya,South Korea,Raw Material,High,2025-05-15,2025-06-06,206,23.14,4766.84,Net 60,Sea,5769.8,18.3,85.9,7,0,2025-06-05,-1,Complete,0
+PO-2025-000099,SUP-039,Supplier Generic 39,Indonesia,Component,High,2025-02-01,2025-02-04,393,5.39,2118.27,Net 30,Land,355.8,2.9,79.9,3,0,2025-02-03,-1,Complete,0
+PO-2025-000183,SUP-004,PT Karya Plastik Sejahtera,Japan,Raw Material,Medium,2025-04-09,2025-05-03,736,3.05,2244.8,Net 60,Sea,5770.2,18.9,59.3,4,1,2025-05-15,12,Complete,1
+PO-2025-000159,SUP-035,Supplier Generic 35,China,Packaging,Low,2025-04-08,2025-04-29,1110,14.97,16616.7,Net 60,Sea,3034.7,14.5,80.7,9,1,2025-04-29,0,Complete,0
+PO-2025-001126,SUP-005,PT Anugerah Kemasan,Indonesia,MRO,Medium,2025-06-03,2025-06-07,2221,4.66,10349.86,COD,Land ,286.6,2.0,98.1,5,0,2025-06-05,-2,Complete,0
+PO-2025-002254,SUP-032,Supplier Generic 32,India,Raw Material,Medium,2025-02-10,2025-03-04,511,11.15,5697.65,Net 60,Sea,5070.6,19.2,90.1,4,0,2025-03-01,-3,Complete,0
+PO-2025-000969,SUP-018,PT Bumi Kemasan Lestari, Indonesia ,Component,High,2025-01-26,2025-01-31,1459,34.63,50525.17,Net 30,Courier,396.7,6.3,51.1,9,0,2025-01-29,-2,Complete,0
+PO-2025-000559,SUP-039,Supplier Generic 39,Indonesia,Component,High,2025-03-31,2025-04-02,647,9.54,6172.38,Net 30,Courier,365.2,2.9,79.9,6,1,2025-03-30,-3,Complete,0
+PO-2025-000727,SUP-047,Supplier Generic 47,China,Packaging,Medium,2025-02-13,2025-02-28,416,49.35,20529.6,Net 90,Sea,2755.8,11.1,49.4,6,0,2025-02-28,0,Complete,0
+PO-2025-000083,SUP-016,PT Cahaya Logistik Industri,Indonesia,Raw Material,Low,2025-02-28,2025-03-12,1570,14.39,22592.3,COD,Land,295.0,10.2,67.7,2,0,2025-03-12,0,Complete,0
+PO-2025-001823,SUP-027,Supplier Generic 27,China,Component,Medium,2025-05-04,2025-05-25,2096,4.21,8824.16,Net 90,Sea,2694.5,20.3,,10,0,2025-05-25,0,Complete,0
+PO-2025-000491,SUP-026,Supplier Generic 26,Indonesia,Raw Material,Medium,2025-04-19,2025-04-23,1465,9.38,13741.7,Net 30,Land,317.6,2.0,83.4,5,1,2025-04-20,-3,Complete,0
+PO-2025-000477,SUP-009,Hanoi Component Supply,Indonesia,MRO,Medium,2025-05-04,2025-05-11,2400,18.09,43416.0,Net 30,Land,339.2,7.6,90.8,7,0,2025-05-10,-1,Complete,0
+PO-2025-001577,SUP-012,Seoul Alloy Industries,Malaysia,Raw Material,Medium,2025-02-07,2025-02-18,285482,11.22,7831.56,COD,Sea,1777.6,6.8,96.6,1,0,2025-02-16,-2,Complete,0
+PO-2025-000903,SUP-007,Global Parts Co.,USA,Component,High,2025-02-10,2025-03-18,607,94.41,57306.87,Net 30,Sea,14785.9,30.2,59.5,9,0,2025-03-15,-3,Complete,0
+PO-2025-000423,SUP-038,Supplier Generic 38,China,Component,Low,2025-03-26,2025-04-11,693,10.98,7609.14,Net 30,Air,3150.8,19.9,70.2,5,1,2025-04-11,0,Complete,0
+PO-2025-000222,SUP-008,Shenzhen Precision Metals, South Korea ,MRO,Medium,2025-05-12,2025-06-02,90,41.08,3697.2,Net 30,Sea,3758.6,14.4,61.0,4,0,2025-05-31,-2,Complete,0
+PO-2025-000331,SUP-012,Seoul Alloy Industries,Malaysia,Raw Material,Medium,2025-01-20,2025-02-01,225,8.88,1998.0,Net 30,Sea,1966.6,6.8,96.6,4,0,2025-01-29,-3,Complete,0
+PO-2025-002286,SUP-034,Supplier Generic 34,China,Component,Low,2025-06-11,2025-07-02,182,31.32,5700.24,Net 60,Sea,3457.1,17.8,81.6,2,0,2025-06-30,-2,Complete,0
+PO-2025-001849,SUP-022,Supplier Generic 22,China,Raw Material,Low,2025-04-20,2025-05-02,585,7.28,4258.8,Net 60,Air,2904.8,17.1,99.0,3,1,2025-05-10,8,Complete,1
+PO-2025-001291,SUP-022,Supplier Generic 22,China,Raw Material,Medium,2025-03-16,2025-04-03,939,10.72,10066.08,Net 30,Sea,2831.4,17.1,,7,1,2025-04-01,-2,Complete,0
+PO-2025-000134,SUP-031,Supplier Generic 31,USA,Packaging,Medium,2025-05-10,2025-06-14,3007,26.42,79444.94,COD,Sea,15486.4,30.5,89.8,9,0,2025-06-11,-3,Complete,0
+PO-2025-002124,SUP-049,Supplier Generic 49,Japan,Raw Material,Low,2025-04-20,2025-05-04,351,5.98,2098.98,Net 30,Air,5449.2,20.2,40.0,9,1,2025-05-02,-2,Complete,0
+PO-2025-001233,SUP-001,PT Sinar Logam Jaya,South Korea,Raw Material,Low,2025-04-08,2025-04-30,277,4.6,1274.2,COD,Sea,5129.0,18.3,85.9,2,1,2025-04-28,-2,Complete,0
+PO-2025-001311,SUP-031,Supplier Generic 31,USA,MRO,Low,2025-01-15,2025-02-14,1224,13.36,16352.64,Net 30,Air,15402.8,30.5,89.8,4,0,2025-02-11,-3,Complete,0
+PO-2025-001658,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,Low,2025-03-28,2025-04-26,2394,94.56,226376.64,Net 60,Sea,10915.0,23.3,57.9,10,1,2025-04-23,-3,Complete,0
+PO-2025-001780,SUP-011,Tokyo Machining Corp,China,Packaging,High,2025-02-10,2025-03-05,760,12.35,9386.0,Net 30,Sea,3261.7,17.8,67.1,7,0,2025-03-10,5,Complete,1
+PO-2025-002081,SUP-044,Supplier Generic 44,China,Component,Medium,2025-03-09,2025-04-03,113,26.48,2992.24,Net 90,Sea ,3259.8,18.9,76.0,9,1,2025-04-03,0,Complete,0
+PO-2025-001287,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,High,2025-01-04,2025-01-24,581,18.62,10818.22,COD,Air,12230.2,23.3,57.9,7,0,2025-01-23,-1,Complete,0
+PO-2025-000012,SUP-005,PT Anugerah Kemasan,Indonesia,Component,High,2025-05-18,2025-05-21,1836,3.23,5930.28,Net 60,Land,349.7,2.0,98.1,3,0,2025-05-21,0,Complete,0
+PO-2025-002432,SUP-042,Supplier Generic 42,South Korea,Raw Material,High,2025-05-24,2025-06-13,228,13.67,3116.76,Net 30,Sea,4991.7,15.4,64.2,6,0,2025-06-10,-3,Complete,0
+PO-2025-000387,SUP-046,Supplier Generic 46,South Korea,Packaging,High,2025-03-17,2025-04-11,583,19.01,11082.83,Net 30,Sea,4962.7,20.8,93.5,4,1,2025-04-09,-2,Complete,0
+PO-2025-000855,SUP-004,PT Karya Plastik Sejahtera,Japan,Raw Material,Low,2025-01-05,2025-01-31,507,7.8,3954.6,Net 30,Sea,5461.3,18.9,59.3,9,0,2025-01-30,-1,Complete,0
+PO-2025-000629,SUP-010,Deutsche Praezisionsteile GmbH,China,MRO,Medium,2025-02-01,2025-02-27,940,9.82,9230.8,Net 30,Sea,3282.3,17.0,64.2,5,0,2025-03-11,12,Complete,1
+PO-2025-001534,SUP-022,Supplier Generic 22,CHINA,Raw Material,Low,2025-01-13,2025-02-04,343,7.69,2637.67,Net 30,Sea,2992.6,17.1,99.0,8,0,2025-02-04,0,Complete,0
+PO-2025-000189,SUP-023,Supplier Generic 23,India,Component,Low,2025-04-05,2025-04-27,234,8.66,2026.44,COD,Sea,3687.9,17.2,48.9,5,1,2025-05-05,8,Complete,1
+PO-2025-002436,SUP-012,Seoul Alloy Industries,Malaysia,Component,Medium,2025-06-21,2025-07-03,391,16.29,6369.39,Net 60,Sea,1870.8,6.8,96.6,3,0,2025-06-30,-3,Complete,0
+PO-2025-000597,SUP-039,Supplier Generic 39,Indonesia,Raw Material,Medium,2025-06-26,2025-06-28,781,8.51,6646.31,Net 90,Courier,337.5,2.9,79.9,1,0,2025-06-27,-1,Complete,0
+PO-2025-002210,SUP-010,Deutsche Praezisionsteile GmbH,China,Raw Material,Low,2025-04-28,2025-05-14,239,5.31,1269.09,Net 60,Air,2844.6,17.0,64.2,3,1,2025-05-12,-2,Complete,0
+PO-2025-001700,SUP-025,Supplier Generic 25,South Korea,Raw Material,Medium,2025-02-20,2025-03-12,1718,8.22,14121.96,Net 60,Air,4913.9,22.0,76.1,4,0,2025-03-12,0,Complete,0
+PO-2025-002408,SUP-031,Supplier Generic 31,USA,Component,Medium,2025-04-08,2025-05-13,1065,8.08,8605.2,Net 90,Sea,16498.3,30.5,89.8,4,1,2025-05-26,13,Complete,1
+PO-2025-002197,SUP-024,Supplier Generic 24,Thailand,Raw Material,Low,2025-03-22,2025-04-10,67,19.26,1290.42,Net 30,Sea,2248.6,11.9,99.0,6,1,2025-04-09,-1,Complete,0
+PO-2025-001657,SUP-004,PT Karya Plastik Sejahtera,Japan,Raw Material,Low,2025-06-21,2025-07-05,652,13.65,8899.8,Net 30,Air,5987.3,18.9,59.3,9,0,2025-07-02,-3,Complete,0
+PO-2025-000662,SUP-038,Supplier Generic 38,China,Packaging,Low,2025-02-15,2025-03-16,2517,5.55,13969.35,Net 60,Sea,3040.1,19.9,70.2,10,0,2025-03-14,-2,Complete,0
+PO-2025-000663,SUP-026,Supplier Generic 26,Indonesia,Component,Low,2025-06-03,2025-06-07,238,54.09,12873.42,Net 60,Land,355.4,2.0,83.4,10,0,2025-06-04,-3,Complete,0
+PO-2025-001932,SUP-040,Supplier Generic 40,Japan,Raw Material,Medium,2025-02-01,2025-02-23,370,5.49,2031.3,Net 60,Sea,5548.8,17.0,67.4,5,0,2025-02-21,-2,Complete,0
+PO-2025-001345,SUP-045,Supplier Generic 45,South Korea,Raw Material,Low,2025-02-13,2025-03-12,834,10.42,8690.28,,Sea,5756.0,22.5,,5,0,2025-03-09,-3,Complete,0
+PO-2025-000994,SUP-011,Tokyo Machining Corp,China,Raw Material,High,2025-05-21,2025-06-14,4583,4.18,19156.94,Net 60,Sea,3358.4,17.8,67.1,3,0,2025-06-13,-1,Complete,0
+PO-2025-000234,SUP-014,Chennai Steel Works,South Korea,Raw Material,Medium,2025-06-27,2025-07-28,502,12.07,6059.14,Net 30,Sea,5449.5,22.9,73.9,3,0,2025-07-28,0,Complete,0
+PO-2025-001959,SUP-047,Supplier Generic 47,China,Raw Material,High,2025-05-25,2025-06-01,720,14.05,10116.0,Net 30,Air,2583.3,11.1,49.4,8,0,2025-06-01,0,Complete,0
+PO-2025-001153,SUP-002,PT Mitra Komponen Nusantara,China,Packaging,High,2025-03-02,2025-03-15,1115,34.41,38367.15,Net 30,Air,3296.6,18.5,59.4,9,1,2025-03-28,13,Complete,1
+PO-2025-001709,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Component,Medium,2025-04-22,2025-04-30,1016,1.88,1910.08,Net 90,Courier,299.9,6.3,51.1,10,1,2025-05-12,12,Complete,1
+PO-2025-002331,SUP-037,Supplier Generic 37,Indonesia,Raw Material,High,2025-06-07,2025-06-15,1292,10.93,14121.56,Net 60,land,330.7,9.5,,1,0,2025-06-15,0,Complete,0
+PO-2025-001958,SUP-010,Deutsche Praezisionsteile GmbH,China,Packaging,High,2025-01-02,2025-01-23,3070,8.8,27016.0,Net 30,Sea,4119.0,17.0,64.2,7,0,2025-01-23,0,Complete,0
+PO-2025-000158,SUP-007,Global Parts Co.,USA,Packaging,Low,2025-02-11,2025-03-11,357,9.83,3509.31,Net 60,Air,15078.8,30.2,59.5,6,0,2025-03-09,-2,Complete,0
+PO-2025-002036,SUP-005,PT Anugerah Kemasan,indonesia,Packaging,Low,2025-06-18,2025-06-21,1380,7.79,10750.2,Net 60,Courier,336.3,2.0,98.1,4,0,2025-06-20,-1,Complete,0
+PO-2025-001808,SUP-021,Supplier Generic 21,USA,Component,Low,2025-01-17,2025-02-20,169,11.1,1875.9,Net 60,Sea,17665.3,27.5,76.2,3,0,2025-02-17,-3,Complete,0
+PO-2025-000289,SUP-007,Global Parts Co.,USA,Packaging,High,2025-05-10,2025-06-13,2147,2.5,5367.5,Net 60,Sea,11907.7,30.2,,6,0,2025-06-26,13,Pending,1
+PO-2025-000260,SUP-012,Seoul Alloy Industries,Malaysia,Packaging,High,2025-01-16,2025-01-28,184,32.66,6009.44,Net 30,Sea,1627.9,6.8,96.6,3,0,2025-01-28,0,Complete,0
+PO-2025-000519,SUP-032,Supplier Generic 32,India,Component,Medium,2025-05-21,2025-06-15,30,84.5,2535.0,Net 30,Sea,5091.5,19.2,90.1,3,0,2025-06-15,0,Complete,0
+PO-2025-001436,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Raw Material,Low,2025-04-25,2025-05-12,321,19.9,6387.9,Net 30,Air,2752.1,19.5,65.3,7,1,2025-05-11,-1,Complete,0
+PO-2025-002236,SUP-026,Supplier Generic 26,Indonesia,MRO,Low,2025-06-14,2025-06-16,230,3.46,795.8,Net 60,Land,403.9,2.0,,6,0,2025-06-14,-2,Complete,0
+PO-2025-002005,SUP-032,Supplier Generic 32,India,MRO,Medium,2025-02-27,2025-03-14,129,15.12,1950.48,Net 30,Air,4968.8,19.2,90.1,4,0,2025-03-11,-3,Complete,0
+PO-2025-001238,SUP-024,Supplier Generic 24,THAILAND,Packaging,Low,2025-05-16,2025-06-04,994,11.72,11649.68,Net 60,sea,2398.5,11.9,99.0,3,0,2025-06-02,-2,Complete,0
+PO-2025-001957,SUP-043,Supplier Generic 43,Japan,Component,High,2025-03-26,2025-04-15,3823,1.33,5084.59,Net 90,Air,6871.3,18.0,63.2,7,1,2025-04-16,1,Complete,1
+PO-2025-001078,SUP-014,Chennai Steel Works,South Korea,Packaging,Low,2025-03-01,2025-03-26,469,28.61,13418.09,COD,sea,5716.2,22.9,73.9,8,1,2025-03-24,-2,Complete,0
+PO-2025-000513,SUP-008,Shenzhen Precision Metals,South Korea,Component,Medium,2025-06-05,2025-06-26,170,44.75,7607.5,Net 30,Sea,6024.8,14.4,61.0,6,0,2025-06-24,-2,Complete,0
+PO-2025-000767,SUP-015,KL Electronic Parts,China,Component,Medium,2025-03-06,2025-03-31,251,4.18,1049.18,Net 30,Sea,3276.4,19.7,79.7,1,1,2025-03-29,-2,Complete,0
+PO-2025-000435,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Raw Material,Low,2025-02-13,2025-03-13,6990,16.83,117641.7,Net 90,Sea,4802.1,24.2,59.8,7,0,2025-03-19,6,Complete,1
+PO-2025-001735,SUP-042,Supplier Generic 42,South Korea,Component,Low,2025-01-13,2025-02-04,74,12.54,927.96,Net 30,Sea,5449.8,15.4,64.2,10,0,2025-02-02,-2,Complete,0
+PO-2025-000408,SUP-013,Bangkok Packaging Solutions,Germany,Component,Low,2025-03-05,2025-04-02,800,,,Net 90,Sea,12004.7,21.0,53.4,6,1,2025-04-02,0,Complete,0
+PO-2025-001202,SUP-025,Supplier Generic 25,South Korea,Packaging,Low,2025-04-29,2025-05-25,641,16.91,10839.31,Net 60,Sea,6258.2,22.0,76.1,7,1,2025-06-08,14,Complete,1
+PO-2025-002052,SUP-050,Supplier Generic 50,Indonesia,Component,Low,2025-05-30,2025-06-02,10008,22.9,229183.2,COD,land,351.6,6.2,78.9,4,0,2025-05-30,-3,Complete,0
+PO-2025-001885,SUP-044,Supplier Generic 44,China,Packaging,Low,2025-04-03,2025-04-19,285,6.68,1903.8,Net 60,Air,3244.3,18.9,76.0,4,1,2025-04-16,-3,Pending,0
+PO-2025-001477,SUP-015,KL Electronic Parts,China,Component,Medium,2025-02-06,2025-03-02,221,5.02,1109.42,Net 90,Sea,3168.2,19.7,79.7,6,0,2025-03-01,-1,Complete,0
+PO-2025-001060,SUP-007,Global Parts Co.,USA,Raw Material,Low,2025-01-08,2025-01-31,1349,9.22,12437.78,Net 30,Air,16753.4,30.2,59.5,5,0,2025-01-28,-3,Complete,0
+PO-2025-000947,SUP-010,Deutsche Praezisionsteile GmbH,China,Raw Material,High,2025-01-08,2025-01-23,926,14.85,13751.1,Net 60,Sea,3093.4,17.0,64.2,2,0,2025-01-23,0,Complete,0
+PO-2025-000074,SUP-001,PT Sinar Logam Jaya,South Korea,Packaging,Medium,2025-03-23,2025-04-19,950,57.72,54834.0,Net 90,Sea,6019.5,18.3,85.9,3,1,2025-04-19,0,Complete,0
+PO-2025-002336,SUP-009,Hanoi Component Supply,Indonesia,Component,High,2025-02-12,2025-02-17,319,15.47,4934.93,Net 60,Land,372.2,7.6,90.8,6,0,2025-02-14,-3,Complete,0
+PO-2025-001095,SUP-013,Bangkok Packaging Solutions,Germany,Packaging,Low,2025-06-06,2025-07-01,881,2.49,2193.69,COD,Sea,10327.7,21.0,53.4,3,0,2025-06-28,-3,Complete,0
+PO-2025-002480,SUP-009,Hanoi Component Supply,Indonesia,MRO,High,2025-03-18,2025-03-26,86,13.79,1185.94,Net 90,Courier,400.1,7.6,90.8,6,1,2025-03-26,0,Complete,0
+PO-2025-000542,SUP-028,Supplier Generic 28,Indonesia,Raw Material,Medium,2025-02-18,2025-02-22,1039,4.05,4207.95,Net 60,Courier,311.2,4.4,83.4,4,0,2025-03-01,7,Complete,1
+PO-2025-000489,SUP-033,Supplier Generic 33,China,Raw Material,Low,2025-03-25,2025-04-05,2564,16.39,42023.96,Net 30,Air,2858.8,13.3,81.7,6,1,2025-04-04,-1,Complete,0
+PO-2025-002063,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,Low,2025-02-03,2025-03-01,1158,8.86,10259.88,Net 60,Sea,14428.1,23.3,57.9,6,0,2025-03-01,0,Complete,0
+PO-2025-002399,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Component,Medium,2025-03-07,2025-04-08,614,4.55,2793.7,Net 30,Sea,4695.8,24.2,59.8,4,1,2025-04-06,-2,Complete,0
+PO-2025-001417,SUP-026,Supplier Generic 26,Indonesia,Packaging,Low,2025-06-13,2025-06-15,1630,16.92,27579.6,Net 60,Land,398.9,2.0,83.4,10,0,2025-06-15,0,Complete,0
+PO-2025-001563,SUP-019,PT Teknindo Sukses Mandiri,south korea,Raw Material,Low,2025-06-13,2025-07-12,253,3.25,822.25,Net 30,Sea,5402.2,24.2,59.8,4,0,2025-07-12,0,Complete,0
+PO-2025-001705,SUP-013,Bangkok Packaging Solutions,Germany,Component,High,2025-01-23,2025-02-21,259,10.43,2701.37,Net 30,Sea,10198.6,21.0,53.4,7,0,2025-03-05,12,Complete,1
+PO-2025-001652,SUP-009,Hanoi Component Supply,Indonesia,Packaging,Medium,2025-05-28,2025-06-03,645,91.38,58940.1,,Land,299.0,7.6,90.8,4,0,2025-06-03,0,Complete,0
+PO-2025-002117,SUP-016,PT Cahaya Logistik Industri,Indonesia,Component,Medium,2025-04-03,2025-04-15,1422,2.2,3128.4,Net 30,Land,329.9,10.2,,3,1,2025-04-15,0,Complete,0
+PO-2025-001811,SUP-024,Supplier Generic 24,Thailand,Raw Material,High,2025-05-03,2025-05-23,763,15.59,11895.17,Net 60,Sea,2026.0,11.9,99.0,2,0,2025-05-20,-3,Complete,0
+PO-2025-001082,SUP-010,Deutsche Praezisionsteile GmbH,China,Component,Medium,2025-06-19,2025-07-12,1743,5.81,10126.83,Net 30,Sea,2941.4,17.0,64.2,7,0,2025-07-26,14,Complete,1
+PO-2025-000164,SUP-032,Supplier Generic 32,India,Raw Material,Low,2025-04-22,2025-05-17,1097,13.39,14688.83,Net 30,Sea,3463.5,19.2,90.1,3,1,2025-05-17,0,Complete,0
+PO-2025-000409,SUP-043,Supplier Generic 43,Japan,Component,High,2025-06-02,2025-06-23,378,19.09,7216.02,Net 30,Sea,6515.3,18.0,63.2,8,0,2025-06-21,-2,Complete,0
+PO-2025-000023,SUP-037,Supplier Generic 37,Indonesia,Component,Medium,2025-02-21,2025-02-28,811,6.59,5344.49,Net 60,Land,321.8,9.5,88.9,4,0,2025-02-28,0,Complete,0
+PO-2025-000205,SUP-044,Supplier Generic 44,China,Raw Material,High,2025-02-19,2025-03-04,96,14.92,1432.32,Net 90,Air,3422.3,18.9,76.0,2,0,2025-03-01,-3,Complete,0
+PO-2025-000642,SUP-007,Global Parts Co.,USA,Raw Material,Medium,2025-04-11,2025-05-16,4582,14.53,66576.46,Net 30,sea,17657.7,30.2,59.5,4,1,2025-05-25,9,Complete,1
+PO-2025-001809,SUP-004,PT Karya Plastik Sejahtera,Japan,Packaging,Low,2025-04-30,2025-05-23,1186,4.09,4850.74,Net 30,Sea,4936.1,18.9,59.3,8,1,2025-05-23,0,Complete,0
+PO-2025-001724,SUP-004,PT Karya Plastik Sejahtera,Japan,Raw Material,Low,2025-04-11,2025-05-07,597,6.94,4143.18,,Sea,5984.5,18.9,59.3,6,1,2025-05-18,11,Complete,1
+PO-2025-000400,SUP-025,Supplier Generic 25,South Korea,Raw Material,Low,2025-05-04,2025-05-23,417,6.43,2681.31,Net 30,Air,4940.1,22.0,76.1,5,0,2025-05-20,-3,Complete,0
+PO-2025-000641,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Component,Medium,2025-01-21,2025-01-24,317,65.64,20807.88,Net 90,courier,376.2,6.3,51.1,7,0,2025-01-29,5,Complete,1
+PO-2025-000391,SUP-013,Bangkok Packaging Solutions,GERMANY,Component,Medium,2025-04-18,2025-05-17,2289,7.63,17465.07,Net 30,Sea,13132.9,21.0,53.4,8,1,2025-05-22,5,Complete,1
+PO-2025-002227,SUP-039,Supplier Generic 39,Indonesia,Packaging,Low,2025-02-01,2025-02-03,929,22.31,20725.99,Net 60,Courier,322.0,2.9,79.9,9,0,2025-02-15,12,Complete,1
+PO-2025-000932,SUP-034,Supplier Generic 34,China,Raw Material,Medium,2025-02-12,2025-02-28,834,6.83,5696.22,Net 90,Air,2975.5,17.8,81.6,7,0,2025-02-27,-1,Complete,0
+PO-2025-001467,SUP-031,Supplier Generic 31,USA,Component,High,2025-06-06,2025-07-14,811,27.43,22245.73,Net 60,Sea,16841.6,30.5,89.8,4,0,2025-07-11,-3,Complete,0
+PO-2025-000421,SUP-037,Supplier Generic 37,Indonesia,Packaging,Low,2025-01-28,2025-02-03,142,2.4,340.8,Net 60,Courier,347.9,9.5,88.9,9,0,2025-02-11,8,Complete,1
+PO-2025-000287,SUP-028,Supplier Generic 28,Indonesia,Raw Material,Medium,2025-05-11,2025-05-15,322,12.83,4131.26,Net 30,Land,417.2,4.4,83.4,5,0,2025-05-15,0,Complete,0
+PO-2025-002226,SUP-047,Supplier Generic 47,China,Component,Medium,2025-01-08,2025-01-26,537,5.87,3152.19,Net 30,Sea,3007.5,11.1,49.4,8,0,2025-01-28,2,Complete,1
+PO-2025-001788,SUP-006,PT Sumber Teknik Mandiri,India,Packaging,High,2025-03-29,2025-04-20,982,12.01,11793.82,Net 30,Sea,4562.6,18.0,87.2,3,1,2025-04-18,-2,Complete,0
+PO-2025-002466,SUP-010,Deutsche Praezisionsteile GmbH,China,MRO,High,2025-02-22,2025-03-12,104,27.37,2846.48,Net 30,Sea,3738.6,17.0,64.2,10,0,2025-03-12,0,Complete,0
+PO-2025-000299,SUP-026,Supplier Generic 26,Indonesia,Raw Material,Low,2025-06-27,2025-06-30,774,7.18,5557.32,Net 60,Land,401.7,2.0,83.4,7,0,2025-06-28,-2,Complete,0
+PO-2025-001917,SUP-046,Supplier Generic 46,south korea,MRO,Low,2025-02-23,2025-03-19,560,50.44,28246.4,Net 30,Sea,5410.4,20.8,93.5,2,0,2025-03-19,0,Complete,0
+PO-2025-002160,SUP-026,Supplier Generic 26,indonesia,Raw Material,Medium,2025-06-21,2025-06-23,126,9.45,1190.7,Net 30,Land,322.0,2.0,83.4,3,0,2025-06-23,0,Complete,0
+PO-2025-002164,SUP-049,Supplier Generic 49,Japan,Packaging,Low,2025-06-18,2025-07-05,362,5.05,1828.1,Net 60,Air,5138.1,20.2,40.0,4,0,2025-07-02,-3,Complete,0
+PO-2025-000529,SUP-044,Supplier Generic 44,China,Raw Material,Low,2025-06-28,2025-07-15,2105,18.64,39237.2,Net 30,Air,3561.6,18.9,76.0,2,0,2025-07-15,0,Complete,0
+PO-2025-001946,SUP-039,Supplier Generic 39,Indonesia,Raw Material,High,2025-04-08,2025-04-13,1732,15.72,27227.04,Net 30,Land,348.8,2.9,79.9,6,1,2025-04-14,1,Complete,1
+PO-2025-000600,SUP-015,KL Electronic Parts,China,Raw Material,High,2025-04-23,2025-05-16,35,46.65,1632.75,Net 30,Sea,3104.8,19.7,79.7,5,1,2025-05-14,-2,Complete,0
+PO-2025-001560,SUP-022,Supplier Generic 22,China,Raw Material,Medium,2025-01-28,2025-02-19,1732,29.76,51544.32,Net 30,Sea,3601.1,17.1,99.0,3,0,2025-02-17,-2,Complete,0
+PO-2025-000333,SUP-034,Supplier Generic 34,China,Component,Low,2025-01-17,2025-02-08,1859,2.79,5186.61,Net 60,Sea,3077.9,17.8,81.6,5,0,2025-02-05,-3,Complete,0
+PO-2025-001545,SUP-002,PT Mitra Komponen Nusantara,China,Raw Material,Medium,2025-06-17,2025-07-10,5416,59.8,323876.8,Net 60,Sea,3079.2,18.5,59.4,7,0,2025-07-20,10,Complete,1
+PO-2025-001223,SUP-048,Supplier Generic 48,Indonesia,Raw Material,Medium,2025-03-09,2025-03-16,19,11.24,213.56,Net 60,Land,316.9,5.9,96.4,5,1,2025-03-13,-3,Complete,0
+PO-2025-000461,SUP-016,PT Cahaya Logistik Industri,Indonesia,Raw Material,Medium,2025-02-20,2025-03-03,1634,3.75,6127.5,Net 30,Courier,340.0,10.2,67.7,1,0,2025-03-02,-1,Pending,0
+PO-2025-001584,SUP-045,Supplier Generic 45,South Korea,Component,Low,2025-06-26,2025-07-14,739,9.15,6761.85,Net 30,Air,5183.0,22.5,72.4,7,0,2025-07-13,-1,Complete,0
+PO-2025-000240,SUP-031,Supplier Generic 31,USA,Component,Low,2025-03-18,2025-04-11,1428,14.82,21162.96,Net 30,Air,16977.7,30.5,89.8,3,1,2025-04-10,-1,Complete,0
+PO-2025-000155,SUP-023,Supplier Generic 23,India,Raw Material,Medium,2025-04-12,2025-05-07,633,,,Net 60,sea,4657.2,17.2,48.9,7,1,2025-05-16,9,Complete,1
+PO-2025-002148,SUP-031,Supplier Generic 31,USA,Packaging,Medium,2025-05-08,2025-06-05,743,11.09,8239.87,Net 30,Air,15843.3,30.5,89.8,2,0,2025-06-05,0,Complete,0
+PO-2025-000296,SUP-040,Supplier Generic 40,Japan,Raw Material,Medium,2025-06-16,2025-07-07,1348,10.34,13938.32,Net 90,sea,5776.0,17.0,67.4,5,0,2025-07-07,0,Complete,0
+PO-2025-000582,SUP-034,Supplier Generic 34,China,MRO,Medium,2025-02-28,2025-03-21,261,2.83,738.63,Net 30,Sea,2998.7,17.8,81.6,6,0,2025-03-20,-1,Complete,0
+PO-2025-001348,SUP-036,Supplier Generic 36,Indonesia,Raw Material,Low,2025-01-31,2025-02-03,1107163,,,Net 30,Courier,377.2,3.4,40.0,8,0,2025-02-01,-2,Complete,0
+PO-2025-001965,SUP-006,PT Sumber Teknik Mandiri,India,Component,Low,2025-02-27,2025-03-22,513,25.58,13122.54,Net 60,Sea,4666.4,18.0,87.2,2,0,2025-03-19,-3,Complete,0
+PO-2025-001448,SUP-046,Supplier Generic 46,South Korea,Component,High,2025-01-28,2025-02-22,763,23.65,18044.95,Net 60,Sea,4549.3,20.8,93.5,6,0,2025-03-06,12,Complete,1
+PO-2025-000719,SUP-016,PT Cahaya Logistik Industri,indonesia,Packaging,Medium,2025-03-05,2025-03-16,228,8.88,2024.64,Net 60,Land,388.5,10.2,67.7,3,1,2025-03-14,-2,Complete,0
+PO-2025-000699,SUP-030,Supplier Generic 30,Japan,Raw Material,High,2025-05-21,2025-06-20,689,11.61,7999.29,Net 30,sea,6996.9,22.3,78.3,4,0,2025-06-18,-2,Complete,0
+PO-2025-001104,SUP-015,KL Electronic Parts,china,MRO,High,2025-04-10,2025-05-02,1093,8.33,9104.69,Net 60,Sea,3252.7,19.7,79.7,7,1,2025-04-29,-3,Complete,0
+PO-2025-001626,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,Medium,2025-03-28,2025-04-20,1594,6.86,10934.84,Net 60,Air,12711.0,23.3,57.9,4,1,2025-04-18,-2,Complete,0
+PO-2025-000427,SUP-047,Supplier Generic 47,china,Component,Low,2025-05-31,2025-06-10,874,13.29,11615.46,Net 30,Air,3487.2,11.1,49.4,10,0,2025-06-08,-2,Pending,0
+PO-2025-000080,SUP-015,KL Electronic Parts,China,MRO,Low,2025-01-30,2025-02-23,507,,,Net 60,Sea ,3955.1,19.7,79.7,11,0,2025-02-28,5,Complete,1
+PO-2025-000594,SUP-043,Supplier Generic 43,Japan,MRO,Medium,2025-05-25,2025-06-14,378,7.74,2925.72,Net 30,Sea,6683.4,18.0,63.2,8,0,2025-06-11,-3,Complete,0
+PO-2025-000492,SUP-037,Supplier Generic 37,indonesia,Component,High,2025-01-31,2025-02-07,323,9.04,2919.92,Net 30,Land,355.0,9.5,88.9,4,0,2025-02-06,-1,Complete,0
+PO-2025-001593,SUP-016,PT Cahaya Logistik Industri,INDONESIA,Raw Material,High,2025-04-01,2025-04-13,1597,3.38,5397.86,Net 30,Courier,403.7,10.2,67.7,3,1,2025-04-11,-2,Complete,0
+PO-2025-000495,SUP-032,Supplier Generic 32,India,Raw Material,High,2025-06-15,2025-07-03,1693,3.77,6382.61,Net 30,Air,5817.1,19.2,90.1,6,0,2025-06-30,-3,Complete,0
+PO-2025-000848,SUP-046,Supplier Generic 46,South Korea,Component,Medium,2025-01-07,2025-02-01,310,,,COD,Sea,4833.7,20.8,93.5,3,0,2025-01-29,-3,Complete,0
+PO-2025-001430,SUP-023,Supplier Generic 23,India,MRO,Low,2025-06-15,2025-07-08,984,5.72,5628.48,COD,Sea,3823.6,17.2,48.9,6,0,2025-07-05,-3,Complete,0
+PO-2025-002116,SUP-040,Supplier Generic 40,Japan,Raw Material,Low,2025-02-10,2025-02-25,4962,14.02,69567.24,Net 90,Air,4622.8,17.0,67.4,8,0,2025-02-25,0,Complete,0
+PO-2025-001439,SUP-036,Supplier Generic 36,Indonesia,Raw Material,Low,2025-01-03,2025-01-05,657,4.88,3206.16,COD,Courier,305.8,3.4,40.0,8,0,2025-01-07,2,Complete,1
+PO-2025-002339,SUP-040,Supplier Generic 40,Japan,Component,Low,2025-03-16,2025-03-30,1827,2.43,4439.61,Net 30,Air,5337.1,17.0,67.4,6,1,2025-03-29,-1,Complete,0
+PO-2025-001698,SUP-031,Supplier Generic 31,USA,Packaging,Low,2025-06-15,2025-07-20,2479,23.8,59000.2,Net 60,Sea,16386.1,30.5,89.8,8,0,2025-07-20,0,Complete,0
+PO-2025-000793,SUP-044,Supplier Generic 44,China,Raw Material,Medium,2025-03-09,2025-03-30,566,8.17,4624.22,Net 30,Sea,3137.5,18.9,76.0,8,1,2025-03-30,0,Complete,0
+PO-2025-000952,SUP-034,Supplier Generic 34,China,MRO,Low,2025-03-25,2025-04-05,421,7.18,3022.78,Net 60,Air,2659.7,17.8,81.6,9,1,2025-04-08,3,Complete,1
+PO-2025-000975,SUP-039,Supplier Generic 39,Indonesia,Raw Material,High,2025-04-18,2025-04-22,910,8.54,7771.4,COD,Land,348.0,2.9,79.9,7,1,2025-04-19,-3,Complete,0
+PO-2025-001612,SUP-009,Hanoi Component Supply,Indonesia,Component,Medium,2025-01-23,2025-02-01,131,2.84,372.04,Net 60,Courier,396.7,7.6,90.8,1,0,2025-01-31,-1,Complete,0
+PO-2025-000216,SUP-035,Supplier Generic 35,China,Component,Low,2025-04-27,2025-05-14,297,24.02,7133.94,Net 30,Sea,3148.7,14.5,80.7,2,1,2025-05-28,14,Complete,1
+PO-2025-002024,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Raw Material,Medium,2025-01-05,2025-01-13,4594,14.02,64407.88,Net 60,Land,369.5,6.3,51.1,7,0,2025-01-20,7,Pending,1
+PO-2025-002302,SUP-011,Tokyo Machining Corp,CHINA,Raw Material,Low,2025-03-29,2025-04-13,1050,26.72,28056.0,Net 60,Air ,3499.1,17.8,67.1,8,1,2025-04-12,-1,Complete,0
+PO-2025-001894,SUP-042,Supplier Generic 42,South Korea,Raw Material,Medium,2025-04-25,2025-05-16,307,9.6,2947.2,Net 30,Sea,6626.4,15.4,64.2,4,1,2025-05-18,2,Complete,1
+PO-2025-001009,SUP-027,Supplier Generic 27,China,Component,Low,2025-02-27,2025-03-25,3351,,,Net 60,Sea,3118.0,20.3,50.7,2,0,2025-03-22,-3,Complete,0
+PO-2025-001503,SUP-015,KL Electronic Parts,China,Raw Material,Low,2025-05-13,2025-06-05,259,93.54,24226.86,Net 60,Sea,3115.7,19.7,79.7,5,0,2025-06-02,-3,Complete,0
+PO-2025-000132,SUP-003,PT Baja Presisi Indonesia,Thailand,Packaging,High,2025-03-06,2025-03-27,516,22.1,11403.6,Net 30,Sea,2370.6,14.9,78.5,5,1,2025-03-24,-3,Complete,0
+PO-2025-000595,SUP-027,Supplier Generic 27,China,Raw Material,Medium,2025-01-14,2025-01-30,638,,,Net 30,Air ,3083.9,20.3,50.7,9,0,2025-02-11,12,Complete,1
+PO-2025-002212,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Raw Material,Medium,2025-03-05,2025-03-23,1311,6.63,8691.93,Net 30,Air,2928.8,19.5,65.3,4,1,2025-03-21,-2,Complete,0
+PO-2025-002018,SUP-011,Tokyo Machining Corp,CHINA,MRO,High,2025-06-28,2025-07-20,1042,29.47,30707.74,Net 60,Sea,3590.5,17.8,67.1,6,0,2025-07-20,0,Complete,0
+PO-2025-001495,SUP-035,Supplier Generic 35,China,Raw Material,Medium,2025-05-11,2025-06-03,2971,21.68,64411.28,Net 30,Sea,3179.7,14.5,80.7,4,0,2025-05-31,-3,Complete,0
+PO-2025-001521,SUP-013,Bangkok Packaging Solutions,Germany,Raw Material,Medium,2025-05-28,2025-06-24,2638,5.27,13902.26,Net 90,Sea ,12549.4,21.0,53.4,7,0,2025-07-06,12,Complete,1
+PO-2025-001660,SUP-050,Supplier Generic 50, Indonesia ,Raw Material,Low,2025-05-03,2025-05-11,2270,10.08,22881.6,Net 90,courier,333.7,6.2,78.9,6,0,2025-05-10,-1,Complete,0
+PO-2025-000571,SUP-046,Supplier Generic 46,South Korea,Packaging,Medium,2025-05-04,2025-05-26,213,11.02,2347.26,COD,Sea,5389.7,20.8,93.5,7,0,2025-05-25,-1,Complete,0
+PO-2025-001399,SUP-038,Supplier Generic 38,China,Raw Material,Low,2025-04-27,2025-05-20,411,10.01,4114.11,Net 30,Sea,3421.9,19.9,70.2,4,1,2025-05-19,-1,Complete,0
+PO-2025-001925,SUP-012,Seoul Alloy Industries,MALAYSIA,Raw Material,Low,2025-01-06,2025-01-20,290,13.22,3833.8,Net 90,Sea,1814.2,6.8,96.6,6,0,2025-01-18,-2,Complete,0
+PO-2025-001422,SUP-002,PT Mitra Komponen Nusantara,China,Component,Low,2025-04-23,2025-05-07,2928,36.08,105642.24,Net 30,Air,3162.5,18.5,59.4,8,1,2025-05-07,0,Complete,0
+PO-2025-001052,SUP-024,Supplier Generic 24,Thailand,Packaging,Medium,2025-05-02,2025-05-18,262,24.91,6526.42,Net 30,Sea,2448.4,11.9,99.0,3,0,2025-05-18,0,Complete,0
+PO-2025-000828,SUP-029,Supplier Generic 29,Indonesia,Raw Material,Medium,2025-01-17,2025-01-21,4143,21.97,91021.71,Net 30,Courier,349.2,8.5,40.0,8,0,2025-01-21,0,Complete,0
+PO-2025-002014,SUP-024,Supplier Generic 24,Thailand,MRO,Low,2025-04-16,2025-04-24,268,41.0,10988.0,Net 30,Air,2131.8,11.9,99.0,6,1,2025-05-01,7,Complete,1
+PO-2025-001058,SUP-020,PT Wijaya Sparepart Utama,Germany,Component,Low,2025-02-15,2025-03-20,556,3.74,2079.44,Net 30,Sea,9497.2,23.3,57.9,15,0,2025-03-19,-1,Complete,0
+PO-2025-001011,SUP-048,Supplier Generic 48,Indonesia,Raw Material,Low,2025-04-27,2025-04-29,62,14.58,903.96,COD,Courier,345.2,5.9,96.4,6,1,2025-04-27,-2,Complete,0
+PO-2025-000861,SUP-028,Supplier Generic 28,Indonesia,MRO,Medium,2025-03-15,2025-03-21,432,7.12,3075.84,Net 30,Land,393.9,4.4,83.4,2,1,2025-03-19,-2,Complete,0
+PO-2025-001551,SUP-035,Supplier Generic 35,CHINA,Component,High,2025-02-14,2025-02-26,3794,4.37,16579.78,COD,Air,3573.9,14.5,80.7,2,0,2025-02-25,-1,Complete,0
+PO-2025-000790,SUP-013,Bangkok Packaging Solutions,Germany,Component,Medium,2025-03-27,2025-04-20,521,15.16,7898.36,Net 30,Sea,9115.5,21.0,53.4,9,1,2025-05-01,11,Complete,1
+PO-2025-001681,SUP-048,Supplier Generic 48,Indonesia,Raw Material,Medium,2025-06-20,2025-06-27,315,9.45,2976.75,Net 30,Land,398.4,5.9,96.4,6,0,2025-06-26,-1,Complete,0
+PO-2025-001244,SUP-010,Deutsche Praezisionsteile GmbH,China,Packaging,Medium,2025-01-03,2025-01-15,1999,16.58,33143.42,Net 30,Air,2666.5,17.0,64.2,8,0,2025-01-14,-1,Complete,0
+PO-2025-002294,SUP-041,Supplier Generic 41,China,MRO,Low,2025-02-25,2025-03-14,290,6.71,1945.9,Net 30,Air,3106.1,18.1,,10,0,2025-03-20,6,Complete,1
+PO-2025-002112,SUP-048,Supplier Generic 48,Indonesia,Raw Material,Medium,2025-03-11,2025-03-17,477,3.11,1483.47,Net 60,Land,393.2,5.9,96.4,8,1,2025-03-14,-3,Complete,0
+PO-2025-001520,SUP-040,Supplier Generic 40,Japan,MRO,High,2025-06-04,2025-06-27,543,14.79,8030.97,Net 60,Sea,5708.4,17.0,67.4,8,0,2025-07-04,7,Complete,1
+PO-2025-000324,SUP-042,Supplier Generic 42,South Korea,Raw Material,Low,2025-02-05,2025-02-25,299,13.41,4009.59,Net 30,Sea,5431.5,15.4,64.2,9,0,2025-02-24,-1,Complete,0
+PO-2025-001031,SUP-050,Supplier Generic 50,Indonesia,MRO,Medium,2025-02-19,2025-02-22,1995,16.51,32937.45,Net 30,Courier,372.6,6.2,78.9,7,0,2025-02-20,-2,Complete,0
+PO-2025-001900,SUP-034,Supplier Generic 34,China,Packaging,Medium,2025-03-30,2025-04-13,338,10.67,3606.46,Net 30,Air,3143.0,17.8,81.6,5,1,2025-04-13,0,Partial,0
+PO-2025-002476,SUP-035,Supplier Generic 35,China,MRO,High,2025-02-16,2025-03-08,572,34.01,19453.72,Net 60,Sea,2736.4,14.5,80.7,5,0,2025-03-07,-1,Complete,0
+PO-2025-001049,SUP-029,Supplier Generic 29,Indonesia,Component,High,2025-04-24,2025-05-04,921,6.06,5581.26,Net 90,Land,326.9,8.5,40.0,13,1,2025-05-11,7,Complete,1
+PO-2025-002196,SUP-005,PT Anugerah Kemasan,Indonesia,Raw Material,Low,2025-02-02,2025-02-04,326,5.8,1890.8,Net 30,Courier,307.8,2.0,98.1,6,0,2025-02-01,-3,Complete,0
+PO-2025-001773,SUP-027,Supplier Generic 27,China,Raw Material,Low,2025-04-03,2025-05-01,399,8.24,3287.76,Net 60,Sea,2870.2,20.3,50.7,11,1,2025-04-28,-3,Complete,0
+PO-2025-002205,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Packaging,Medium,2025-01-01,2025-01-26,280,32.6,9128.0,Net 60,Sea,1962.7,19.5,65.3,7,0,2025-01-23,-3,Complete,0
+PO-2025-000311,SUP-004,PT Karya Plastik Sejahtera,Japan,Component,Medium,2025-06-07,2025-06-24,1924,4.96,9543.04,Net 30,Air,5406.9,18.9,59.3,5,0,2025-06-23,-1,Complete,0
+PO-2025-001387,SUP-009,Hanoi Component Supply,Indonesia,Component,High,2025-05-14,2025-05-21,1017,3.64,3701.88,Net 90,Courier,355.6,7.6,90.8,8,0,2025-05-19,-2,Complete,0
+PO-2025-002000,SUP-024,Supplier Generic 24,Thailand,Raw Material,Medium,2025-05-26,2025-06-02,3487,32.07,111828.09,Net 60,Air,2463.4,11.9,99.0,4,0,2025-06-01,-1,Complete,0
+PO-2025-001016,SUP-046,Supplier Generic 46,South Korea,Component,High,2025-03-01,2025-03-20,397139,9.63,9350.73,Net 60,Air,4155.5,20.8,93.5,7,1,2025-03-18,-2,Complete,0
+PO-2025-002087,SUP-050,Supplier Generic 50,Indonesia,Component,Low,2025-03-03,2025-03-08,458,6.81,3118.98,Net 90,Courier,312.7,6.2,78.9,4,1,2025-03-07,-1,Complete,0
+PO-2025-002496,SUP-014,Chennai Steel Works,South Korea,Packaging,Medium,2025-01-09,2025-02-05,135,16.39,2212.65,Net 30,Sea,5885.3,22.9,,6,0,2025-02-03,-2,Complete,0
+PO-2025-000027,SUP-032,Supplier Generic 32,India,Raw Material,High,2025-01-05,2025-02-02,364,5.08,1849.12,COD,Sea,4276.5,19.2,90.1,3,0,2025-02-13,11,Complete,1
+PO-2025-002498,SUP-049,Supplier Generic 49,Japan,MRO,High,2025-03-28,2025-04-11,2009,24.03,48276.27,Net 30,Air,4903.7,20.2,40.0,3,1,2025-04-11,0,Complete,0
+PO-2025-001820,SUP-049,Supplier Generic 49,Japan,MRO,Low,2025-02-16,2025-03-13,323,13.54,4373.42,Net 90,Sea ,6427.9,20.2,40.0,6,0,2025-03-13,0,Complete,0
+PO-2025-002334,SUP-036,Supplier Generic 36,Indonesia,Raw Material,Medium,2025-06-28,2025-06-30,289,21.86,6317.54,Net 30,Courier,272.2,3.4,40.0,6,0,2025-07-03,3,Complete,1
+PO-2025-001214,SUP-048,Supplier Generic 48,Indonesia,Raw Material,Medium,2025-03-16,2025-03-22,352,27.77,9775.04,Net 30,Land,294.6,5.9,96.4,7,1,2025-03-19,-3,Complete,0
+PO-2025-000967,SUP-002,PT Mitra Komponen Nusantara,China,Packaging,Low,2025-01-19,2025-02-10,11957,,,Net 60,Sea,3386.2,18.5,59.4,7,0,2025-02-13,3,Complete,1
+PO-2025-002439,SUP-004,PT Karya Plastik Sejahtera,Japan,Raw Material,Medium,2025-06-15,2025-07-11,4426,5.81,25715.06,Net 30,Sea,6317.0,18.9,59.3,9,0,2025-07-09,-2,Complete,0
+PO-2025-000499,SUP-004,PT Karya Plastik Sejahtera,Japan,Component,High,2025-05-22,2025-06-07,360,21.64,7790.4,COD,Air,6680.0,18.9,59.3,13,0,2025-06-06,-1,Complete,0
+PO-2025-000042,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,Low,2025-01-15,2025-02-03,2892,13.95,40343.4,Net 30,Air,12649.6,23.3,57.9,2,0,2025-02-01,-2,Complete,0
+PO-2025-000992,SUP-046,Supplier Generic 46,South Korea,Raw Material,Medium,2025-01-13,2025-02-06,661,3.65,2412.65,Net 30,Sea,5211.6,20.8,93.5,3,0,2025-02-03,-3,Complete,0
+PO-2025-001883,SUP-049,Supplier Generic 49,Japan,Raw Material,Low,2025-04-18,2025-05-08,1621,15.69,25433.49,,Air,5915.7,20.2,40.0,5,1,2025-05-07,-1,Complete,0
+PO-2025-001275,SUP-027,Supplier Generic 27,China,Component,Low,2025-02-24,2025-03-23,217,12.63,2740.71,Net 30,Sea,3455.4,20.3,50.7,4,0,2025-03-20,-3,Complete,0
+PO-2025-001101,SUP-012,Seoul Alloy Industries,Malaysia,Component,Low,2025-05-10,2025-05-12,1983,16.01,31747.83,Net 30,Air,1954.6,6.8,96.6,5,0,2025-05-12,0,Complete,0
+PO-2025-001843,SUP-002,PT Mitra Komponen Nusantara,China,Raw Material,High,2025-02-26,2025-03-23,314,6.73,2113.22,Net 90,Sea,2835.7,18.5,59.4,6,0,2025-03-23,0,Complete,0
+PO-2025-001464,SUP-023,Supplier Generic 23,India,MRO,Medium,2025-05-04,2025-05-24,186,,,Net 30,Sea,4622.4,17.2,48.9,5,0,2025-05-21,-3,Complete,0
+PO-2025-002110,SUP-043,Supplier Generic 43,Japan,MRO,Medium,2025-03-28,2025-04-21,384,18.45,7084.8,Net 90,Sea,6653.8,18.0,63.2,10,1,2025-04-20,-1,Complete,0
+PO-2025-000503,SUP-041,Supplier Generic 41,China,Packaging,Low,2025-02-23,2025-03-20,2967,11.86,35188.62,Net 90,Sea,3252.5,18.1,43.3,14,0,2025-03-30,10,Complete,1
+PO-2025-002481,SUP-012,Seoul Alloy Industries,Malaysia,Packaging,High,2025-02-28,2025-03-03,711,67.39,47914.29,Net 90,Air,1961.5,6.8,96.6,7,0,2025-02-28,-3,Complete,0
+PO-2025-000636,SUP-020,PT Wijaya Sparepart Utama,Germany,Component,Low,2025-04-15,2025-05-12,2319,60.6,140531.4,Net 30,Sea ,9631.4,23.3,57.9,8,1,2025-05-24,12,Complete,1
+PO-2025-001347,SUP-008,Shenzhen Precision Metals,South Korea,Component,Low,2025-06-23,2025-07-13,1557,42.98,66919.86,Net 90,Sea,5194.6,14.4,61.0,7,0,2025-07-13,0,Complete,0
+PO-2025-000030,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Component,High,2025-02-07,2025-03-09,982,18.12,17793.84,Net 30,Sea,5673.8,24.2,59.8,8,0,2025-03-09,0,Complete,0
+PO-2025-000356,SUP-011,Tokyo Machining Corp,China,Packaging,Low,2025-01-10,2025-02-01,2385,18.82,44885.7,Net 90,Sea,3305.1,17.8,67.1,7,0,2025-02-01,0,Complete,0
+PO-2025-002273,SUP-046,Supplier Generic 46,South Korea,Packaging,Low,2025-04-08,2025-05-03,720,39.17,28202.4,Net 60,Sea,5209.9,20.8,93.5,4,1,2025-04-30,-3,Complete,0
+PO-2025-001541,SUP-040,Supplier Generic 40,Japan,Component,Medium,2025-06-22,2025-07-15,768,5.23,4016.64,Net 30,Sea,6988.8,17.0,67.4,3,0,2025-07-14,-1,Complete,0
+PO-2025-001059,SUP-039,Supplier Generic 39,Indonesia,Packaging,Medium,2025-05-01,2025-05-03,132,11.37,1500.84,Net 60,Courier,283.9,2.9,79.9,3,0,2025-05-01,-2,Complete,0
+PO-2025-000086,SUP-016,PT Cahaya Logistik Industri,Indonesia,Raw Material,Low,2025-04-16,2025-04-28,190,15.91,3022.9,Net 30,Land,356.5,10.2,67.7,8,1,2025-05-01,3,Complete,1
+PO-2025-001316,SUP-009,Hanoi Component Supply,Indonesia,Raw Material,Low,2025-03-04,2025-03-13,1084,7.3,7913.2,COD,Land,337.3,7.6,90.8,6,1,2025-03-12,-1,Complete,0
+PO-2025-000913,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,Low,2025-06-05,2025-07-07,633,5.44,3443.52,Net 30,Sea,12506.2,23.3,57.9,9,0,2025-07-21,14,Complete,1
+PO-2025-001388,SUP-007,Global Parts Co.,usa,Raw Material,Medium,2025-05-27,2025-06-29,594,55.48,32955.12,Net 90,Sea,15083.0,30.2,59.5,7,0,2025-06-29,0,Complete,0
+PO-2025-001783,SUP-002,PT Mitra Komponen Nusantara,China,Raw Material,High,2025-01-14,2025-02-06,875,4.48,3920.0,Net 60,Sea,3243.6,18.5,59.4,8,0,2025-02-17,11,Complete,1
+PO-2025-001659,SUP-035,Supplier Generic 35,China,Component,Medium,2025-04-12,2025-04-24,2816,6.94,19543.04,Net 60,Air,3039.7,14.5,80.7,3,1,2025-04-22,-2,Complete,0
+PO-2025-000982,SUP-008,Shenzhen Precision Metals,South Korea,MRO,Medium,2025-01-06,2025-01-28,1149,33.82,38859.18,COD,Sea,5239.1,14.4,61.0,2,0,2025-01-28,0,Complete,0
+PO-2025-001039,SUP-032,Supplier Generic 32,india,MRO,Low,2025-01-16,2025-02-10,354,8.49,3005.46,COD,Sea,5252.2,19.2,90.1,1,0,2025-02-07,-3,Pending,0
+PO-2025-000510,SUP-049,Supplier Generic 49,Japan,MRO,Medium,2025-03-29,2025-04-21,3809,19.19,73094.71,Net 90,Sea,6453.2,20.2,40.0,6,1,2025-04-18,-3,Complete,0
+PO-2025-002467,SUP-038,Supplier Generic 38,china,Component,Low,2025-04-01,2025-04-25,1956,2.49,4870.44,Net 60,Sea,3373.7,19.9,70.2,4,1,2025-04-24,-1,Complete,0
+PO-2025-000394,SUP-003,PT Baja Presisi Indonesia,Thailand,Raw Material,Low,2025-03-27,2025-04-10,401,12.17,4880.17,Net 30,Air,2102.6,14.9,78.5,6,1,2025-04-10,0,Complete,0
+PO-2025-002042,SUP-032,Supplier Generic 32,India,Packaging,Low,2025-06-22,2025-07-15,849,12.24,10391.76,COD,Sea,4700.6,19.2,90.1,3,0,2025-07-13,-2,Complete,0
+PO-2025-000075,SUP-005,PT Anugerah Kemasan,Indonesia,Component,Medium,2025-03-24,2025-03-27,315,24.43,7695.45,Net 60,Courier,391.2,2.0,98.1,3,1,2025-03-26,-1,Complete,0
+PO-2025-001354,SUP-021,Supplier Generic 21,USA,Packaging,Medium,2025-03-11,2025-04-02,648,29.8,19310.4,Net 30,air,15053.1,27.5,76.2,7,1,2025-03-31,-2,Complete,0
+PO-2025-001159,SUP-021,Supplier Generic 21,USA,Component,Low,2025-06-10,2025-07-06,336,17.64,5927.04,Net 30,Air,18235.5,27.5,76.2,4,0,2025-07-05,-1,Complete,0
+PO-2025-001525,SUP-012,Seoul Alloy Industries,Malaysia,Component,Medium,2025-01-22,2025-02-07,567,14.2,8051.4,Net 30,sea,1458.2,6.8,96.6,7,0,2025-02-04,-3,Complete,0
+PO-2025-000011,SUP-037,Supplier Generic 37,Indonesia,Raw Material,Medium,2025-01-03,2025-01-12,1543,5.85,9026.55,Net 30,Land,448.3,9.5,88.9,9,0,2025-01-11,-1,Complete,0
+PO-2025-001717,SUP-009,Hanoi Component Supply,Indonesia,Component,Medium,2025-03-14,2025-03-22,2870,12.4,35588.0,Net 90,Land,368.7,7.6,90.8,4,1,2025-03-19,-3,Complete,0
+PO-2025-001600,SUP-001,PT Sinar Logam Jaya,south korea,Packaging,Medium,2025-03-23,2025-04-14,110,13.69,1505.9,Net 30,Sea,5046.9,18.3,85.9,2,1,2025-04-12,-2,Complete,0
+PO-2025-002423,SUP-024,Supplier Generic 24,Thailand,Raw Material,Medium,2025-06-05,2025-06-15,263,25.3,6653.9,Net 30,Air,2038.0,11.9,99.0,4,0,2025-06-13,-2,Complete,0
+PO-2025-001150,SUP-021,Supplier Generic 21,USA,Raw Material,Low,2025-04-29,2025-06-02,1528,5.3,8098.4,Net 60,Sea,17455.5,27.5,76.2,6,1,2025-05-31,-2,Complete,0
+PO-2025-002406,SUP-050,Supplier Generic 50,INDONESIA,MRO,Medium,2025-04-11,2025-04-17,535,7.56,4044.6,COD,Courier,315.9,6.2,78.9,4,1,2025-04-17,0,Complete,0
+PO-2025-002199,SUP-021,Supplier Generic 21,USA,Packaging,Medium,2025-04-01,2025-04-25,141,18.73,2640.93,Net 60,Air,12114.5,27.5,76.2,3,1,2025-04-26,1,Complete,1
+PO-2025-001441,SUP-023,Supplier Generic 23,India,Raw Material,Medium,2025-02-19,2025-03-13,601,11.83,7109.83,Net 30,Sea,5314.6,17.2,48.9,4,0,2025-03-12,-1,Complete,0
+PO-2025-001566,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Component,Medium,2025-01-16,2025-01-20,759,3.77,2861.43,Net 60,Courier,368.2,6.3,51.1,9,0,2025-01-27,7,Complete,1
+PO-2025-001498,SUP-006,PT Sumber Teknik Mandiri,India,MRO,Medium,2025-03-09,2025-03-25,657,12.18,8002.26,Net 30,Air,4117.1,18.0,87.2,5,1,2025-03-23,-2,Complete,0
+PO-2025-001647,SUP-049,Supplier Generic 49,Japan,MRO,Medium,2025-03-21,2025-04-17,1257,25.12,31575.84,Net 30,Sea,5851.2,20.2,40.0,7,1,2025-04-15,-2,Complete,0
+PO-2025-001257,SUP-035,Supplier Generic 35,China,Raw Material,High,2025-05-15,2025-05-30,4165,10.47,43607.55,Net 30,Sea,3024.6,14.5,80.7,4,0,2025-05-27,-3,Complete,0
+PO-2025-000056,SUP-050,Supplier Generic 50,Indonesia,Component,Medium,2025-03-30,2025-04-07,2359,36.52,86150.68,Net 30,Land,315.3,6.2,78.9,13,1,2025-04-07,0,Complete,0
+PO-2025-000483,SUP-041,Supplier Generic 41,China,Component,Low,2025-03-05,2025-03-19,507,3.84,1946.88,Net 60,Air,3069.8,18.1,43.3,8,1,2025-03-16,-3,Complete,0
+PO-2025-002325,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,High,2025-05-11,2025-05-31,1715,9.32,15983.8,Net 90,Air,11154.7,23.3,57.9,6,0,2025-05-30,-1,Complete,0
+PO-2025-000210,SUP-048,Supplier Generic 48,Indonesia,Component,Medium,2025-06-09,2025-06-16,1681,36.19,60835.39,Net 60,Land,292.5,5.9,96.4,2,0,2025-06-13,-3,Complete,0
+PO-2025-001170,SUP-009,Hanoi Component Supply,Indonesia,Raw Material,Low,2025-06-27,2025-07-06,1077,12.45,13408.65,Net 30,Land,314.9,7.6,90.8,1,0,2025-07-16,10,Complete,1
+PO-2025-001438,SUP-028,Supplier Generic 28,Indonesia,MRO,High,2025-04-13,2025-04-16,221,2.92,645.32,Net 30,land,441.1,4.4,83.4,3,1,2025-04-15,-1,Complete,0
+PO-2025-000208,SUP-008,Shenzhen Precision Metals,South Korea,Raw Material,Low,2025-05-14,2025-06-02,717,24.98,17910.66,Net 30,sea,5193.2,14.4,61.0,6,0,2025-06-02,0,Complete,0
+PO-2025-002367,SUP-014,Chennai Steel Works,South Korea,Component,High,2025-01-14,2025-02-11,760,11.1,8436.0,Net 30,Sea,5377.5,22.9,73.9,7,0,2025-02-11,0,Complete,0
+PO-2025-001574,SUP-021,Supplier Generic 21,USA,Component,High,2025-04-26,2025-05-29,1732,12.78,22134.96,Net 60,Sea,17624.7,27.5,76.2,4,1,2025-05-28,-1,Complete,0
+PO-2025-000301,SUP-020,PT Wijaya Sparepart Utama,Germany,Packaging,Low,2025-03-09,2025-04-10,1117,49.83,55660.11,Net 30,Sea,12100.7,23.3,57.9,9,1,2025-04-07,-3,Complete,0
+PO-2025-002285,SUP-039,Supplier Generic 39,Indonesia,Component,Medium,2025-01-25,2025-01-30,2535,12.12,30724.2,Net 60,Land,404.7,2.9,79.9,5,0,2025-01-30,0,Complete,0
+PO-2025-002297,SUP-003,PT Baja Presisi Indonesia,thailand,Component,High,2025-05-23,2025-06-10,116,8.92,1034.72,Net 90,Sea,1959.0,14.9,78.5,5,0,2025-06-07,-3,Complete,0
+PO-2025-001260,SUP-003,PT Baja Presisi Indonesia,Thailand,Packaging,High,2025-05-27,2025-06-08,1195,65.9,78750.5,Net 60,Air,2232.9,14.9,78.5,9,0,2025-06-07,-1,Complete,0
+PO-2025-001743,SUP-024,Supplier Generic 24,Thailand,Packaging,Medium,2025-05-19,2025-05-29,1857,12.28,22803.96,Net 60,Air,2002.2,11.9,99.0,5,0,2025-05-29,0,Complete,0
+PO-2025-001721,SUP-032,Supplier Generic 32,India,Raw Material,Medium,2025-03-11,2025-04-04,113,6.49,733.37,Net 60,Sea,5328.7,19.2,90.1,6,1,2025-04-04,0,Pending,0
+PO-2025-000893,SUP-012,Seoul Alloy Industries,Malaysia,Raw Material,Medium,2025-05-20,2025-06-01,478,14.62,6988.36,Net 90,Sea,1853.1,6.8,96.6,3,0,2025-06-08,7,Complete,1
+PO-2025-000014,SUP-033,Supplier Generic 33,China,Component,High,2025-06-24,2025-07-14,1267,6.03,7640.01,COD,Sea,3415.6,13.3,81.7,9,0,2025-07-14,0,Complete,0
+PO-2025-000524,SUP-003,PT Baja Presisi Indonesia,Thailand,Raw Material,High,2025-05-23,2025-06-14,1982,7.74,15340.68,Net 30,sea,2271.9,14.9,78.5,5,0,2025-06-17,3,Complete,1
+PO-2025-001947,SUP-008,Shenzhen Precision Metals,South Korea,Component,Medium,2025-01-16,2025-01-30,527,13.64,7188.28,Net 60,Air,4939.4,14.4,61.0,4,0,2025-01-27,-3,Complete,0
+PO-2025-002010,SUP-031,Supplier Generic 31, USA ,MRO,Low,2025-02-22,2025-03-25,82,,,COD,Sea,13062.1,30.5,89.8,7,0,2025-03-22,-3,Complete,0
+PO-2025-002021,SUP-029,Supplier Generic 29,Indonesia,Raw Material,High,2025-06-11,2025-06-17,525,9.98,5239.5,Net 60,Land,403.5,8.5,40.0,7,0,2025-06-15,-2,Complete,0
+PO-2025-001286,SUP-004,PT Karya Plastik Sejahtera,Japan,Raw Material,High,2025-01-12,2025-01-28,797,7.0,5579.0,Net 30,Air,5653.5,18.9,59.3,8,0,2025-01-27,-1,Complete,0
+PO-2025-001829,SUP-041,Supplier Generic 41,China,Component,Low,2025-03-14,2025-03-27,517,10.47,5412.99,Net 30,Air,3419.2,18.1,43.3,7,1,2025-03-25,-2,Complete,0
+PO-2025-002403,SUP-002,PT Mitra Komponen Nusantara,China,Packaging,Low,2025-01-12,2025-01-28,521,18.05,9404.05,Net 30,Air,2935.3,18.5,59.4,6,0,2025-01-28,0,Complete,0
+PO-2025-001281,SUP-028,Supplier Generic 28,indonesia,Packaging,Medium,2025-02-22,2025-02-24,322,4.88,1571.36,Net 90,Courier,327.3,4.4,83.4,3,0,2025-02-23,-1,Complete,0
+PO-2025-000456,SUP-032,Supplier Generic 32,INDIA,MRO,Low,2025-01-01,2025-01-24,250,3.26,815.0,Net 30,Sea,5131.2,19.2,90.1,5,0,2025-02-01,8,Complete,1
+PO-2025-000329,SUP-036,Supplier Generic 36,Indonesia,Component,Medium,2025-03-05,2025-03-07,296,,,Net 30,Courier,332.8,3.4,40.0,4,1,2025-03-18,11,Complete,1
+PO-2025-002491,SUP-050,Supplier Generic 50,Indonesia,Component,Medium,2025-06-18,2025-06-25,1395,70.7,98626.5,Net 90,Land,310.5,6.2,78.9,3,0,2025-06-24,-1,Complete,0
+PO-2025-000467,SUP-035,Supplier Generic 35,China,Component,Medium,2025-03-28,2025-04-14,408,73.66,30053.28,Net 60,Sea,3333.1,14.5,80.7,5,1,2025-04-12,-2,Complete,0
+PO-2025-002168,SUP-003,PT Baja Presisi Indonesia,Thailand,Raw Material,Medium,2025-03-29,2025-04-17,1448,24.97,36156.56,Net 60,Sea,1642.6,14.9,78.5,3,1,2025-04-14,-3,Complete,0
+PO-2025-000569,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,Medium,2025-04-08,2025-05-04,112,25.4,2844.8,Net 30,sea,13248.1,23.3,57.9,3,1,2025-05-05,1,Complete,1
+PO-2025-001093,SUP-005,PT Anugerah Kemasan, Indonesia ,Raw Material,High,2025-04-03,2025-04-06,648,3.59,2326.32,Net 30,Land,423.0,2.0,98.1,2,1,2025-04-03,-3,Complete,0
+PO-2025-001258,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Packaging,High,2025-06-21,2025-06-24,4160,5.63,23420.8,Net 30,Courier,314.0,6.3,51.1,9,0,2025-06-23,-1,Complete,0
+PO-2025-000085,SUP-001,PT Sinar Logam Jaya,South Korea,MRO,Medium,2025-01-01,2025-01-18,1905,11.51,21926.55,Net 30,Air,5223.2,18.3,85.9,3,0,2025-01-15,-3,Complete,0
+PO-2025-002417,SUP-039,Supplier Generic 39,Indonesia,Raw Material,Low,2025-06-20,2025-06-29,168,320.0,53760.0,Net 60,Land,312.9,2.9,79.9,3,0,2025-06-26,-3,Complete,0
+PO-2025-000756,SUP-035,Supplier Generic 35,CHINA,Component,Medium,2025-05-14,2025-05-24,246,6.75,1660.5,COD,Air,3322.0,14.5,80.7,5,0,2025-05-22,-2,Partial,0
+PO-2025-000152,SUP-042,Supplier Generic 42,SOUTH KOREA,Component,Low,2025-05-12,2025-06-02,951,5.96,5667.96,Net 60,Sea,4027.3,15.4,64.2,5,0,2025-06-01,-1,Complete,0
+PO-2025-000512,SUP-050,Supplier Generic 50,Indonesia,Raw Material,Medium,2025-04-29,2025-05-01,1802,12.59,22687.18,Net 30,Land,347.8,6.2,78.9,4,1,2025-05-12,11,Complete,1
+PO-2025-001810,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Component,Low,2025-01-12,2025-01-27,84,17.58,1476.72,Net 30,Air,2607.4,19.5,65.3,6,0,2025-01-27,0,Complete,0
+PO-2025-000389,SUP-016,PT Cahaya Logistik Industri,Indonesia,Raw Material,Medium,2025-05-26,2025-06-07,171,14.54,2486.34,Net 30,Land,355.4,10.2,67.7,5,0,2025-06-07,0,Complete,0
+PO-2025-001162,SUP-045,Supplier Generic 45,South Korea,Component,Medium,2025-02-26,2025-03-17,546,35.48,19372.08,COD,Air,5242.4,22.5,72.4,3,0,2025-03-28,11,Pending,1
+PO-2025-001480,SUP-041,Supplier Generic 41,China,Component,Medium,2025-03-31,2025-04-27,1785,15.21,27149.85,Net 30,Sea,3622.4,18.1,43.3,9,1,2025-04-27,0,Complete,0
+PO-2025-001362,SUP-023,Supplier Generic 23,India,Raw Material,Medium,2025-01-31,2025-02-11,1527,,,Net 60,Air,4702.3,17.2,48.9,4,0,2025-02-09,-2,Complete,0
+PO-2025-001619,SUP-028,Supplier Generic 28,Indonesia,Component,High,2025-04-05,2025-04-08,1206,11.72,14134.32,COD,Land,264.1,4.4,83.4,7,1,2025-04-07,-1,Complete,0
+PO-2025-002241,SUP-005,PT Anugerah Kemasan,Indonesia,MRO,Medium,2025-03-07,2025-03-09,1897,24.42,46324.74,Net 30,Land,327.7,2.0,98.1,6,1,2025-03-08,-1,Complete,0
+PO-2025-000239,SUP-040,Supplier Generic 40,JAPAN,Component,Medium,2025-03-17,2025-04-05,3667,106.53,390645.51,Net 30,Sea ,5101.5,17.0,67.4,3,1,2025-04-07,2,Complete,1
+PO-2025-000165,SUP-005,PT Anugerah Kemasan,Indonesia,Raw Material,Medium,2025-06-28,2025-07-01,270,1.73,467.1,Net 90,Courier,333.3,2.0,98.1,7,0,2025-06-29,-2,Complete,0
+PO-2025-001511,SUP-044,Supplier Generic 44,China,Raw Material,Medium,2025-04-26,2025-05-20,1467,8.78,12880.26,Net 30,Sea,3478.1,18.9,76.0,1,1,2025-05-19,-1,Complete,0
+PO-2025-002066,SUP-047,Supplier Generic 47,China,Component,Medium,2025-02-08,2025-02-27,1142,14.61,16684.62,Net 30,Sea,3814.0,11.1,49.4,2,0,2025-02-24,-3,Complete,0
+PO-2025-001499,SUP-006,PT Sumber Teknik Mandiri,India,Raw Material,High,2025-02-13,2025-03-09,1062,16.78,17820.36,Net 30,Sea,5123.1,18.0,87.2,3,0,2025-03-09,0,Complete,0
+PO-2025-000974,SUP-005,PT Anugerah Kemasan,Indonesia,Raw Material,Low,2025-06-28,2025-06-30,288,5.99,1725.12,Net 30,Courier,386.4,2.0,98.1,6,0,2025-06-29,-1,Complete,0
+PO-2025-002369,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Raw Material,Medium,2025-02-27,2025-03-13,703,5.8,4077.4,Net 30,Air,2591.4,19.5,65.3,6,0,2025-03-12,-1,Complete,0
+PO-2025-001024,SUP-011,Tokyo Machining Corp,China,Raw Material,Low,2025-03-06,2025-03-21,1083,,,Net 30,Air,2998.9,17.8,67.1,2,1,2025-03-20,-1,Complete,0
+PO-2025-001601,SUP-005,PT Anugerah Kemasan,Indonesia,Component,Low,2025-06-08,2025-06-10,324,17.39,5634.36,Net 60,Land,368.2,2.0,98.1,8,0,2025-06-07,-3,Complete,0
+PO-2025-002262,SUP-045,Supplier Generic 45,South Korea,Packaging,Low,2025-03-15,2025-04-12,564,19.69,11105.16,Net 60,Sea,4577.7,22.5,72.4,11,1,2025-04-11,-1,Complete,0
+PO-2025-001341,SUP-037,Supplier Generic 37,indonesia,Raw Material,Medium,2025-05-09,2025-05-19,1273,6.2,7892.6,Net 30,Land,307.2,9.5,88.9,2,0,2025-05-16,-3,Complete,0
+PO-2025-001896,SUP-047,Supplier Generic 47,China,Component,Low,2025-04-02,2025-04-11,3997,23.33,93250.01,Net 60,Air,3435.9,11.1,49.4,9,1,2025-04-09,-2,Complete,0
+PO-2025-000682,SUP-033,Supplier Generic 33,China,Component,High,2025-02-24,2025-03-14,370,16.11,5960.7,Net 60,Sea,2896.7,13.3,81.7,4,0,2025-03-14,0,Complete,0
+PO-2025-001410,SUP-013,Bangkok Packaging Solutions,Germany,Component,Low,2025-03-22,2025-04-17,809,13.21,10686.89,Net 60,Sea,13517.1,21.0,53.4,6,1,2025-04-29,12,Complete,1
+PO-2025-001306,SUP-033,Supplier Generic 33,China,Packaging,Medium,2025-06-07,2025-06-24,1882,19.44,36586.08,Net 30,Sea,3055.9,13.3,81.7,1,0,2025-06-23,-1,Complete,0
+PO-2025-001770,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Packaging,Medium,2025-01-10,2025-02-05,750,3.65,2737.5,Net 60,Sea,4129.2,24.2,59.8,6,0,2025-02-06,1,Complete,1
+PO-2025-000484,SUP-032,Supplier Generic 32,India,Component,Low,2025-02-28,2025-03-23,1859,5.0,9295.0,Net 30,Sea,4490.9,19.2,90.1,6,0,2025-03-22,-1,Complete,0
+PO-2025-002162,SUP-047,Supplier Generic 47,China,Component,Medium,2025-01-24,2025-02-09,387,21.47,8308.89,Net 30,Sea,3705.4,11.1,49.4,6,0,2025-02-11,2,Complete,1
+PO-2025-002226,SUP-047,Supplier Generic 47,China,Component,Medium,2025-01-08,2025-01-26,537,5.87,3152.19,Net 30,Sea,3007.5,11.1,49.4,8,0,2025-01-28,2,Complete,1
+PO-2025-000854,SUP-050,Supplier Generic 50,Indonesia,Raw Material,Medium,2025-01-19,2025-01-23,903,17.17,15504.51,Net 30,Land,339.0,6.2,78.9,6,0,2025-01-26,3,Complete,1
+PO-2025-002368,SUP-013,Bangkok Packaging Solutions,Germany,Packaging,High,2025-04-09,2025-04-29,996,26.25,26145.0,Net 90,Air,11952.5,21.0,53.4,9,1,2025-04-30,1,Complete,1
+PO-2025-000959,SUP-036,Supplier Generic 36,Indonesia,Raw Material,Low,2025-05-05,2025-05-07,207,18.71,3872.97,COD,Land,352.2,3.4,40.0,8,0,2025-05-05,-2,Complete,0
+PO-2025-001853,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Component,Medium,2025-01-15,2025-02-16,519,8.8,4567.2,Net 60,Sea,5078.8,24.2,59.8,3,0,2025-02-14,-2,Complete,0
+PO-2025-002082,SUP-029,Supplier Generic 29,INDONESIA,Component,High,2025-03-07,2025-03-17,325,5.5,1787.5,Net 30,Courier,353.9,8.5,40.0,12,1,2025-03-17,0,Complete,0
+PO-2025-000552,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Component,Medium,2025-03-13,2025-04-11,2717,10.92,29669.64,Net 90,Sea,5174.3,24.2,59.8,6,1,2025-04-09,-2,Complete,0
+PO-2025-000674,SUP-046,Supplier Generic 46,South Korea,Component,Low,2025-04-04,2025-04-30,2656,16.27,43213.12,Net 30,Sea,5933.4,20.8,93.5,8,1,2025-04-30,0,Complete,0
+PO-2025-000122,SUP-010,Deutsche Praezisionsteile GmbH,China,Component,High,2025-05-14,2025-05-27,231,23.84,5507.04,Net 30,Air,3184.0,17.0,64.2,7,0,2025-06-07,11,Complete,1
+PO-2025-000877,SUP-020,PT Wijaya Sparepart Utama,Germany,Component,Medium,2025-02-09,2025-03-11,440,8.49,3735.6,Net 30,Sea,11577.3,23.3,57.9,9,0,2025-03-15,4,Complete,1
+PO-2025-002362,SUP-041,Supplier Generic 41,China,Packaging,Medium,2025-06-26,2025-07-21,577,2.39,1379.03,COD,Sea,2787.1,18.1,43.3,9,0,2025-07-19,-2,Complete,0
+PO-2025-002281,SUP-016,PT Cahaya Logistik Industri, Indonesia ,Component,Low,2025-03-11,2025-03-21,432,19.91,8601.12,Net 30,Courier,386.3,10.2,67.7,7,1,2025-03-21,0,Complete,0
+PO-2025-000579,SUP-048,Supplier Generic 48,Indonesia,Component,Medium,2025-03-04,2025-03-11,520,6.78,3525.6,Net 30,Land,310.5,5.9,96.4,7,1,2025-03-11,0,Complete,0
+PO-2025-002462,SUP-015,KL Electronic Parts,China,Raw Material,Low,2025-05-12,2025-06-03,604,7.27,4391.08,Net 30,Sea,2939.1,19.7,79.7,8,0,2025-06-11,8,Complete,1
+PO-2025-000107,SUP-007,Global Parts Co.,USA,MRO,Medium,2025-02-09,2025-03-16,673,20.6,13863.8,Net 30,Sea,14836.2,30.2,59.5,3,0,2025-03-16,0,Complete,0
+PO-2025-001751,SUP-016,PT Cahaya Logistik Industri,Indonesia,Component,Medium,2025-05-28,2025-06-10,166,21.39,3550.74,Net 90,Courier,370.7,10.2,67.7,3,0,2025-06-23,13,Complete,1
+PO-2025-000200,SUP-023,Supplier Generic 23,India,Raw Material,Low,2025-01-21,2025-02-04,984,27.35,26912.4,Net 60,Air,5193.6,17.2,48.9,10,0,2025-02-03,-1,Complete,0
+PO-2025-002352,SUP-036,Supplier Generic 36,Indonesia,Packaging,Medium,2025-03-19,2025-03-22,255,9.89,2521.95,Net 30,Courier,360.3,3.4,40.0,8,1,2025-03-31,9,Complete,1
+PO-2025-001532,SUP-009,Hanoi Component Supply,Indonesia,Raw Material,Medium,2025-02-16,2025-02-27,922,28.15,25954.3,Net 60,Courier,341.7,7.6,90.8,5,0,2025-02-28,1,Complete,1
+PO-2025-002384,SUP-014,Chennai Steel Works,South Korea,Packaging,Low,2025-05-12,2025-06-02,150,14.14,2121.0,Net 90,Air,5704.0,22.9,73.9,7,0,2025-06-15,13,Complete,1
+PO-2025-000385,SUP-024,Supplier Generic 24,Thailand,Packaging,High,2025-05-11,2025-05-19,470,5.7,2679.0,Net 60,Air,2681.3,11.9,99.0,10,0,2025-05-29,10,Complete,1
+PO-2025-001149,SUP-042,Supplier Generic 42,South Korea,Packaging,Low,2025-01-22,2025-02-03,828,10.13,8387.64,Net 60,Air,5113.3,15.4,64.2,9,0,2025-01-31,-3,Complete,0
+PO-2025-001988,SUP-042,Supplier Generic 42,South Korea,Packaging,Medium,2025-04-25,2025-05-17,447,26.28,11747.16,Net 60,Sea,5710.0,15.4,64.2,3,1,2025-05-18,1,Complete,1
+PO-2025-001459,SUP-012,Seoul Alloy Industries,Malaysia,Component,Low,2025-03-11,2025-03-22,247,42.37,10465.39,Net 90,Sea,1732.4,6.8,96.6,4,1,2025-03-19,-3,Complete,0
+PO-2025-001135,SUP-005,PT Anugerah Kemasan,Indonesia,Raw Material,Low,2025-04-02,2025-04-04,1609,20.8,33467.2,Net 30,Courier,360.3,2.0,98.1,3,1,2025-04-17,13,Complete,1
+PO-2025-001535,SUP-026,Supplier Generic 26,Indonesia,Component,Medium,2025-06-18,2025-06-20,351,3.09,1084.59,Net 90,Courier ,324.6,2.0,83.4,4,0,2025-06-20,0,Complete,0
+PO-2025-000505,SUP-033,Supplier Generic 33,China,MRO,Low,2025-06-10,2025-06-28,446,14.76,6582.96,COD,Sea,3839.0,13.3,81.7,9,0,2025-06-28,0,Complete,0
+PO-2025-001533,SUP-008,Shenzhen Precision Metals,South Korea,Raw Material,Low,2025-03-03,2025-03-19,264,8.0,2112.0,Net 30,Sea,5216.7,14.4,61.0,11,1,2025-03-27,8,Complete,1
+PO-2025-000946,SUP-031,Supplier Generic 31,usa,Component,High,2025-03-28,2025-05-03,2541,13.09,33261.69,Net 90,Sea,16097.0,30.5,89.8,9,1,2025-04-30,-3,Complete,0
+PO-2025-000799,SUP-013,Bangkok Packaging Solutions,Germany,Component,Medium,2025-03-01,2025-04-01,2920,9.58,27973.6,Net 60,Sea,10705.9,21.0,53.4,1,1,2025-04-10,9,Complete,1
+PO-2025-002121,SUP-049,Supplier Generic 49,Japan,MRO,Medium,2025-03-30,2025-04-16,212,8.67,1838.04,Net 60,Air,6654.9,20.2,40.0,7,1,2025-04-26,10,Complete,1
+PO-2025-000745,SUP-040,Supplier Generic 40,Japan,Raw Material,Low,2025-02-28,2025-03-23,523,3.9,2039.7,Net 60,Sea,5324.9,17.0,67.4,6,0,2025-03-20,-3,Pending,0
+PO-2025-000798,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Raw Material,Low,2025-01-19,2025-02-12,85,24.03,2042.55,Net 30,Sea,2484.7,19.5,65.3,7,0,2025-02-09,-3,Complete,0
+PO-2025-002060,SUP-016,PT Cahaya Logistik Industri,Indonesia,Raw Material,High,2025-01-10,2025-01-21,2459,4.55,11188.45,Net 30,Land,350.5,10.2,67.7,4,0,2025-01-19,-2,Complete,0
+PO-2025-002473,SUP-003,PT Baja Presisi Indonesia,Thailand,Component,Low,2025-05-31,2025-06-21,3339,20.16,67314.24,Net 30,Sea,2117.4,14.9,78.5,4,0,2025-06-20,-1,Complete,0
+PO-2025-001152,SUP-039,Supplier Generic 39,Indonesia,Raw Material,High,2025-02-15,2025-02-18,245,7.39,1810.55,Net 30,land,345.2,2.9,79.9,6,0,2025-02-16,-2,Complete,0
+PO-2025-001332,SUP-027,Supplier Generic 27,China,Raw Material,High,2025-02-11,2025-03-09,817,7.3,5964.1,COD,Sea,2803.8,20.3,50.7,8,0,2025-03-12,3,Complete,1
+PO-2025-000194,SUP-005,PT Anugerah Kemasan,Indonesia,Component,Medium,2025-03-12,2025-03-15,1473,45.48,66992.04,Net 60,Courier,370.5,2.0,98.1,2,1,2025-03-15,0,Complete,0
+PO-2025-000361,SUP-036,Supplier Generic 36,Indonesia,Raw Material,Medium,2025-04-26,2025-04-28,116,12.53,1453.48,Net 90,Courier,343.1,3.4,40.0,7,1,2025-04-26,-2,Complete,0
+PO-2025-001070,SUP-013,Bangkok Packaging Solutions,Germany,Component,High,2025-06-19,2025-07-19,3916,27.13,106241.08,Net 90,Sea,11767.6,21.0,53.4,4,0,2025-07-17,-2,Complete,0
+PO-2025-001918,SUP-029,Supplier Generic 29,Indonesia,Packaging,Low,2025-01-28,2025-02-02,267,4.8,1281.6,Net 90,Land,382.8,8.5,40.0,15,0,2025-02-01,-1,Complete,0
+PO-2025-000292,SUP-026,Supplier Generic 26,Indonesia,Raw Material,Low,2025-06-18,2025-06-22,750,3.11,2332.5,Net 30,Land,341.9,2.0,83.4,2,0,2025-07-06,14,Complete,1
+PO-2025-002464,SUP-009,Hanoi Component Supply,Indonesia,Component,Low,2025-02-11,2025-02-18,188,13.3,2500.4,Net 60,Land,380.3,7.6,90.8,5,0,2025-02-16,-2,Complete,0
+PO-2025-001867,SUP-015,KL Electronic Parts,China,Component,Medium,2025-03-31,2025-04-23,111,11.03,1224.33,Net 60,Sea,3689.7,19.7,79.7,2,1,2025-04-27,4,Complete,1
+PO-2025-000067,SUP-007,Global Parts Co.,USA,Raw Material,Medium,2025-02-18,2025-03-24,731,12.29,8983.99,Net 30,Sea,15909.7,30.2,59.5,10,0,2025-03-21,-3,Complete,0
+PO-2025-001953,SUP-004,PT Karya Plastik Sejahtera,Japan,Packaging,Low,2025-06-21,2025-07-16,693,7.9,5474.7,Net 30,Sea,5802.6,18.9,59.3,5,0,2025-07-14,-2,Complete,0
+PO-2025-001740,SUP-024,Supplier Generic 24,Thailand,Raw Material,Medium,2025-03-05,2025-03-22,3248,4.99,16207.52,Net 60,Sea ,1916.4,11.9,99.0,7,1,2025-03-21,-1,Complete,0
+PO-2025-000295,SUP-014,Chennai Steel Works,South Korea,Raw Material,Low,2025-04-09,2025-05-10,1499,13.36,20026.64,Net 60,Sea,5298.7,22.9,73.9,9,1,2025-05-07,-3,Complete,0
+PO-2025-001651,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Raw Material,Medium,2025-05-10,2025-06-04,1848,27.75,51282.0,COD,Sea,2633.6,19.5,65.3,5,0,2025-06-01,-3,Complete,0
+PO-2025-001023,SUP-001,PT Sinar Logam Jaya,South Korea,Component,Low,2025-03-02,2025-03-24,412,21.98,9055.76,Net 30,Sea,4872.3,18.3,85.9,5,1,2025-03-24,0,Complete,0
+PO-2025-001794,SUP-007,Global Parts Co.,USA,Component,Medium,2025-01-25,2025-02-21,625,7.92,4950.0,Net 90,Air,17014.2,30.2,59.5,7,0,2025-02-21,0,Complete,0
+PO-2025-001703,SUP-015,KL Electronic Parts,China,Component,Medium,2025-03-17,2025-04-12,101,13.48,1361.48,Net 60,Sea,3433.6,19.7,79.7,2,1,2025-04-10,-2,Complete,0
+PO-2025-002415,SUP-018,PT Bumi Kemasan Lestari,Indonesia,MRO,Low,2025-06-08,2025-06-14,782,6.27,4903.14,Net 60,Courier,390.7,6.3,51.1,9,0,2025-06-11,-3,Complete,0
+PO-2025-000752,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,High,2025-01-02,2025-01-20,1578,5.98,9436.44,Net 90,Air,11811.3,23.3,57.9,9,0,2025-01-20,0,Complete,0
+PO-2025-001352,SUP-046,Supplier Generic 46,South Korea,Component,High,2025-04-10,2025-04-30,937,8.7,8151.9,COD,Air,6085.5,20.8,93.5,7,1,2025-04-30,0,Complete,0
+PO-2025-000115,SUP-013,Bangkok Packaging Solutions,Germany,Raw Material,Low,2025-02-20,2025-03-18,671,5.05,3388.55,Net 60,Sea,9505.5,21.0,53.4,6,0,2025-03-16,-2,Complete,0
+PO-2025-002420,SUP-001,PT Sinar Logam Jaya,South Korea,Component,Medium,2025-06-14,2025-07-06,485,53.64,26015.4,COD,Sea,4881.5,18.3,85.9,4,0,2025-07-04,-2,Complete,0
+PO-2025-000163,SUP-028,Supplier Generic 28,Indonesia,Raw Material,Low,2025-04-06,2025-04-08,762,6.33,4823.46,Net 30,Courier,384.8,4.4,83.4,5,1,2025-04-06,-2,Complete,0
+PO-2025-000247,SUP-043,Supplier Generic 43,Japan,MRO,Medium,2025-06-18,2025-07-11,1267,7.93,10047.31,Net 60,Sea,5189.9,18.0,63.2,3,0,2025-07-18,7,Complete,1
+PO-2025-000776,SUP-025,Supplier Generic 25,South Korea,MRO,Medium,2025-03-15,2025-04-12,1856,29.59,54919.04,Net 30,Sea,4670.2,22.0,76.1,6,1,2025-04-20,8,Complete,1
+PO-2025-000553,SUP-048,Supplier Generic 48,Indonesia,Raw Material,Medium,2025-04-21,2025-04-24,2048,53.82,110223.36,Net 30,Courier,324.4,5.9,96.4,4,1,2025-04-23,-1,Complete,0
+PO-2025-001114,SUP-050,Supplier Generic 50,Indonesia,Component,Medium,2025-02-24,2025-03-02,1846,10.17,18773.82,Net 60,Land,348.8,6.2,78.9,3,0,2025-03-02,0,Complete,0
+PO-2025-000845,SUP-015,KL Electronic Parts,China,Component,Medium,2025-03-10,2025-04-02,3432,9.22,31643.04,Net 60,Sea,2445.8,19.7,79.7,2,1,2025-04-01,-1,Complete,0
+PO-2025-002065,SUP-016,PT Cahaya Logistik Industri,Indonesia,Packaging,Medium,2025-04-27,2025-05-07,361,8.37,3021.57,Net 60,Land,344.5,10.2,67.7,5,1,2025-05-06,-1,Complete,0
+PO-2025-002061,SUP-027,Supplier Generic 27,China,Component,Low,2025-01-08,2025-01-27,461,5.78,2664.58,Net 90,Air,2576.5,20.3,50.7,6,0,2025-01-24,-3,Partial,0
+PO-2025-000863,SUP-006,PT Sumber Teknik Mandiri,India,Component,High,2025-05-02,2025-05-16,55,5.7,313.5,Net 60,Air,4996.9,18.0,87.2,3,0,2025-05-13,-3,Pending,0
+PO-2025-000502,SUP-037,Supplier Generic 37,Indonesia,Packaging,Medium,2025-02-09,2025-02-19,190,45.98,8736.2,Net 30,Courier,329.7,9.5,88.9,6,0,2025-02-19,0,Complete,0
+PO-2025-002392,SUP-019,PT Teknindo Sukses Mandiri,South Korea,Raw Material,Medium,2025-05-14,2025-06-14,914,67.79,61960.06,Net 90,Sea,5535.1,24.2,59.8,4,0,2025-06-13,-1,Complete,0
+PO-2025-000898,SUP-035,Supplier Generic 35,China,Packaging,Medium,2025-03-03,2025-03-25,2690,22.59,60767.1,Net 30,Sea,3224.8,14.5,80.7,7,1,2025-03-24,-1,Complete,0
+PO-2025-002444,SUP-044,Supplier Generic 44,China,Component,High,2025-01-22,2025-02-05,311,13.35,4151.85,Net 30,Air,2848.6,18.9,76.0,3,0,2025-02-02,-3,Complete,0
+PO-2025-000677,SUP-050,Supplier Generic 50,Indonesia,Component,Medium,2025-04-16,2025-04-27,2390,14.98,35802.2,Net 30,Land,300.4,6.2,78.9,1,1,2025-05-03,6,Complete,1
+PO-2025-000501,SUP-026,Supplier Generic 26, Indonesia ,Raw Material,High,2025-01-23,2025-01-25,6769,51.29,347182.01,Net 30,Courier,315.8,2.0,83.4,7,0,2025-01-25,0,Complete,0
+PO-2025-001912,SUP-001,PT Sinar Logam Jaya,South Korea,Component,Low,2025-06-27,2025-07-13,508,11.49,5836.92,Net 30,Air,5561.4,18.3,85.9,3,0,2025-07-10,-3,Complete,0
+PO-2025-001107,SUP-016,PT Cahaya Logistik Industri, Indonesia ,Component,Medium,2025-01-15,2025-01-22,57,46.5,2650.5,Net 90,Courier,292.6,10.2,67.7,2,0,2025-01-19,-3,Complete,0
+PO-2025-001378,SUP-010,Deutsche Praezisionsteile GmbH,China,MRO,Low,2025-02-08,2025-03-02,793,5.08,4028.44,COD,Sea,4032.2,17.0,64.2,4,0,2025-03-07,5,Complete,1
+PO-2025-000601,SUP-036,Supplier Generic 36,Indonesia,Raw Material,High,2025-06-24,2025-06-30,343,8.67,2973.81,Net 60,Land,379.9,3.4,40.0,8,0,2025-07-03,3,Pending,1
+PO-2025-000685,SUP-043,Supplier Generic 43,Japan,Raw Material,Low,2025-05-26,2025-06-17,340,18.82,6398.8,Net 30,Sea,6140.5,18.0,63.2,9,0,2025-06-14,-3,Complete,0
+PO-2025-001491,SUP-007,Global Parts Co.,USA,Packaging,Medium,2025-05-16,2025-06-19,484,14.0,6776.0,Net 90,Sea,16109.5,30.2,59.5,7,0,2025-06-16,-3,Complete,0
+PO-2025-001963,SUP-029,Supplier Generic 29,Indonesia,Raw Material,Low,2025-01-23,2025-02-01,210,5.65,1186.5,Net 90,Courier,376.7,8.5,40.0,6,0,2025-02-01,0,Complete,0
+PO-2025-001472,SUP-013,Bangkok Packaging Solutions,Germany,MRO,Low,2025-02-19,2025-03-15,1124,38.75,43555.0,Net 60,Sea,10409.6,21.0,53.4,7,0,2025-03-12,-3,Complete,0
+PO-2025-002363,SUP-011,Tokyo Machining Corp,China,Component,Low,2025-01-25,2025-02-08,848,24.43,20716.64,COD,Air,3151.4,17.8,67.1,10,0,2025-02-05,-3,Complete,0
+PO-2025-001879,SUP-016,PT Cahaya Logistik Industri,Indonesia,Packaging,Medium,2025-06-17,2025-06-25,82,50.88,4172.16,Net 30,Courier,401.6,10.2,67.7,6,0,2025-06-24,-1,Complete,0
+PO-2025-002019,SUP-023,Supplier Generic 23,India,Raw Material,High,2025-02-18,2025-03-08,679,6.47,4393.13,Net 30,Air,4339.1,17.2,48.9,11,0,2025-03-09,1,Complete,1
+PO-2025-001716,SUP-027,Supplier Generic 27,China,Packaging,Medium,2025-03-08,2025-03-25,1557,5.55,8641.35,Net 30,Air,3260.5,20.3,50.7,4,1,2025-03-25,0,Complete,0
+PO-2025-000272,SUP-016,PT Cahaya Logistik Industri,Indonesia,Packaging,High,2025-04-08,2025-04-19,2832,114.44,324094.08,Net 60,Land,376.5,10.2,67.7,5,1,2025-04-16,-3,Complete,0
+PO-2025-002170,SUP-008,Shenzhen Precision Metals,South Korea,Packaging,High,2025-04-02,2025-04-14,311,22.97,7143.67,Net 30,Air,5777.0,14.4,61.0,5,1,2025-04-14,0,Complete,0
+PO-2025-000378,SUP-020,PT Wijaya Sparepart Utama,Germany,Packaging,Medium,2025-02-28,2025-03-28,815,62.5,50937.5,Net 30,Sea,10019.5,23.3,57.9,5,0,2025-03-30,2,Complete,1
+PO-2025-001492,SUP-042,Supplier Generic 42,South Korea,Component,Medium,2025-04-07,2025-04-27,1187,6.02,7145.74,Net 90,Sea,5112.6,15.4,64.2,7,1,2025-04-27,0,Complete,0
+PO-2025-000019,SUP-011,Tokyo Machining Corp,China,Component,Medium,2025-05-27,2025-06-13,222,27.7,6149.4,Net 30,Air,2585.1,17.8,67.1,6,0,2025-06-12,-1,Complete,0
+PO-2025-001390,SUP-014,Chennai Steel Works,South Korea,Raw Material,High,2025-01-22,2025-02-10,178,23.87,4248.86,Net 60,Air,5228.8,22.9,73.9,4,0,2025-02-07,-3,Complete,0
+PO-2025-000717,SUP-009,Hanoi Component Supply,Indonesia,MRO,Medium,2025-03-10,2025-03-12,5956,11.41,67957.96,Net 60,Courier,342.0,7.6,90.8,1,1,2025-03-12,0,Complete,0
+PO-2025-002305,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Raw Material,Low,2025-02-12,2025-02-18,467,6.54,3054.18,Net 60,Land,370.7,6.3,51.1,6,0,2025-03-04,14,Complete,1
+PO-2025-001899,SUP-006,PT Sumber Teknik Mandiri,India,Raw Material,Medium,2025-05-07,2025-05-22,307,14.16,4347.12,Net 60,Air,4295.2,18.0,87.2,6,0,2025-05-19,-3,Complete,0
+PO-2025-000659,SUP-045,Supplier Generic 45,south korea,MRO,High,2025-03-22,2025-04-16,553,7.98,4412.94,COD,Sea,5680.6,22.5,72.4,5,1,2025-04-16,0,Complete,0
+PO-2025-002356,SUP-025,Supplier Generic 25,South Korea,Raw Material,High,2025-04-20,2025-05-17,531,7.93,4210.83,Net 30,sea,5269.3,22.0,76.1,9,1,2025-05-14,-3,Complete,0
+PO-2025-001839,SUP-050,Supplier Generic 50,Indonesia,Raw Material,High,2025-01-19,2025-01-22,856,34.24,29309.44,COD,Land,320.5,6.2,78.9,4,0,2025-01-19,-3,Complete,0
+PO-2025-001077,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Raw Material,Medium,2025-03-11,2025-03-18,455,14.11,6420.05,Net 30,Courier,357.5,6.3,51.1,8,1,2025-03-17,-1,Complete,0
+PO-2025-000455,SUP-032,Supplier Generic 32,India,Raw Material,Medium,2025-05-09,2025-05-30,1951,16.26,31723.26,Net 90,Sea,4951.5,19.2,90.1,1,0,2025-05-30,0,Complete,0
+PO-2025-001384,SUP-013,Bangkok Packaging Solutions,Germany,MRO,Low,2025-06-18,2025-07-16,1452,1.26,1829.52,Net 30,Sea,12358.8,21.0,53.4,13,0,2025-07-13,-3,Complete,0
+PO-2025-000403,SUP-037,Supplier Generic 37,Indonesia,Raw Material,Medium,2025-02-13,2025-02-25,246,9.37,2305.02,COD,Land,406.5,9.5,88.9,3,0,2025-02-23,-2,Complete,0
+PO-2025-000990,SUP-043,Supplier Generic 43,Japan,Packaging,Medium,2025-04-19,2025-05-11,403,46.09,18574.27,Net 90,Sea,6212.7,18.0,63.2,9,1,2025-05-10,-1,Complete,0
+PO-2025-000823,SUP-036,Supplier Generic 36,Indonesia,Raw Material,Low,2025-04-25,2025-04-29,188,45.45,8544.6,Net 30,Land,368.0,3.4,40.0,8,1,2025-04-28,-1,Complete,0
+PO-2025-000964,SUP-026,Supplier Generic 26,Indonesia,Raw Material,High,2025-02-07,2025-02-09,48,11.87,569.76,Net 30,Courier,388.3,2.0,83.4,9,0,2025-02-18,9,Complete,1
+PO-2025-001034,SUP-036,Supplier Generic 36,Indonesia,Component,Medium,2025-01-15,2025-01-19,731,-9.49,6937.19,Net 90,Land,309.0,3.4,40.0,6,0,2025-01-17,-2,Complete,0
+PO-2025-000175,SUP-005,PT Anugerah Kemasan,Indonesia,Raw Material,Medium,2025-04-30,2025-05-05,247,28.44,7024.68,Net 60,Land,297.6,2.0,98.1,4,1,2025-05-03,-2,Complete,0
+PO-2025-001531,SUP-029,Supplier Generic 29,Indonesia,Component,Medium,2025-01-30,2025-02-05,508,52.36,26598.88,Net 30,Courier,380.1,8.5,40.0,9,0,2025-02-09,4,Complete,1
+PO-2025-000123,SUP-001,PT Sinar Logam Jaya,South Korea,Component,Low,2025-03-18,2025-04-02,624,14.11,8804.64,Net 60,Air,6011.4,18.3,85.9,6,1,2025-03-31,-2,Complete,0
+PO-2025-000379,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Raw Material,Low,2025-03-08,2025-04-06,440,10.02,4408.8,Net 30,Sea,2856.0,19.5,65.3,3,1,2025-04-05,-1,Complete,0
+PO-2025-001872,SUP-017,PT Prima Rekayasa Komponen,Vietnam,MRO,Medium,2025-01-26,2025-02-22,327,16.52,5402.04,Net 60,Sea ,2333.9,19.5,65.3,3,0,2025-02-19,-3,Complete,0
+PO-2025-001772,SUP-003,PT Baja Presisi Indonesia,Thailand,Raw Material,Medium,2025-01-01,2025-01-20,3294,7.38,24309.72,COD,Sea,2489.7,14.9,78.5,6,0,2025-01-18,-2,Complete,0
+PO-2025-000909,SUP-028,Supplier Generic 28,Indonesia,Component,Low,2025-03-12,2025-03-18,818,12.42,10159.56,Net 60,Land,373.7,4.4,,6,1,2025-03-16,-2,Complete,0
+PO-2025-001424,SUP-021,Supplier Generic 21,USA,Packaging,High,2025-03-15,2025-04-08,279,9.29,2591.91,COD,Air,13501.5,27.5,76.2,3,1,2025-04-08,0,Complete,0
+PO-2025-000334,SUP-006,PT Sumber Teknik Mandiri,India,Raw Material,Medium,2025-06-12,2025-07-02,578,2.7,1560.6,Net 60,Sea,3499.1,18.0,87.2,4,0,2025-07-02,0,Complete,0
+PO-2025-001421,SUP-028,Supplier Generic 28,Indonesia,Packaging,Low,2025-02-15,2025-02-17,1677,6.75,11319.75,Net 30,Land,293.6,4.4,83.4,5,0,2025-02-15,-2,Complete,0
+PO-2025-000972,SUP-021,Supplier Generic 21,USA,Component,High,2025-06-03,2025-07-04,4133,48.29,199582.57,Net 60,Sea ,15436.9,27.5,76.2,4,0,2025-07-17,13,Complete,1
+PO-2025-002486,SUP-046,Supplier Generic 46,South Korea,MRO,Low,2025-05-08,2025-06-03,557,4.55,2534.35,Net 60,Sea,5026.9,20.8,93.5,2,0,2025-06-01,-2,Complete,0
+PO-2025-000763,SUP-012,Seoul Alloy Industries,Malaysia,Component,Medium,2025-02-04,2025-02-08,237,4.13,978.81,Net 30,Air,1773.3,6.8,96.6,4,0,2025-02-05,-3,Complete,0
+PO-2025-000733,SUP-037,Supplier Generic 37,indonesia,MRO,Low,2025-02-07,2025-02-16,1005,,,Net 30,Courier,364.3,9.5,88.9,3,0,2025-02-26,10,Complete,1
+PO-2025-000945,SUP-031,Supplier Generic 31,USA,Raw Material,Low,2025-01-08,2025-02-13,1447,18.01,26060.47,Net 30,Sea ,14424.4,30.5,89.8,6,0,2025-02-11,-2,Complete,0
+PO-2025-001807,SUP-011,Tokyo Machining Corp,China,Packaging,Low,2025-05-10,2025-06-04,276,5.28,1457.28,COD,Sea,3048.1,17.8,67.1,4,0,2025-06-03,-1,Complete,0
+PO-2025-001019,SUP-044,Supplier Generic 44,China,Component,Low,2025-01-08,2025-02-05,480,12.15,5832.0,Net 30,Sea,3056.9,18.9,76.0,5,0,2025-02-05,0,Complete,0
+PO-2025-001694,SUP-002,PT Mitra Komponen Nusantara,China,Packaging,Low,2025-01-15,2025-02-07,3104,19.71,61179.84,COD,Sea,3060.2,18.5,59.4,4,0,2025-02-05,-2,Complete,0
+PO-2025-000273,SUP-013,Bangkok Packaging Solutions,Germany,Packaging,Low,2025-04-29,2025-05-19,827,28.57,23627.39,Net 30,Air,12365.7,21.0,53.4,6,1,2025-05-19,0,Complete,0
+PO-2025-001494,SUP-007,Global Parts Co.,USA,MRO,Low,2025-03-08,2025-04-02,643,6.46,4153.78,Net 60,Air,18247.2,30.2,59.5,5,1,2025-04-01,-1,Complete,0
+PO-2025-000819,SUP-041,Supplier Generic 41,China,Raw Material,Medium,2025-01-29,2025-02-19,712,5.07,3609.84,Net 60,Sea,3191.1,18.1,43.3,7,0,2025-02-17,-2,Complete,0
+PO-2025-001701,SUP-031,Supplier Generic 31,USA,Packaging,Medium,2025-05-31,2025-07-04,1479,8.0,11832.0,Net 30,Sea,14451.2,30.5,89.8,2,0,2025-07-04,0,Complete,0
+PO-2025-001122,SUP-016,PT Cahaya Logistik Industri,Indonesia,Component,Low,2025-06-13,2025-06-25,1147,16.51,18936.97,Net 30,Land,334.3,10.2,67.7,7,0,2025-06-23,-2,Complete,0
+PO-2025-001915,SUP-047,Supplier Generic 47,China,Raw Material,Low,2025-02-04,2025-02-10,176,10.65,1874.4,Net 30,Air,3721.4,11.1,49.4,6,0,2025-02-07,-3,Complete,0
+PO-2025-000380,SUP-005,PT Anugerah Kemasan,Indonesia,Packaging,Medium,2025-01-27,2025-01-29,205,9.06,1857.3,Net 30,Land,338.8,2.0,98.1,8,0,2025-01-26,-3,Complete,0
+PO-2025-000344,SUP-016,PT Cahaya Logistik Industri,Indonesia,Component,Low,2025-01-22,2025-02-01,431,63.78,27489.18,Net 30,Courier,424.3,10.2,67.7,7,0,2025-01-29,-3,Complete,0
+PO-2025-001425,SUP-036,Supplier Generic 36,Indonesia,Raw Material,Medium,2025-04-22,2025-04-28,9598,15.66,150304.68,Net 60,Land,305.4,3.4,40.0,9,1,2025-05-08,10,Complete,1
+PO-2025-001821,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Packaging,Medium,2025-01-12,2025-02-08,460,8.84,4066.4,Net 30,Sea,2694.9,19.5,65.3,8,0,2025-02-08,0,Complete,0
+PO-2025-001000,SUP-044,Supplier Generic 44,China,Component,Low,2025-01-21,2025-02-15,890,22.64,20149.6,Net 30,Sea,3381.9,18.9,76.0,10,0,2025-02-15,0,Complete,0
+PO-2025-000849,SUP-028,Supplier Generic 28,Indonesia,MRO,High,2025-01-04,2025-01-06,369,8.2,3025.8,Net 30,Courier,350.6,4.4,83.4,4,0,2025-01-03,-3,Complete,0
+PO-2025-002142,SUP-039,Supplier Generic 39,Indonesia,Raw Material,Medium,2025-02-18,2025-02-23,546,12.58,6868.68,Net 60,Land,280.2,2.9,79.9,4,0,2025-02-21,-2,Partial,0
+PO-2025-000214,SUP-029,Supplier Generic 29,Indonesia,Packaging,Medium,2025-01-23,2025-01-30,1474,56.09,82676.66,Net 30,Land,325.4,8.5,40.0,6,0,2025-02-03,4,Complete,1
+PO-2025-000338,SUP-048,Supplier Generic 48,Indonesia,MRO,Low,2025-05-31,2025-06-05,598,3.99,2386.02,Net 60,Courier,304.3,5.9,96.4,5,0,2025-06-04,-1,Complete,0
+PO-2025-001466,SUP-013,Bangkok Packaging Solutions,Germany,Raw Material,Medium,2025-01-09,2025-02-04,1352,29.63,40059.76,Net 30,Sea,12197.7,21.0,53.4,4,0,2025-02-03,-1,Complete,0
+PO-2025-000071,SUP-002,PT Mitra Komponen Nusantara,China,MRO,Low,2025-01-22,2025-02-13,273,3.76,1026.48,Net 30,Sea,3402.5,18.5,59.4,8,0,2025-02-23,10,Complete,1
+PO-2025-001175,SUP-010,Deutsche Praezisionsteile GmbH,China,Raw Material,Low,2025-06-17,2025-06-27,278,19.22,5343.16,Net 60,Air,2962.1,17.0,64.2,7,0,2025-06-26,-1,Complete,0
+PO-2025-001089,SUP-007,Global Parts Co.,USA,MRO,High,2025-04-05,2025-05-12,576,18.61,10719.36,Net 60,Sea,14175.0,30.2,59.5,8,1,2025-05-09,-3,Complete,0
+PO-2025-002475,SUP-001,PT Sinar Logam Jaya,South Korea,Raw Material,Medium,2025-04-23,2025-05-14,1187,18.35,21781.45,Net 60,Sea,4703.1,18.3,85.9,9,1,2025-05-13,-1,Complete,0
+PO-2025-002092,SUP-016,PT Cahaya Logistik Industri,Indonesia,Raw Material,Medium,2025-01-21,2025-02-01,2476,11.87,29390.12,Net 60,Land,366.7,10.2,67.7,1,0,2025-01-29,-3,Complete,0
+PO-2025-000540,SUP-005,PT Anugerah Kemasan,Indonesia,Raw Material,Medium,2025-04-05,2025-04-08,280,6.45,1806.0,Net 60,Courier,315.1,2.0,98.1,1,1,2025-04-06,-2,Complete,0
+PO-2025-000602,SUP-030,Supplier Generic 30,Japan,Component,Low,2025-02-27,2025-03-29,546,30.53,16669.38,Net 90,Sea,6497.3,22.3,78.3,8,0,2025-03-26,-3,Complete,0
+PO-2025-002220,SUP-012,Seoul Alloy Industries,Malaysia,MRO,Low,2025-03-07,2025-03-18,522,3.76,1962.72,Net 60,Sea,1783.4,6.8,96.6,4,1,2025-03-16,-2,Complete,0
+PO-2025-001628,SUP-037,Supplier Generic 37,Indonesia,MRO,Low,2025-06-07,2025-06-14,792,24.16,19134.72,Net 30,Courier,417.5,9.5,88.9,6,0,2025-06-13,-1,Complete,0
+PO-2025-000807,SUP-010,Deutsche Praezisionsteile GmbH,China,Raw Material,Medium,2025-05-24,2025-06-18,565647,16.22,22432.26,Net 90,Sea,2937.5,17.0,64.2,2,0,2025-06-16,-2,Partial,0
+PO-2025-001485,SUP-019,PT Teknindo Sukses Mandiri,South Korea,MRO,High,2025-04-08,2025-05-07,333,19.2,6393.6,Net 30,Sea,4851.4,24.2,59.8,10,1,2025-05-07,0,Complete,0
+PO-2025-000728,SUP-022,Supplier Generic 22,China,Packaging,Medium,2025-01-30,2025-02-20,4701,42.33,198993.33,COD,Sea,2644.6,17.1,99.0,3,0,2025-02-19,-1,Complete,0
+PO-2025-001581,SUP-009,Hanoi Component Supply,Indonesia,Packaging,Low,2025-01-04,2025-01-11,1470,5.98,8790.6,Net 30,land,358.9,7.6,90.8,6,0,2025-01-08,-3,Complete,0
+PO-2025-000144,SUP-041,Supplier Generic 41,China,Component,Medium,2025-03-18,2025-04-13,90,18.77,1689.3,Net 60,Sea,3878.4,18.1,43.3,3,1,2025-04-10,-3,Complete,0
+PO-2025-000567,SUP-020,PT Wijaya Sparepart Utama, Germany ,Packaging,Medium,2025-03-21,2025-04-10,1123,54.93,61686.39,Net 60,Air,11388.3,23.3,57.9,9,1,2025-04-09,-1,Complete,0
+PO-2025-002455,SUP-032,Supplier Generic 32,India,Component,Low,2025-02-18,2025-03-14,152,17.2,2614.4,Net 30,Sea,4682.9,19.2,90.1,4,0,2025-03-11,-3,Complete,0
+PO-2025-001983,SUP-007,Global Parts Co.,USA,Component,Medium,2025-02-03,2025-03-12,1841,4.19,7713.79,Net 30,Sea,16276.4,30.2,59.5,8,0,2025-03-09,-3,Complete,0
+PO-2025-000691,SUP-018,PT Bumi Kemasan Lestari,Indonesia,Raw Material,Medium,2025-02-26,2025-03-07,859,2.91,2499.69,Net 30,Land,412.8,6.3,51.1,8,0,2025-03-21,14,Complete,1
+PO-2025-000146,SUP-047,Supplier Generic 47,China,MRO,Low,2025-05-17,2025-05-25,1211,14.35,17377.85,Net 60,Air,3272.4,11.1,49.4,8,0,2025-05-24,-1,Complete,0
+PO-2025-001835,SUP-033,Supplier Generic 33,China,Raw Material,Low,2025-03-28,2025-04-13,1421,29.66,42146.86,COD,Sea,3591.9,13.3,81.7,3,1,2025-04-17,4,Complete,1
+PO-2025-001112,SUP-050,Supplier Generic 50,Indonesia,Component,High,2025-01-14,2025-01-21,1694,3.44,5827.36,Net 90,Land,298.3,6.2,78.9,3,0,2025-01-21,0,Complete,0
+PO-2025-000688,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Component,High,2025-05-13,2025-05-30,477,33.28,15874.56,COD,Air,2856.0,19.5,65.3,3,0,2025-06-11,12,Complete,1
+PO-2025-001940,SUP-029,Supplier Generic 29,Indonesia,Raw Material,Low,2025-06-13,2025-06-18,2457,11.22,27567.54,Net 60,Land,388.4,8.5,40.0,10,0,2025-06-30,12,Complete,1
+PO-2025-001825,SUP-015,KL Electronic Parts,China,Component,High,2025-06-01,2025-06-14,2931,6.4,18758.4,Net 30,air,3158.8,19.7,79.7,7,0,2025-06-11,-3,Complete,0
+PO-2025-001456,SUP-038,Supplier Generic 38,China,Component,Low,2025-03-30,2025-04-21,91,12.45,1132.95,Net 30,Air,3735.6,19.9,70.2,7,1,2025-04-20,-1,Complete,0
+PO-2025-000392,SUP-046,Supplier Generic 46, South Korea ,Raw Material,Low,2025-05-24,2025-06-10,279,22.93,6397.47,Net 90,Air,5974.6,20.8,93.5,3,0,2025-06-09,-1,Complete,0
+PO-2025-000476,SUP-014,Chennai Steel Works,South Korea,Raw Material,Low,2025-02-16,2025-03-15,362,20.21,7316.02,Net 90,Sea,4941.1,22.9,73.9,5,0,2025-03-13,-2,Complete,0
+PO-2025-002093,SUP-040,Supplier Generic 40,Japan,Component,Medium,2025-05-18,2025-06-13,681,21.94,14941.14,Net 90,Sea,5844.1,17.0,67.4,2,0,2025-06-11,-2,Complete,0
+PO-2025-001621,SUP-023,Supplier Generic 23,India,MRO,Low,2025-06-14,2025-07-07,584,12.04,7031.36,Net 30,Sea,4639.9,17.2,48.9,11,0,2025-07-10,3,Complete,1
+PO-2025-001636,SUP-038,Supplier Generic 38,China,Raw Material,Medium,2025-04-13,2025-05-07,141,4.17,587.97,COD,sea,3378.1,19.9,70.2,7,1,2025-05-04,-3,Complete,0
+PO-2025-001161,SUP-012,Seoul Alloy Industries,Malaysia,Component,Low,2025-06-02,2025-06-13,918,16.03,14715.54,Net 90,Sea,1710.8,6.8,96.6,4,0,2025-06-13,0,Complete,0
+PO-2025-000223,SUP-024,Supplier Generic 24,Thailand,MRO,High,2025-01-30,2025-02-09,285,3.41,971.85,Net 60,Air,2209.7,11.9,99.0,5,0,2025-02-08,-1,Complete,0
+PO-2025-001053,SUP-004,PT Karya Plastik Sejahtera,Japan,Raw Material,High,2025-04-06,2025-04-29,2259,9.92,22409.28,Net 30,Sea,5877.4,18.9,59.3,8,1,2025-04-26,-3,Complete,0
+PO-2025-001312,SUP-048,Supplier Generic 48,Indonesia,Packaging,Medium,2025-05-22,2025-05-31,654,33.99,22229.46,Net 30,Land,352.5,5.9,96.4,3,0,2025-05-31,0,Complete,0
+PO-2025-000254,SUP-002,PT Mitra Komponen Nusantara,China,Component,Low,2025-02-12,2025-02-28,688,1.51,1038.88,Net 30,Air,2852.8,18.5,59.4,8,0,2025-02-27,-1,Complete,0
+PO-2025-000452,SUP-020,PT Wijaya Sparepart Utama,Germany,Raw Material,Medium,2025-02-11,2025-03-11,239,12.02,2872.78,Net 60,Sea,11901.0,23.3,57.9,7,0,2025-03-09,-2,Pending,0
+PO-2025-001259,SUP-028,Supplier Generic 28,Indonesia,MRO,High,2025-05-12,2025-05-16,170,14.98,2546.6,Net 60,Courier,356.7,4.4,83.4,3,0,2025-05-13,-3,Complete,0
+PO-2025-001880,SUP-009,Hanoi Component Supply,Indonesia,Raw Material,Low,2025-03-25,2025-03-31,327,7.85,2566.95,Net 30,Courier,254.4,7.6,90.8,5,1,2025-03-30,-1,Complete,0
+PO-2025-001486,SUP-001,PT Sinar Logam Jaya,South Korea,Packaging,Medium,2025-06-23,2025-07-15,1176,3.56,4186.56,Net 30,Sea,5525.6,18.3,85.9,1,0,2025-07-12,-3,Complete,0
+PO-2025-001020,SUP-040,Supplier Generic 40,Japan,MRO,Medium,2025-05-21,2025-06-09,1585,5.89,9335.65,Net 90,Sea,5969.2,17.0,67.4,8,0,2025-06-09,0,Complete,0
+PO-2025-000812,SUP-007,Global Parts Co.,USA,Raw Material,High,2025-04-29,2025-06-01,207,6.68,1382.76,Net 60,Sea,15683.6,30.2,59.5,6,1,2025-05-29,-3,Partial,0
+PO-2025-002487,SUP-039,Supplier Generic 39,Indonesia,Packaging,Low,2025-02-08,2025-02-10,1157,13.66,15804.62,Net 30,Land,326.5,2.9,79.9,7,0,2025-02-08,-2,Complete,0
+PO-2025-000506,SUP-028,Supplier Generic 28,Indonesia,Raw Material,High,2025-01-05,2025-01-07,420,10.1,4242.0,Net 30,Courier,402.0,4.4,83.4,7,0,2025-01-06,-1,Complete,0
+PO-2025-000184,SUP-031,Supplier Generic 31,USA,MRO,Low,2025-03-29,2025-05-02,3757,18.71,70293.47,Net 30,Sea,15382.7,30.5,89.8,3,1,2025-04-30,-2,Complete,0
+PO-2025-001718,SUP-016,PT Cahaya Logistik Industri,Indonesia,Component,Low,2025-05-22,2025-05-30,244,15.15,3696.6,Net 90,Land,346.1,10.2,67.7,11,0,2025-05-29,-1,Partial,0
+PO-2025-002219,SUP-041,Supplier Generic 41,China,Raw Material,Medium,2025-05-08,2025-05-29,812,6.0,4872.0,Net 30,sea,3232.8,18.1,43.3,5,0,2025-05-28,-1,Pending,0
+PO-2025-001426,SUP-044,Supplier Generic 44,China,Raw Material,Medium,2025-04-04,2025-04-27,1780,4.4,7832.0,Net 30,Sea,2918.6,18.9,76.0,3,1,2025-04-26,-1,Complete,0
+PO-2025-002489,SUP-015,KL Electronic Parts, China ,Component,Low,2025-02-07,2025-02-25,580,22.21,12881.8,Net 30,Air,2736.4,19.7,79.7,5,0,2025-02-25,0,Complete,0
+PO-2025-001891,SUP-027,Supplier Generic 27,China,Component,Medium,2025-05-05,2025-06-02,969,32.18,31182.42,Net 30,Sea,3153.2,20.3,50.7,9,0,2025-06-02,0,Complete,0
+PO-2025-002179,SUP-014,Chennai Steel Works,South Korea,Packaging,Medium,2025-03-17,2025-04-07,2962,4.77,14128.74,Net 60,Air,5174.4,22.9,73.9,8,1,2025-04-18,11,Complete,1
+PO-2025-002411,SUP-042,Supplier Generic 42,South Korea,Component,Medium,2025-05-29,2025-06-08,2365,6.93,16389.45,Net 30,Air,4853.9,15.4,64.2,6,0,2025-06-09,1,Complete,1
+PO-2025-001739,SUP-042,Supplier Generic 42,South Korea,Packaging,Medium,2025-05-16,2025-05-28,389,26.18,10184.02,Net 30,Air,5454.4,15.4,64.2,4,0,2025-05-28,0,Complete,0
+PO-2025-000890,SUP-045,Supplier Generic 45,South Korea,Component,Low,2025-02-27,2025-03-30,112,2.01,225.12,Net 30,Sea,4419.3,22.5,72.4,3,0,2025-03-28,-2,Pending,0
+PO-2025-002459,SUP-050,Supplier Generic 50,Indonesia,MRO,High,2025-01-19,2025-01-29,810,13.92,11275.2,Net 60,Courier,368.7,6.2,78.9,6,0,2025-01-27,-2,Complete,0
+PO-2025-002259,SUP-001,PT Sinar Logam Jaya,South Korea,Packaging,High,2025-05-20,2025-06-13,2087,3.19,6657.53,Net 90,Sea,5373.7,18.3,85.9,2,0,2025-06-23,10,Complete,1
+PO-2025-001800,SUP-041,Supplier Generic 41,China,Packaging,Low,2025-01-05,2025-01-30,1244,27.6,34334.4,COD,Sea,3761.3,18.1,43.3,6,0,2025-02-09,10,Complete,1
+PO-2025-001100,SUP-006,PT Sumber Teknik Mandiri,India,Packaging,High,2025-02-18,2025-03-15,1276,37.93,48398.68,Net 60,Sea,5155.2,18.0,87.2,4,0,2025-03-15,0,Complete,0
+PO-2025-002468,SUP-003,PT Baja Presisi Indonesia,Thailand,Packaging,Medium,2025-04-18,2025-04-28,666,14.58,9710.28,Net 60,Air,2320.3,14.9,78.5,11,1,2025-04-28,0,Complete,0
+PO-2025-000470,SUP-016,PT Cahaya Logistik Industri,Indonesia,Raw Material,Medium,2025-03-15,2025-03-25,253,8.35,2112.55,Net 60,Land,342.5,10.2,67.7,2,1,2025-03-25,0,Complete,0
+PO-2025-000462,SUP-010,Deutsche Praezisionsteile GmbH,China,Raw Material,High,2025-04-04,2025-04-18,804,,,Net 90,Air,2826.9,17.0,64.2,7,1,2025-04-16,-2,Complete,0
+PO-2025-001870,SUP-028,Supplier Generic 28,Indonesia,Raw Material,High,2025-02-01,2025-02-06,1337,12.76,17060.12,Net 30,Land,385.2,4.4,83.4,13,0,2025-02-04,-2,Complete,0
+PO-2025-001394,SUP-015,KL Electronic Parts,China,MRO,Medium,2025-05-03,2025-05-28,375,29.14,10927.5,Net 30,Sea ,2894.0,19.7,79.7,13,0,2025-05-27,-1,Complete,0
+PO-2025-000696,SUP-029,Supplier Generic 29,Indonesia,Raw Material,High,2025-03-01,2025-03-09,1387,9.48,13148.76,Net 60,Land,331.1,8.5,40.0,4,1,2025-03-22,13,Complete,1
+PO-2025-000929,SUP-007,Global Parts Co.,USA,Component,Medium,2025-02-04,2025-02-27,2649,42.3,112052.7,Net 30,Air,16776.0,30.2,59.5,6,0,2025-02-26,-1,Complete,0
+PO-2025-001373,SUP-016,PT Cahaya Logistik Industri,Indonesia,Component,Medium,2025-03-03,2025-03-13,940,6.31,5931.4,Net 60,Courier,385.3,10.2,67.7,6,1,2025-03-13,0,Complete,0
+PO-2025-000244,SUP-021,Supplier Generic 21,USA,Packaging,Low,2025-01-11,2025-02-04,1147,5.46,6262.62,COD,Air,13725.2,27.5,76.2,3,0,2025-02-03,-1,Complete,0
+PO-2025-001680,SUP-033,Supplier Generic 33,China,Component,Medium,2025-03-02,2025-03-22,734,23.77,17447.18,Net 30,Sea,3250.7,13.3,81.7,7,1,2025-03-19,-3,Complete,0
+PO-2025-000156,SUP-011,Tokyo Machining Corp,China,Raw Material,Medium,2025-02-20,2025-03-05,2114,22.47,47501.58,Net 90,Air,2745.0,17.8,67.1,7,0,2025-03-04,-1,Complete,0
+PO-2025-001151,SUP-006,PT Sumber Teknik Mandiri,India,Component,Medium,2025-05-23,2025-06-15,1395,6.81,9499.95,Net 60,Sea,5266.7,18.0,87.2,4,0,2025-06-27,12,Complete,1
+PO-2025-001047,SUP-001,PT Sinar Logam Jaya,South Korea,Component,High,2025-01-12,2025-01-27,685,8.34,5712.9,Net 30,Air,5483.8,18.3,85.9,3,0,2025-01-26,-1,Complete,0
+PO-2025-001322,SUP-003,PT Baja Presisi Indonesia,Thailand,Packaging,High,2025-04-04,2025-04-21,4131,9.33,38542.23,Net 30,Sea,2255.5,14.9,78.5,4,1,2025-04-24,3,Complete,1
+PO-2025-001613,SUP-002,PT Mitra Komponen Nusantara,China,Component,High,2025-04-18,2025-05-14,931,7.23,6731.13,Net 30,Sea,2443.0,18.5,59.4,9,1,2025-05-12,-2,Complete,0
+PO-2025-000498,SUP-044,Supplier Generic 44,China,Raw Material,Low,2025-01-26,2025-02-12,518,2.53,1310.54,Net 60,Air,3232.3,18.9,76.0,6,0,2025-02-10,-2,Complete,0
+PO-2025-001412,SUP-032,Supplier Generic 32,India,Raw Material,Medium,2025-05-27,2025-06-25,906,12.72,11524.32,Net 30,Sea,5927.5,19.2,90.1,1,0,2025-06-23,-2,Complete,0
+PO-2025-001921,SUP-017,PT Prima Rekayasa Komponen,Vietnam,Component,Medium,2025-04-22,2025-05-13,2117,7.91,16745.47,Net 90,Sea,2435.8,19.5,65.3,9,1,2025-05-12,-1,Complete,0
+PO-2025-002026,SUP-005,PT Anugerah Kemasan,Indonesia,Packaging,Low,2025-05-03,2025-05-05,2938,15.4,45245.2,,Land,388.0,2.0,,6,0,2025-05-05,0,Complete,0
+PO-2025-001528,SUP-006,PT Sumber Teknik Mandiri,India,Packaging,High,2025-04-15,2025-05-03,799,61.65,49258.35,COD,Air,4401.9,18.0,87.2,4,1,2025-05-10,7,Complete,1
+PO-2025-002447,SUP-009,Hanoi Component Supply,Indonesia,Packaging,Medium,2025-04-10,2025-04-16,412,,,Net 30,Courier,368.7,7.6,,3,1,2025-04-13,-3,Complete,0
+PO-2025-000253,SUP-047,Supplier Generic 47,China,Packaging,High,2025-04-04,2025-04-13,466,5.33,2483.78,Net 30,Air,3516.3,11.1,49.4,9,1,2025-04-15,2,Complete,1
+PO-2025-001301,SUP-021,Supplier Generic 21,USA,Raw Material,High,2025-06-04,2025-07-02,354,7.1,2513.4,COD,Sea,14793.1,27.5,76.2,4,0,2025-07-09,7,Complete,1
+PO-2025-000961,SUP-008,Shenzhen Precision Metals,South Korea,Component,Low,2025-03-09,2025-03-27,1498,20.99,31443.02,Net 30,Sea,4492.7,14.4,61.0,2,1,2025-04-06,10,Complete,1
+PO-2025-000906,SUP-001,PT Sinar Logam Jaya,South Korea,Raw Material,Low,2025-01-17,2025-02-07,4940,7.92,39124.8,Net 60,Sea,4950.5,18.3,85.9,7,0,2025-02-07,0,Partial,0
+PO-2025-001097,SUP-034,Supplier Generic 34,China,Packaging,Medium,2025-03-07,2025-03-29,351,19.45,6826.95,Net 30,Sea,3243.6,17.8,81.6,2,1,2025-03-27,-2,Complete,0

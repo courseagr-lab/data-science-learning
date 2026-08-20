@@ -53,3 +53,15 @@ def drop_duplicated(
     )
 
     return df
+
+
+def flag_native_price(df: pd.DataFrame, column: str = "unit_price_usd"):
+    df = df.copy()
+    
+    mask = df[column] < 0
+    n_negative = mask.sum()
+    
+    df.loc[mask, column] = np.nan
+    if n_negative > 0:
+        print(f"[flag_negative_price] {n_negative} nilai negatif di '{column}' → diset NaN")
+    return df
