@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Status](<https://img.shields.io/badge/Fase%201.1%20Python%20Basic-Selesai-success>)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 > Repository ini adalah dokumentasi perjalanan belajar Data Science saya dari nol, disusun berdasarkan roadmap terstruktur 8 fase yang saya rancang sendiri. Setiap materi dibangun dengan pola **penjelasan → implementasi kode → latihan mandiri**, bukan sekadar mengikuti tutorial langkah demi langkah.
 
@@ -43,7 +42,6 @@ Repository ini berisi dokumentasi pembelajaran Python fundamental sebagai **fond
 Pendekatan ini dipandu secara terstruktur menggunakan AI sebagai mentor pembelajaran (Claude), dengan saya sebagai pengambil keputusan atas scope, urutan, dan validasi tiap materi — bukan sekadar meng-copy jawaban.
 
 ---
-
 
 ## 🎯 Fokus Repository Saat Ini: Fase 1.1 — Python Basic
 
@@ -276,24 +274,3 @@ Setelah fondasi Python Basic ini tuntas, langkah berikutnya sesuai roadmap:
 2. **Python Advanced** — decorator, custom context manager, async/parallel processing, profiling
 3. **NumPy & Pandas** — di sinilah seluruh pola manual (filter, transform, aggregate manual di notebook 13) akan terasa jauh lebih ringkas lewat vectorization dan API `DataFrame`
 4. **Data Cleaning Framework** — proyek capstone Fase 1 penuh: pipeline cleaning end-to-end pada dataset dunia nyata
-
----
-
-## 👤 Tentang Saya
-
-**[Nama Anda]**
-📧 [email@example.com] · 💼 [LinkedIn] · 🐙 [GitHub]
-
-Sedang membangun karier di Data Science, dimulai dari fondasi yang kuat dan terdokumentasi. Repository ini adalah bukti proses belajar yang konsisten — bukan cuma tujuan akhirnya.
-
----
-
-## 📄 Lisensi
-
-Konten pembelajaran ini dibagikan di bawah lisensi [MIT](LICENSE) — bebas dipakai sebagai referensi belajar, dengan atribusi.
-
----
-
-<p align="center">
-  <i>⭐ Jika repo ini membantu perjalanan belajar Anda, silakan beri bintang!</i>
-</p>
