@@ -1,0 +1,4 @@
+ Beras 50000
+ Telur 28000
+ Minyak 32000
+ Gula 15000
