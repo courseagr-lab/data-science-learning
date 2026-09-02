@@ -8,23 +8,14 @@ def load_config(config_path: str = "config/config.yaml") -> dict:
         return yaml.safe_load(f)
 
 
-def time_based_split(
-    df: pd.DataFrame,
-    date_column: str,
-    split_date: str,
-) -> tuple[pd.DataFrame, pd.DataFrame]:
+def time_based_split(df: pd.DataFrame, date_column: str, split_date: str,) -> tuple[pd.DataFrame, pd.DataFrame]:
     df = df.copy()
     df[date_column] = pd.to_datetime(df[date_column])
     cutoff = pd.to_datetime(split_date)
     return df[df[date_column] < cutoff].copy(), df[df[date_column] >= cutoff].copy()
 
 
-def save_splits(
-    train_df: pd.DataFrame,
-    test_df: pd.DataFrame,
-    train_path: str,
-    test_path: str,
-) -> None:
+def save_splits(train_df: pd.DataFrame, test_df: pd.DataFrame, train_path: str, test_path: str,) -> None:
     for path in [train_path, test_path]:
         Path(path).parent.mkdir(parents=True, exist_ok=True)
     train_df.to_csv(train_path, index=False)
